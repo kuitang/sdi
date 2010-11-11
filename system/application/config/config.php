@@ -13,7 +13,7 @@
 */
 
 // CHANGE THIS PART IF YOU'RE RUNNING ON A DIFFERENT MACHINE!
-$config['base_url']	= "/~kuitang/cdi";
+$config['base_url']	= "/~kuitang/sdi";
 
 /*
 |--------------------------------------------------------------------------

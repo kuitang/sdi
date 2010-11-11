@@ -8,26 +8,40 @@ $name = $sess->userdata('uni');
 <html>
 <head>
   <title><?php echo $title ?> | Scholars Information Database</title>
-  <link rel="stylesheet" href="<?= site_url('css/default.css') ?>" type="text/css" />
+  <link rel="stylesheet" href="<?= site_url('css/blueprint/screen.css') ?>" type="text/css" media="screen, projection" />
+  <link rel="stylesheet" href="<?= site_url('css/blueprint/print.css') ?>" type="text/css" media="print"/>
   <link rel="stylesheet" href="<?= site_url('css/form.css') ?>" type="text/css" />
+  <!--[if lt IE 8]><link rel="stylesheet" href="<?= site_url('css/blueprint/print.css') ?>" type="text/css" media="screen, projection"><![endif]-->
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <link rel="stylesheet" href="<?= site_url('css/blueprint/screen.css') ?>" type="text/css" media="screen, projection" />
+  <link rel="stylesheet" href="<?= site_url('css/blueprint/plugins/fancy-type/screen.css') ?>" type="text/css" media="screen, projection" />
+  <link rel="stylesheet" href="<?= site_url('css/custom.css') ?>" type="text/css" media="screen,projection" />
 </head>
 <body>
-
-<header>
-<div id="username">
-<?php if ($name): ?>
-  Welcome <?= $name ?>. <?= anchor('user/logout', 'Logout') ?>
-<?php else: ?>
-  <?= anchor('user/login', 'Login') ?>
-<?php endif; ?>
-</div>
+<div class="container">
+<header class="span-24 last">
 <nav>
-{Navigation goes here}
+<ul id="user">
+  <?php if ($name): ?>
+    <li>Welcome <?= $name ?>.</li>
+    <li><?= anchor('user/editprofile', 'Edit Profile') ?></li>
+    <li><?= anchor('user/logout', 'Logout') ?></li>
+  <?php else: ?>
+    <li><?= anchor('user/login', 'Login') ?></li>
+  <?php endif; ?>
+</ul>
 </nav>
+
 <?php if (isset($flashmsg)): ?>
-  <div id="flash">
-  <?= $flashmsg ?>
+<div id="flash">
+<?= $flashmsg ?>
   </div>
 <?php endif; ?>
 </header>
+<div class="span-4">
+  <ul>
+  <li>Tag list forthcoming</li>
+  </ul>
+</div>
 
+<div class="span-20 last">

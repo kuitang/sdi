@@ -1,0 +1,12 @@
+nav ul li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+nav ul#user {
+  float: right;
+}
+
+footer {
+  text-align: right;
+}

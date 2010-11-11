@@ -1,0 +1,10 @@
+There are various configurations that point to /~kuitang/sdi as the application
+root. If you are running on a different environment, change those:
+  - In .htaccess
+  - In  system/application/config/config.php 
+
+Also, make sure you have the system/cache and system/log directories set to be
+writable by the web server. They are not included in the git repository.
+
+You need PHP5 with sqlite3 support.
+

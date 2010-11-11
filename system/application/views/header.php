@@ -8,6 +8,7 @@ $name = $sess->userdata('uni');
 <html>
 <head>
   <title><?php echo $title ?> | Scholars Information Database</title>
+  <script src="<?= site_url('js/custom.js') ?>" type="text/javascript"></script>
   <link rel="stylesheet" href="<?= site_url('css/blueprint/screen.css') ?>" type="text/css" media="screen, projection" />
   <link rel="stylesheet" href="<?= site_url('css/blueprint/print.css') ?>" type="text/css" media="print"/>
   <link rel="stylesheet" href="<?= site_url('css/form.css') ?>" type="text/css" />
@@ -15,33 +16,51 @@ $name = $sess->userdata('uni');
   <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
   <link rel="stylesheet" href="<?= site_url('css/blueprint/screen.css') ?>" type="text/css" media="screen, projection" />
   <link rel="stylesheet" href="<?= site_url('css/blueprint/plugins/fancy-type/screen.css') ?>" type="text/css" media="screen, projection" />
-  <link rel="stylesheet" href="<?= site_url('css/custom.css') ?>" type="text/css" media="screen,projection" />
+  <link rel="stylesheet" href="<?= site_url('css/custom.css') ?>" type="text/css" media="screen, projection" />
 </head>
 <body>
 <div class="container">
+
 <header class="span-24 last">
 <nav>
-<ul id="user">
-  <?php if ($name): ?>
-    <li>Welcome <?= $name ?>.</li>
-    <li><?= anchor('user/editprofile', 'Edit Profile') ?></li>
-    <li><?= anchor('user/logout', 'Logout') ?></li>
-  <?php else: ?>
-    <li><?= anchor('user/login', 'Login') ?></li>
-  <?php endif; ?>
+<ul id="user" class="col">
+  <li class="leftnav">
+  <form method="get" action="<?= site_url('/home/search/') ?>" method="GET" autocomplete="on">
+  <input value placeholder="Search Projects" name="q" id="search-query" type="search" />
+  </form>
+  </li>
+<?php if ($name): ?>
+  <li>Welcome <?= $name ?>.</li>
+  <li><?= anchor('user/editprofile', 'Edit Profile') ?></li>
+  <li><?= anchor('user/logout', 'Logout') ?></li>
+<?php else: ?>
+  <li><?= anchor('user/signup', 'Sign up') ?></li>
+  <li><?= anchor('user/login', 'Login') ?></li>
+<?php endif; ?>
 </ul>
 </nav>
-
 <?php if (isset($flashmsg)): ?>
 <div id="flash">
 <?= $flashmsg ?>
   </div>
 <?php endif; ?>
 </header>
-<div class="span-4">
+<div class="span-5">
+<div class="col">
+<nav id="leftbar">
   <ul>
-  <li>Tag list forthcoming</li>
+  <li><?= anchor('/', 'Home') ?></li>
+  <li><?= anchor('/home/advsearch', 'Advanced Search') ?></li>
+  <li><?= anchor('/home/submit', 'Submit') ?></li>
   </ul>
+</nav>
+<nav id="taglist">
+<ul>
+  <li>Tag list forthcoming.</li>
+</ul>
+</nav>
+</div>
 </div>
 
-<div class="span-20 last">
+<div class="span-19 last">
+<div class="col">

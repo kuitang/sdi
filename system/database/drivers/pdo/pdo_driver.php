@@ -133,8 +133,8 @@ class CI_DB_pdo_driver extends CI_DB {
 	function _execute($sql)
 	{
 		$sql = $this->_prep_query($sql);
-		log_message('debug','SQL : '.$sql);
-		return @$this->conn_id->query($sql);
+		log_message('debug','SQL (REAL): '.$sql);
+    return $this->conn_id->query($sql);
 	}
 
 	// --------------------------------------------------------------------

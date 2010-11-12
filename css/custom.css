@@ -12,6 +12,15 @@ body {
   background-position: right top;
 } 
 
+ul input {
+  margin-bottom: 0;
+}
+
+nav ul {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
 .metacontainer {
   /*
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#75B2DD', endColorstr=rgb(212, 233, 243)); 
@@ -55,15 +64,6 @@ body {
 
 
 /* Reset some blueprint typography for our own use */
-ul input {
-  margin-bottom: 0;
-}
-
-nav ul {
-  margin: 0 0 0 0;
-  padding: 0 0 0 0;
-}
-
 
 header {
   padding-top: 10px;
@@ -87,6 +87,18 @@ header #logo {
   padding: 10px 10px 10px 10px;
   margin-bottom: 10px;
 }
+
+header .error {
+  background: red;
+}
+
+header #flash {
+  margin-top: 45px;
+  text-align: center;
+  background: yellow;
+}
+
+
 #logo, h1, h2, h3, h4, h5, h6 {
   color: rgb(68, 68, 68);
 }

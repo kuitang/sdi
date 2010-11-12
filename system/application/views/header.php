@@ -1,7 +1,5 @@
 <?php $sess = get_instance()->session;
-if (isset($sess->flashdata)) {
-  $flashmsg = $sess->flashdata('msg');
-}
+$flashmsg = $sess->flashdata('msg');
 $name = $sess->userdata('uni');
 ?><!DOCTYPE html>
 <html>
@@ -34,18 +32,18 @@ $name = $sess->userdata('uni');
   </li>
 <?php if ($name): ?>
   <li>Welcome <?= $name ?>.</li>
-  <li><?= anchor('user/editprofile', 'Edit Profile') ?></li>
-  <li><?= anchor('user/logout', 'Logout') ?></li>
+  <li><?= anchor('users/editprofile', 'Edit Profile') ?></li>
+  <li><?= anchor('users/logout', 'Logout') ?></li>
 <?php else: ?>
-  <li><?= anchor('user/signup', 'Sign up') ?></li>
-  <li><?= anchor('user/login', 'Login') ?></li>
+  <li><?= anchor('users/signup', 'Sign up') ?></li>
+  <li><?= anchor('users/login', 'Login') ?></li>
 <?php endif; ?>
 </ul>
 </nav>
-<?php if (isset($flashmsg)): ?>
-<div id="flash">
-<?= $flashmsg ?>
-  </div>
+<?php if (isset($flashmsg) && !empty($flashmsg)): ?>
+<div id="flash" class="col <?php if (isset($flasherr)) { echo 'error'; } ?>">
+  <?= $flashmsg ?>
+</div>
 <?php endif; ?>
 </header>
 <div class="span-5">

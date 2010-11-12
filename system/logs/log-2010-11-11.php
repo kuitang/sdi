@@ -13665,3 +13665,11639 @@ ERROR - 2010-11-11 14:45:04 --> Severity: Warning  --> Invalid argument supplied
 DEBUG - 2010-11-11 14:45:04 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
 DEBUG - 2010-11-11 14:45:04 --> Final output sent to browser
 DEBUG - 2010-11-11 14:45:04 --> Total execution time: 0.0707
+DEBUG - 2010-11-11 15:05:32 --> Config Class Initialized
+DEBUG - 2010-11-11 15:05:32 --> Hooks Class Initialized
+DEBUG - 2010-11-11 15:05:32 --> URI Class Initialized
+DEBUG - 2010-11-11 15:05:32 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 15:05:32 --> Router Class Initialized
+DEBUG - 2010-11-11 15:05:32 --> Output Class Initialized
+DEBUG - 2010-11-11 15:05:32 --> Input Class Initialized
+DEBUG - 2010-11-11 15:05:32 --> XSS Filtering completed
+DEBUG - 2010-11-11 15:05:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 15:05:32 --> Language Class Initialized
+DEBUG - 2010-11-11 15:05:32 --> Loader Class Initialized
+DEBUG - 2010-11-11 15:05:32 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 15:05:32 --> Session Class Initialized
+DEBUG - 2010-11-11 15:05:32 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 15:05:32 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 15:05:32 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 15:05:32 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 15:05:32 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 15:05:32 --> PDO driver connection ok
+DEBUG - 2010-11-11 15:05:32 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd9c85e8f8a8f0f59a8f17377d1037a90'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 15:05:32 --> SQL : UPDATE ci_sessions SET last_activity = 1289505932, session_id = '65b0fb5b1d5a38b8f4aa28a2e5a9b207' WHERE session_id = 'd9c85e8f8a8f0f59a8f17377d1037a90'
+DEBUG - 2010-11-11 15:05:32 --> Session routines successfully run
+DEBUG - 2010-11-11 15:05:32 --> Controller Class Initialized
+DEBUG - 2010-11-11 15:05:32 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 15:05:32 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 15:05:32 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 15:05:32 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 15:05:32 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 15:05:32 --> Final output sent to browser
+DEBUG - 2010-11-11 15:05:32 --> Total execution time: 0.0538
+DEBUG - 2010-11-11 16:14:59 --> Config Class Initialized
+DEBUG - 2010-11-11 16:14:59 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:14:59 --> URI Class Initialized
+DEBUG - 2010-11-11 16:14:59 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:14:59 --> Router Class Initialized
+DEBUG - 2010-11-11 16:14:59 --> Output Class Initialized
+DEBUG - 2010-11-11 16:14:59 --> Input Class Initialized
+DEBUG - 2010-11-11 16:14:59 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:14:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:14:59 --> Language Class Initialized
+DEBUG - 2010-11-11 16:14:59 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:14:59 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:14:59 --> Session Class Initialized
+DEBUG - 2010-11-11 16:14:59 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:14:59 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:14:59 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:14:59 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:14:59 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:14:59 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:14:59 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c1113c45d06b9b408d27d02ca1d13c34'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:14:59 --> SQL : UPDATE ci_sessions SET last_activity = 1289510099, session_id = '61ca410ca122bd76c470fca95468abf9' WHERE session_id = 'c1113c45d06b9b408d27d02ca1d13c34'
+DEBUG - 2010-11-11 16:14:59 --> Session routines successfully run
+DEBUG - 2010-11-11 16:14:59 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:14:59 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:14:59 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:14:59 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:14:59 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:14:59 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:14:59 --> Final output sent to browser
+DEBUG - 2010-11-11 16:14:59 --> Total execution time: 0.1015
+DEBUG - 2010-11-11 16:16:32 --> Config Class Initialized
+DEBUG - 2010-11-11 16:16:32 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:16:32 --> URI Class Initialized
+DEBUG - 2010-11-11 16:16:32 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:16:32 --> Router Class Initialized
+DEBUG - 2010-11-11 16:16:32 --> Output Class Initialized
+DEBUG - 2010-11-11 16:16:32 --> Input Class Initialized
+DEBUG - 2010-11-11 16:16:32 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:16:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:16:32 --> Language Class Initialized
+DEBUG - 2010-11-11 16:16:32 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:16:32 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:16:32 --> Session Class Initialized
+DEBUG - 2010-11-11 16:16:32 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:16:32 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:16:32 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:16:32 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:16:32 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:16:32 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:16:32 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '61ca410ca122bd76c470fca95468abf9'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:16:32 --> Session routines successfully run
+DEBUG - 2010-11-11 16:16:32 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:16:32 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:16:32 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:16:32 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:16:32 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:16:32 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:16:32 --> Final output sent to browser
+DEBUG - 2010-11-11 16:16:32 --> Total execution time: 0.0702
+DEBUG - 2010-11-11 16:16:33 --> Config Class Initialized
+DEBUG - 2010-11-11 16:16:33 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:16:33 --> URI Class Initialized
+DEBUG - 2010-11-11 16:16:33 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:16:33 --> Router Class Initialized
+DEBUG - 2010-11-11 16:16:33 --> Output Class Initialized
+DEBUG - 2010-11-11 16:16:33 --> Input Class Initialized
+DEBUG - 2010-11-11 16:16:33 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:16:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:16:33 --> Language Class Initialized
+DEBUG - 2010-11-11 16:16:33 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:16:33 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:16:33 --> Session Class Initialized
+DEBUG - 2010-11-11 16:16:33 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:16:33 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:16:33 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:16:33 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:16:33 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:16:33 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:16:33 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '61ca410ca122bd76c470fca95468abf9'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:16:33 --> Session routines successfully run
+DEBUG - 2010-11-11 16:16:33 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:16:33 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:16:33 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:16:33 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:16:33 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:16:33 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:16:33 --> Final output sent to browser
+DEBUG - 2010-11-11 16:16:33 --> Total execution time: 0.0749
+DEBUG - 2010-11-11 16:17:36 --> Config Class Initialized
+DEBUG - 2010-11-11 16:17:36 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:17:36 --> URI Class Initialized
+DEBUG - 2010-11-11 16:17:36 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:17:36 --> Router Class Initialized
+DEBUG - 2010-11-11 16:17:36 --> Output Class Initialized
+DEBUG - 2010-11-11 16:17:36 --> Input Class Initialized
+DEBUG - 2010-11-11 16:17:36 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:17:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:17:36 --> Language Class Initialized
+DEBUG - 2010-11-11 16:17:36 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:17:36 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:17:36 --> Session Class Initialized
+DEBUG - 2010-11-11 16:17:36 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:17:36 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:17:36 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:17:36 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:17:36 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:17:36 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:17:36 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '61ca410ca122bd76c470fca95468abf9'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:17:36 --> Session routines successfully run
+DEBUG - 2010-11-11 16:17:36 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:17:36 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:17:36 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:17:36 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:17:36 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:17:36 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:17:36 --> Final output sent to browser
+DEBUG - 2010-11-11 16:17:36 --> Total execution time: 0.0668
+DEBUG - 2010-11-11 16:18:18 --> Config Class Initialized
+DEBUG - 2010-11-11 16:18:18 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:18:18 --> URI Class Initialized
+DEBUG - 2010-11-11 16:18:18 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:18:18 --> Router Class Initialized
+DEBUG - 2010-11-11 16:18:18 --> Output Class Initialized
+DEBUG - 2010-11-11 16:18:18 --> Input Class Initialized
+DEBUG - 2010-11-11 16:18:18 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:18:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:18:18 --> Language Class Initialized
+DEBUG - 2010-11-11 16:18:18 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:18:18 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:18:18 --> Session Class Initialized
+DEBUG - 2010-11-11 16:18:18 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:18:18 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:18:18 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:18:18 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:18:18 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:18:18 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:18:18 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '61ca410ca122bd76c470fca95468abf9'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:18:18 --> Session routines successfully run
+DEBUG - 2010-11-11 16:18:18 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:18:18 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:18:18 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:18:18 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:18:18 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:18:18 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:18:18 --> Final output sent to browser
+DEBUG - 2010-11-11 16:18:18 --> Total execution time: 0.0689
+DEBUG - 2010-11-11 16:18:47 --> Config Class Initialized
+DEBUG - 2010-11-11 16:18:47 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:18:47 --> URI Class Initialized
+DEBUG - 2010-11-11 16:18:47 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:18:47 --> Router Class Initialized
+DEBUG - 2010-11-11 16:18:47 --> Output Class Initialized
+DEBUG - 2010-11-11 16:18:47 --> Input Class Initialized
+DEBUG - 2010-11-11 16:18:47 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:18:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:18:47 --> Language Class Initialized
+DEBUG - 2010-11-11 16:18:47 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:18:47 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:18:47 --> Session Class Initialized
+DEBUG - 2010-11-11 16:18:47 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:18:47 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:18:47 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:18:47 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:18:47 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:18:47 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:18:47 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '61ca410ca122bd76c470fca95468abf9'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:18:47 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289503127
+DEBUG - 2010-11-11 16:18:47 --> Session garbage collection performed.
+DEBUG - 2010-11-11 16:18:47 --> Session routines successfully run
+DEBUG - 2010-11-11 16:18:47 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:18:47 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:18:47 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:18:47 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:18:47 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:18:47 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:18:47 --> Final output sent to browser
+DEBUG - 2010-11-11 16:18:47 --> Total execution time: 0.0788
+DEBUG - 2010-11-11 16:18:48 --> Config Class Initialized
+DEBUG - 2010-11-11 16:18:48 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:18:48 --> URI Class Initialized
+DEBUG - 2010-11-11 16:18:48 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:18:48 --> Router Class Initialized
+DEBUG - 2010-11-11 16:18:48 --> Output Class Initialized
+DEBUG - 2010-11-11 16:18:48 --> Input Class Initialized
+DEBUG - 2010-11-11 16:18:48 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:18:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:18:48 --> Language Class Initialized
+DEBUG - 2010-11-11 16:18:48 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:18:48 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:18:48 --> Session Class Initialized
+DEBUG - 2010-11-11 16:18:48 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:18:48 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:18:48 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:18:48 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:18:48 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:18:48 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:18:48 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '61ca410ca122bd76c470fca95468abf9'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:18:48 --> Session routines successfully run
+DEBUG - 2010-11-11 16:18:48 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:18:48 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:18:48 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:18:48 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:18:48 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:18:48 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:18:48 --> Final output sent to browser
+DEBUG - 2010-11-11 16:18:48 --> Total execution time: 0.0750
+DEBUG - 2010-11-11 16:18:56 --> Config Class Initialized
+DEBUG - 2010-11-11 16:18:56 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:18:56 --> URI Class Initialized
+DEBUG - 2010-11-11 16:18:56 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:18:56 --> Router Class Initialized
+DEBUG - 2010-11-11 16:18:56 --> Output Class Initialized
+DEBUG - 2010-11-11 16:18:56 --> Input Class Initialized
+DEBUG - 2010-11-11 16:18:56 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:18:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:18:56 --> Language Class Initialized
+DEBUG - 2010-11-11 16:18:56 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:18:56 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:18:56 --> Session Class Initialized
+DEBUG - 2010-11-11 16:18:56 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:18:56 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:18:56 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:18:56 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:18:56 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:18:56 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:18:56 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '61ca410ca122bd76c470fca95468abf9'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:18:56 --> Session routines successfully run
+DEBUG - 2010-11-11 16:18:56 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:18:56 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:18:56 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:18:56 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:18:56 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:18:56 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:18:56 --> Final output sent to browser
+DEBUG - 2010-11-11 16:18:56 --> Total execution time: 0.0717
+DEBUG - 2010-11-11 16:19:08 --> Config Class Initialized
+DEBUG - 2010-11-11 16:19:08 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:19:08 --> URI Class Initialized
+DEBUG - 2010-11-11 16:19:08 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:19:08 --> Router Class Initialized
+DEBUG - 2010-11-11 16:19:08 --> Output Class Initialized
+DEBUG - 2010-11-11 16:19:08 --> Input Class Initialized
+DEBUG - 2010-11-11 16:19:08 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:19:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:19:08 --> Language Class Initialized
+DEBUG - 2010-11-11 16:19:08 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:19:08 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:19:08 --> Session Class Initialized
+DEBUG - 2010-11-11 16:19:08 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:19:08 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:19:08 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:19:08 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:19:08 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:19:08 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:19:08 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '61ca410ca122bd76c470fca95468abf9'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:19:08 --> Session routines successfully run
+DEBUG - 2010-11-11 16:19:08 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:19:08 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:19:08 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:19:08 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:19:08 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:19:08 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:19:08 --> Final output sent to browser
+DEBUG - 2010-11-11 16:19:08 --> Total execution time: 0.1030
+DEBUG - 2010-11-11 16:20:04 --> Config Class Initialized
+DEBUG - 2010-11-11 16:20:04 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:20:04 --> URI Class Initialized
+DEBUG - 2010-11-11 16:20:04 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:20:04 --> Router Class Initialized
+DEBUG - 2010-11-11 16:20:04 --> Output Class Initialized
+DEBUG - 2010-11-11 16:20:04 --> Input Class Initialized
+DEBUG - 2010-11-11 16:20:04 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:20:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:20:04 --> Language Class Initialized
+DEBUG - 2010-11-11 16:20:04 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:20:04 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:20:04 --> Session Class Initialized
+DEBUG - 2010-11-11 16:20:04 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:20:04 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:20:04 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:20:04 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:20:04 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:20:04 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:20:04 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '61ca410ca122bd76c470fca95468abf9'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:20:04 --> SQL : UPDATE ci_sessions SET last_activity = 1289510404, session_id = 'e30aca9ce4e59b57bb35afc914c21c10' WHERE session_id = '61ca410ca122bd76c470fca95468abf9'
+DEBUG - 2010-11-11 16:20:04 --> Session routines successfully run
+DEBUG - 2010-11-11 16:20:04 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:20:04 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:20:04 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:20:04 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:20:04 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:20:04 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:20:04 --> Final output sent to browser
+DEBUG - 2010-11-11 16:20:04 --> Total execution time: 0.0763
+DEBUG - 2010-11-11 16:20:15 --> Config Class Initialized
+DEBUG - 2010-11-11 16:20:15 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:20:15 --> URI Class Initialized
+DEBUG - 2010-11-11 16:20:15 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:20:15 --> Router Class Initialized
+DEBUG - 2010-11-11 16:20:15 --> Output Class Initialized
+DEBUG - 2010-11-11 16:20:15 --> Input Class Initialized
+DEBUG - 2010-11-11 16:20:15 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:20:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:20:15 --> Language Class Initialized
+DEBUG - 2010-11-11 16:20:15 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:20:15 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:20:15 --> Session Class Initialized
+DEBUG - 2010-11-11 16:20:15 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:20:15 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:20:15 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:20:15 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:20:15 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:20:15 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:20:15 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:20:15 --> Session routines successfully run
+DEBUG - 2010-11-11 16:20:15 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:20:15 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:20:15 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:20:15 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:20:15 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:20:15 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:20:15 --> Final output sent to browser
+DEBUG - 2010-11-11 16:20:15 --> Total execution time: 0.0704
+DEBUG - 2010-11-11 16:20:16 --> Config Class Initialized
+DEBUG - 2010-11-11 16:20:16 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:20:16 --> URI Class Initialized
+DEBUG - 2010-11-11 16:20:16 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:20:16 --> Router Class Initialized
+DEBUG - 2010-11-11 16:20:16 --> Output Class Initialized
+DEBUG - 2010-11-11 16:20:16 --> Input Class Initialized
+DEBUG - 2010-11-11 16:20:16 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:20:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:20:16 --> Language Class Initialized
+DEBUG - 2010-11-11 16:20:16 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:20:16 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:20:16 --> Session Class Initialized
+DEBUG - 2010-11-11 16:20:16 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:20:16 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:20:16 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:20:16 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:20:16 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:20:16 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:20:16 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:20:16 --> Session routines successfully run
+DEBUG - 2010-11-11 16:20:16 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:20:16 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:20:16 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:20:16 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:20:16 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:20:16 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:20:16 --> Final output sent to browser
+DEBUG - 2010-11-11 16:20:16 --> Total execution time: 0.4072
+DEBUG - 2010-11-11 16:20:21 --> Config Class Initialized
+DEBUG - 2010-11-11 16:20:21 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:20:21 --> URI Class Initialized
+DEBUG - 2010-11-11 16:20:21 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:20:21 --> Router Class Initialized
+DEBUG - 2010-11-11 16:20:21 --> Output Class Initialized
+DEBUG - 2010-11-11 16:20:21 --> Input Class Initialized
+DEBUG - 2010-11-11 16:20:21 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:20:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:20:21 --> Language Class Initialized
+DEBUG - 2010-11-11 16:20:21 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:20:21 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:20:21 --> Session Class Initialized
+DEBUG - 2010-11-11 16:20:21 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:20:21 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:20:21 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:20:21 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:20:21 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:20:21 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:20:21 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:20:21 --> Session routines successfully run
+DEBUG - 2010-11-11 16:20:21 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:20:21 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:20:21 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:20:21 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:20:21 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:20:21 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:20:21 --> Final output sent to browser
+DEBUG - 2010-11-11 16:20:21 --> Total execution time: 0.0768
+DEBUG - 2010-11-11 16:20:22 --> Config Class Initialized
+DEBUG - 2010-11-11 16:20:22 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:20:22 --> URI Class Initialized
+DEBUG - 2010-11-11 16:20:22 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:20:22 --> Router Class Initialized
+DEBUG - 2010-11-11 16:20:22 --> Output Class Initialized
+DEBUG - 2010-11-11 16:20:22 --> Input Class Initialized
+DEBUG - 2010-11-11 16:20:22 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:20:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:20:22 --> Language Class Initialized
+DEBUG - 2010-11-11 16:20:22 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:20:22 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:20:22 --> Session Class Initialized
+DEBUG - 2010-11-11 16:20:22 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:20:22 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:20:22 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:20:22 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:20:22 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:20:22 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:20:22 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:20:22 --> Session routines successfully run
+DEBUG - 2010-11-11 16:20:22 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:20:22 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:20:22 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:20:22 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:20:22 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:20:22 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:20:22 --> Final output sent to browser
+DEBUG - 2010-11-11 16:20:22 --> Total execution time: 0.0315
+DEBUG - 2010-11-11 16:20:33 --> Config Class Initialized
+DEBUG - 2010-11-11 16:20:33 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:20:33 --> URI Class Initialized
+DEBUG - 2010-11-11 16:20:33 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:20:33 --> Router Class Initialized
+DEBUG - 2010-11-11 16:20:33 --> Output Class Initialized
+DEBUG - 2010-11-11 16:20:33 --> Input Class Initialized
+DEBUG - 2010-11-11 16:20:33 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:20:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:20:33 --> Language Class Initialized
+DEBUG - 2010-11-11 16:20:33 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:20:33 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:20:33 --> Session Class Initialized
+DEBUG - 2010-11-11 16:20:33 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:20:33 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:20:33 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:20:33 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:20:33 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:20:33 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:20:33 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:20:33 --> Session routines successfully run
+DEBUG - 2010-11-11 16:20:33 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:20:33 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:20:33 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:20:33 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:20:33 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:20:33 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:20:33 --> Final output sent to browser
+DEBUG - 2010-11-11 16:20:33 --> Total execution time: 0.5359
+DEBUG - 2010-11-11 16:21:14 --> Config Class Initialized
+DEBUG - 2010-11-11 16:21:14 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:21:14 --> URI Class Initialized
+DEBUG - 2010-11-11 16:21:14 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:21:14 --> Router Class Initialized
+DEBUG - 2010-11-11 16:21:14 --> Output Class Initialized
+DEBUG - 2010-11-11 16:21:14 --> Input Class Initialized
+DEBUG - 2010-11-11 16:21:14 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:21:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:21:14 --> Language Class Initialized
+DEBUG - 2010-11-11 16:21:14 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:21:14 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:21:14 --> Session Class Initialized
+DEBUG - 2010-11-11 16:21:14 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:21:14 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:21:14 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:21:14 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:21:14 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:21:14 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:21:14 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:21:14 --> Session routines successfully run
+DEBUG - 2010-11-11 16:21:14 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:21:14 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:21:14 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:21:14 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:21:14 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:21:14 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:21:14 --> Final output sent to browser
+DEBUG - 2010-11-11 16:21:14 --> Total execution time: 0.0724
+DEBUG - 2010-11-11 16:21:24 --> Config Class Initialized
+DEBUG - 2010-11-11 16:21:24 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:21:24 --> URI Class Initialized
+DEBUG - 2010-11-11 16:21:24 --> Router Class Initialized
+DEBUG - 2010-11-11 16:21:24 --> Output Class Initialized
+DEBUG - 2010-11-11 16:21:24 --> Input Class Initialized
+DEBUG - 2010-11-11 16:21:24 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:21:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:21:24 --> Language Class Initialized
+DEBUG - 2010-11-11 16:21:24 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:21:24 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:21:24 --> Session Class Initialized
+DEBUG - 2010-11-11 16:21:24 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:21:24 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:21:24 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:21:24 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:21:24 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:21:24 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:21:24 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:21:24 --> Session routines successfully run
+DEBUG - 2010-11-11 16:21:24 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:21:24 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:21:24 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:21:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:21:24 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:21:24 --> Final output sent to browser
+DEBUG - 2010-11-11 16:21:24 --> Total execution time: 0.0350
+DEBUG - 2010-11-11 16:23:01 --> Config Class Initialized
+DEBUG - 2010-11-11 16:23:01 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:23:01 --> URI Class Initialized
+DEBUG - 2010-11-11 16:23:01 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:23:01 --> Router Class Initialized
+DEBUG - 2010-11-11 16:23:01 --> Output Class Initialized
+DEBUG - 2010-11-11 16:23:01 --> Input Class Initialized
+DEBUG - 2010-11-11 16:23:01 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:23:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:23:01 --> Language Class Initialized
+DEBUG - 2010-11-11 16:23:01 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:23:01 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:23:01 --> Session Class Initialized
+DEBUG - 2010-11-11 16:23:01 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:23:01 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:23:01 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:23:01 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:23:01 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:23:01 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:23:01 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:23:01 --> Session routines successfully run
+DEBUG - 2010-11-11 16:23:01 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:23:01 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:23:01 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:23:01 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:23:01 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:23:01 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:23:01 --> Final output sent to browser
+DEBUG - 2010-11-11 16:23:01 --> Total execution time: 0.0750
+DEBUG - 2010-11-11 16:23:10 --> Config Class Initialized
+DEBUG - 2010-11-11 16:23:10 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:23:10 --> URI Class Initialized
+DEBUG - 2010-11-11 16:23:10 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:23:10 --> Router Class Initialized
+DEBUG - 2010-11-11 16:23:10 --> Output Class Initialized
+DEBUG - 2010-11-11 16:23:10 --> Input Class Initialized
+DEBUG - 2010-11-11 16:23:10 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:23:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:23:10 --> Language Class Initialized
+DEBUG - 2010-11-11 16:23:10 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:23:10 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:23:10 --> Session Class Initialized
+DEBUG - 2010-11-11 16:23:10 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:23:10 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:23:10 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:23:10 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:23:10 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:23:10 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:23:10 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:23:10 --> Session routines successfully run
+DEBUG - 2010-11-11 16:23:10 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:23:10 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:23:10 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:23:10 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:23:10 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:23:10 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:23:10 --> Final output sent to browser
+DEBUG - 2010-11-11 16:23:10 --> Total execution time: 0.0721
+DEBUG - 2010-11-11 16:23:18 --> Config Class Initialized
+DEBUG - 2010-11-11 16:23:18 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:23:18 --> URI Class Initialized
+DEBUG - 2010-11-11 16:23:18 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:23:18 --> Router Class Initialized
+DEBUG - 2010-11-11 16:23:18 --> Output Class Initialized
+DEBUG - 2010-11-11 16:23:18 --> Input Class Initialized
+DEBUG - 2010-11-11 16:23:18 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:23:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:23:18 --> Language Class Initialized
+DEBUG - 2010-11-11 16:23:18 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:23:18 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:23:18 --> Session Class Initialized
+DEBUG - 2010-11-11 16:23:18 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:23:18 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:23:18 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:23:18 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:23:18 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:23:18 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:23:18 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:23:18 --> Session routines successfully run
+DEBUG - 2010-11-11 16:23:18 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:23:18 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:23:18 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:23:18 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:23:18 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:23:18 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:23:18 --> Final output sent to browser
+DEBUG - 2010-11-11 16:23:18 --> Total execution time: 0.1859
+DEBUG - 2010-11-11 16:23:22 --> Config Class Initialized
+DEBUG - 2010-11-11 16:23:22 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:23:22 --> URI Class Initialized
+DEBUG - 2010-11-11 16:23:22 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:23:22 --> Router Class Initialized
+DEBUG - 2010-11-11 16:23:22 --> Output Class Initialized
+DEBUG - 2010-11-11 16:23:22 --> Input Class Initialized
+DEBUG - 2010-11-11 16:23:22 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:23:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:23:22 --> Language Class Initialized
+DEBUG - 2010-11-11 16:23:22 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:23:22 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:23:22 --> Session Class Initialized
+DEBUG - 2010-11-11 16:23:22 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:23:22 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:23:22 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:23:22 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:23:22 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:23:22 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:23:22 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:23:22 --> Session routines successfully run
+DEBUG - 2010-11-11 16:23:22 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:23:22 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:23:22 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:23:22 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:23:22 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:23:22 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:23:22 --> Final output sent to browser
+DEBUG - 2010-11-11 16:23:22 --> Total execution time: 0.0655
+DEBUG - 2010-11-11 16:24:34 --> Config Class Initialized
+DEBUG - 2010-11-11 16:24:34 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:24:34 --> URI Class Initialized
+DEBUG - 2010-11-11 16:24:34 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:24:34 --> Router Class Initialized
+DEBUG - 2010-11-11 16:24:34 --> Output Class Initialized
+DEBUG - 2010-11-11 16:24:34 --> Input Class Initialized
+DEBUG - 2010-11-11 16:24:34 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:24:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:24:34 --> Language Class Initialized
+DEBUG - 2010-11-11 16:24:34 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:24:34 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:24:34 --> Session Class Initialized
+DEBUG - 2010-11-11 16:24:34 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:24:34 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:24:34 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:24:34 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:24:34 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:24:34 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:24:34 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:24:34 --> Session routines successfully run
+DEBUG - 2010-11-11 16:24:34 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:24:34 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:24:34 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:24:34 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:24:34 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:24:34 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:24:34 --> Final output sent to browser
+DEBUG - 2010-11-11 16:24:34 --> Total execution time: 0.0673
+DEBUG - 2010-11-11 16:24:43 --> Config Class Initialized
+DEBUG - 2010-11-11 16:24:43 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:24:43 --> URI Class Initialized
+DEBUG - 2010-11-11 16:24:43 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:24:43 --> Router Class Initialized
+DEBUG - 2010-11-11 16:24:43 --> Output Class Initialized
+DEBUG - 2010-11-11 16:24:43 --> Input Class Initialized
+DEBUG - 2010-11-11 16:24:43 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:24:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:24:43 --> Language Class Initialized
+DEBUG - 2010-11-11 16:24:43 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:24:43 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:24:43 --> Session Class Initialized
+DEBUG - 2010-11-11 16:24:43 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:24:43 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:24:43 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:24:43 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:24:43 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:24:43 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:24:43 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:24:43 --> Session routines successfully run
+DEBUG - 2010-11-11 16:24:43 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:24:43 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:24:43 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:24:43 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:24:43 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:24:43 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:24:43 --> Final output sent to browser
+DEBUG - 2010-11-11 16:24:43 --> Total execution time: 0.0694
+DEBUG - 2010-11-11 16:24:44 --> Config Class Initialized
+DEBUG - 2010-11-11 16:24:44 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:24:44 --> URI Class Initialized
+DEBUG - 2010-11-11 16:24:44 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:24:44 --> Router Class Initialized
+DEBUG - 2010-11-11 16:24:44 --> Output Class Initialized
+DEBUG - 2010-11-11 16:24:44 --> Input Class Initialized
+DEBUG - 2010-11-11 16:24:44 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:24:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:24:44 --> Language Class Initialized
+DEBUG - 2010-11-11 16:24:44 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:24:44 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:24:44 --> Session Class Initialized
+DEBUG - 2010-11-11 16:24:44 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:24:44 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:24:44 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:24:44 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:24:44 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:24:44 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:24:44 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:24:44 --> Session routines successfully run
+DEBUG - 2010-11-11 16:24:44 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:24:44 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:24:44 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:24:44 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:24:44 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:24:44 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:24:44 --> Final output sent to browser
+DEBUG - 2010-11-11 16:24:44 --> Total execution time: 0.0714
+DEBUG - 2010-11-11 16:24:57 --> Config Class Initialized
+DEBUG - 2010-11-11 16:24:57 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:24:57 --> URI Class Initialized
+DEBUG - 2010-11-11 16:24:57 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:24:57 --> Router Class Initialized
+DEBUG - 2010-11-11 16:24:57 --> Output Class Initialized
+DEBUG - 2010-11-11 16:24:57 --> Input Class Initialized
+DEBUG - 2010-11-11 16:24:57 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:24:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:24:57 --> Language Class Initialized
+DEBUG - 2010-11-11 16:24:57 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:24:57 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:24:57 --> Session Class Initialized
+DEBUG - 2010-11-11 16:24:57 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:24:57 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:24:57 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:24:57 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:24:57 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:24:57 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:24:57 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:24:57 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289503497
+DEBUG - 2010-11-11 16:24:57 --> Session garbage collection performed.
+DEBUG - 2010-11-11 16:24:57 --> Session routines successfully run
+DEBUG - 2010-11-11 16:24:57 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:24:57 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:24:57 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:24:57 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:24:57 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:24:57 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:24:57 --> Final output sent to browser
+DEBUG - 2010-11-11 16:24:57 --> Total execution time: 0.0815
+DEBUG - 2010-11-11 16:24:58 --> Config Class Initialized
+DEBUG - 2010-11-11 16:24:58 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:24:58 --> URI Class Initialized
+DEBUG - 2010-11-11 16:24:58 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:24:58 --> Router Class Initialized
+DEBUG - 2010-11-11 16:24:58 --> Output Class Initialized
+DEBUG - 2010-11-11 16:24:58 --> Input Class Initialized
+DEBUG - 2010-11-11 16:24:58 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:24:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:24:58 --> Language Class Initialized
+DEBUG - 2010-11-11 16:24:58 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:24:58 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:24:58 --> Session Class Initialized
+DEBUG - 2010-11-11 16:24:58 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:24:58 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:24:58 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:24:58 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:24:58 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:24:58 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:24:58 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:24:58 --> Session routines successfully run
+DEBUG - 2010-11-11 16:24:58 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:24:58 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:24:58 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:24:58 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:24:58 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:24:58 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:24:58 --> Final output sent to browser
+DEBUG - 2010-11-11 16:24:58 --> Total execution time: 0.0744
+DEBUG - 2010-11-11 16:25:12 --> Config Class Initialized
+DEBUG - 2010-11-11 16:25:12 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:25:12 --> URI Class Initialized
+DEBUG - 2010-11-11 16:25:12 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:25:12 --> Router Class Initialized
+DEBUG - 2010-11-11 16:25:12 --> Output Class Initialized
+DEBUG - 2010-11-11 16:25:12 --> Input Class Initialized
+DEBUG - 2010-11-11 16:25:12 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:25:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:25:12 --> Language Class Initialized
+DEBUG - 2010-11-11 16:25:12 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:25:12 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:25:12 --> Session Class Initialized
+DEBUG - 2010-11-11 16:25:12 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:25:12 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:25:12 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:25:12 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:25:12 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:25:12 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:25:12 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:25:12 --> SQL : UPDATE ci_sessions SET last_activity = 1289510712, session_id = '07ad4e6329362ee1c6e9bb00e0f914dc' WHERE session_id = 'e30aca9ce4e59b57bb35afc914c21c10'
+DEBUG - 2010-11-11 16:25:12 --> Session routines successfully run
+DEBUG - 2010-11-11 16:25:12 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:25:12 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:25:12 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:25:12 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:25:12 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:25:12 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:25:12 --> Final output sent to browser
+DEBUG - 2010-11-11 16:25:12 --> Total execution time: 0.0838
+DEBUG - 2010-11-11 16:25:13 --> Config Class Initialized
+DEBUG - 2010-11-11 16:25:13 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:25:13 --> URI Class Initialized
+DEBUG - 2010-11-11 16:25:13 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:25:13 --> Router Class Initialized
+DEBUG - 2010-11-11 16:25:13 --> Output Class Initialized
+DEBUG - 2010-11-11 16:25:13 --> Input Class Initialized
+DEBUG - 2010-11-11 16:25:13 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:25:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:25:13 --> Language Class Initialized
+DEBUG - 2010-11-11 16:25:13 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:25:13 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:25:13 --> Session Class Initialized
+DEBUG - 2010-11-11 16:25:13 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:25:13 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:25:13 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:25:13 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:25:13 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:25:13 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:25:13 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '07ad4e6329362ee1c6e9bb00e0f914dc'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:25:13 --> Session routines successfully run
+DEBUG - 2010-11-11 16:25:13 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:25:13 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:25:13 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:25:13 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:25:13 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:25:13 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:25:13 --> Final output sent to browser
+DEBUG - 2010-11-11 16:25:13 --> Total execution time: 0.0313
+DEBUG - 2010-11-11 16:25:18 --> Config Class Initialized
+DEBUG - 2010-11-11 16:25:18 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:25:18 --> URI Class Initialized
+DEBUG - 2010-11-11 16:25:18 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:25:18 --> Router Class Initialized
+DEBUG - 2010-11-11 16:25:18 --> Output Class Initialized
+DEBUG - 2010-11-11 16:25:18 --> Input Class Initialized
+DEBUG - 2010-11-11 16:25:18 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:25:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:25:18 --> Language Class Initialized
+DEBUG - 2010-11-11 16:25:18 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:25:18 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:25:18 --> Session Class Initialized
+DEBUG - 2010-11-11 16:25:18 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:25:18 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:25:18 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:25:18 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:25:18 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:25:18 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:25:18 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '07ad4e6329362ee1c6e9bb00e0f914dc'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:25:18 --> Session routines successfully run
+DEBUG - 2010-11-11 16:25:18 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:25:18 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:25:18 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:25:18 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:25:18 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:25:18 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:25:18 --> Final output sent to browser
+DEBUG - 2010-11-11 16:25:18 --> Total execution time: 0.0800
+DEBUG - 2010-11-11 16:25:28 --> Config Class Initialized
+DEBUG - 2010-11-11 16:25:28 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:25:28 --> URI Class Initialized
+DEBUG - 2010-11-11 16:25:28 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:25:28 --> Router Class Initialized
+DEBUG - 2010-11-11 16:25:28 --> Output Class Initialized
+DEBUG - 2010-11-11 16:25:28 --> Input Class Initialized
+DEBUG - 2010-11-11 16:25:28 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:25:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:25:28 --> Language Class Initialized
+DEBUG - 2010-11-11 16:25:28 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:25:28 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:25:28 --> Session Class Initialized
+DEBUG - 2010-11-11 16:25:28 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:25:28 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:25:28 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:25:28 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:25:28 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:25:28 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:25:28 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '07ad4e6329362ee1c6e9bb00e0f914dc'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:25:28 --> Session routines successfully run
+DEBUG - 2010-11-11 16:25:28 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:25:28 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:25:28 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:25:28 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:25:28 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:25:28 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:25:28 --> Final output sent to browser
+DEBUG - 2010-11-11 16:25:28 --> Total execution time: 0.0310
+DEBUG - 2010-11-11 16:25:51 --> Config Class Initialized
+DEBUG - 2010-11-11 16:25:51 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:25:51 --> URI Class Initialized
+DEBUG - 2010-11-11 16:25:51 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:25:51 --> Router Class Initialized
+DEBUG - 2010-11-11 16:25:51 --> Output Class Initialized
+DEBUG - 2010-11-11 16:25:51 --> Input Class Initialized
+DEBUG - 2010-11-11 16:25:51 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:25:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:25:51 --> Language Class Initialized
+DEBUG - 2010-11-11 16:25:51 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:25:51 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:25:51 --> Session Class Initialized
+DEBUG - 2010-11-11 16:25:51 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:25:51 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:25:51 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:25:51 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:25:51 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:25:51 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:25:51 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '07ad4e6329362ee1c6e9bb00e0f914dc'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:25:51 --> Session routines successfully run
+DEBUG - 2010-11-11 16:25:51 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:25:51 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:25:51 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:25:51 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:25:51 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:25:51 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:25:51 --> Final output sent to browser
+DEBUG - 2010-11-11 16:25:51 --> Total execution time: 0.0726
+DEBUG - 2010-11-11 16:27:16 --> Config Class Initialized
+DEBUG - 2010-11-11 16:27:16 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:27:16 --> URI Class Initialized
+DEBUG - 2010-11-11 16:27:16 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:27:16 --> Router Class Initialized
+DEBUG - 2010-11-11 16:27:16 --> Output Class Initialized
+DEBUG - 2010-11-11 16:27:16 --> Input Class Initialized
+DEBUG - 2010-11-11 16:27:16 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:27:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:27:16 --> Language Class Initialized
+DEBUG - 2010-11-11 16:27:16 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:27:16 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:27:16 --> Session Class Initialized
+DEBUG - 2010-11-11 16:27:16 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:27:16 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:27:16 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:27:16 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:27:16 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:27:16 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:27:16 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '07ad4e6329362ee1c6e9bb00e0f914dc'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:27:16 --> Session routines successfully run
+DEBUG - 2010-11-11 16:27:16 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:27:16 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:27:16 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:27:16 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:27:16 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:27:16 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:27:16 --> Final output sent to browser
+DEBUG - 2010-11-11 16:27:16 --> Total execution time: 0.0710
+DEBUG - 2010-11-11 16:27:31 --> Config Class Initialized
+DEBUG - 2010-11-11 16:27:31 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:27:31 --> URI Class Initialized
+DEBUG - 2010-11-11 16:27:31 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:27:31 --> Router Class Initialized
+DEBUG - 2010-11-11 16:27:31 --> Output Class Initialized
+DEBUG - 2010-11-11 16:27:31 --> Input Class Initialized
+DEBUG - 2010-11-11 16:27:31 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:27:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:27:31 --> Language Class Initialized
+DEBUG - 2010-11-11 16:27:31 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:27:31 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:27:31 --> Session Class Initialized
+DEBUG - 2010-11-11 16:27:31 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:27:31 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:27:31 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:27:31 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:27:31 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:27:31 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:27:31 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '07ad4e6329362ee1c6e9bb00e0f914dc'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:27:31 --> Session routines successfully run
+DEBUG - 2010-11-11 16:27:31 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:27:31 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:27:31 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:27:31 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:27:31 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:27:31 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:27:31 --> Final output sent to browser
+DEBUG - 2010-11-11 16:27:31 --> Total execution time: 0.0697
+DEBUG - 2010-11-11 16:27:39 --> Config Class Initialized
+DEBUG - 2010-11-11 16:27:39 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:27:39 --> URI Class Initialized
+DEBUG - 2010-11-11 16:27:39 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:27:39 --> Router Class Initialized
+DEBUG - 2010-11-11 16:27:39 --> Output Class Initialized
+DEBUG - 2010-11-11 16:27:39 --> Input Class Initialized
+DEBUG - 2010-11-11 16:27:39 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:27:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:27:39 --> Language Class Initialized
+DEBUG - 2010-11-11 16:27:39 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:27:39 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:27:39 --> Session Class Initialized
+DEBUG - 2010-11-11 16:27:39 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:27:39 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:27:40 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:27:40 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:27:40 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:27:40 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:27:40 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '07ad4e6329362ee1c6e9bb00e0f914dc'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:27:40 --> Session routines successfully run
+DEBUG - 2010-11-11 16:27:40 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:27:40 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:27:40 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:27:40 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:27:40 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:27:40 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:27:40 --> Final output sent to browser
+DEBUG - 2010-11-11 16:27:40 --> Total execution time: 0.0704
+DEBUG - 2010-11-11 16:27:41 --> Config Class Initialized
+DEBUG - 2010-11-11 16:27:41 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:27:41 --> URI Class Initialized
+DEBUG - 2010-11-11 16:27:41 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:27:41 --> Router Class Initialized
+DEBUG - 2010-11-11 16:27:41 --> Output Class Initialized
+DEBUG - 2010-11-11 16:27:41 --> Input Class Initialized
+DEBUG - 2010-11-11 16:27:41 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:27:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:27:41 --> Language Class Initialized
+DEBUG - 2010-11-11 16:27:41 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:27:41 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:27:41 --> Session Class Initialized
+DEBUG - 2010-11-11 16:27:41 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:27:41 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:27:41 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:27:41 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:27:41 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:27:41 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:27:41 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '07ad4e6329362ee1c6e9bb00e0f914dc'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:27:41 --> Session routines successfully run
+DEBUG - 2010-11-11 16:27:41 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:27:41 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:27:41 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:27:41 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:27:41 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:27:41 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:27:41 --> Final output sent to browser
+DEBUG - 2010-11-11 16:27:41 --> Total execution time: 0.0312
+DEBUG - 2010-11-11 16:28:04 --> Config Class Initialized
+DEBUG - 2010-11-11 16:28:04 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:28:04 --> URI Class Initialized
+DEBUG - 2010-11-11 16:28:04 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:28:04 --> Router Class Initialized
+DEBUG - 2010-11-11 16:28:04 --> Output Class Initialized
+DEBUG - 2010-11-11 16:28:04 --> Input Class Initialized
+DEBUG - 2010-11-11 16:28:04 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:28:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:28:04 --> Language Class Initialized
+DEBUG - 2010-11-11 16:28:04 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:28:04 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:28:04 --> Session Class Initialized
+DEBUG - 2010-11-11 16:28:04 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:28:04 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:28:04 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:28:04 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:28:04 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:28:04 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:28:04 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '07ad4e6329362ee1c6e9bb00e0f914dc'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:28:04 --> Session routines successfully run
+DEBUG - 2010-11-11 16:28:04 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:28:04 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:28:04 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:28:04 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:28:04 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:28:04 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:28:04 --> Final output sent to browser
+DEBUG - 2010-11-11 16:28:04 --> Total execution time: 0.0727
+DEBUG - 2010-11-11 16:28:23 --> Config Class Initialized
+DEBUG - 2010-11-11 16:28:23 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:28:23 --> URI Class Initialized
+DEBUG - 2010-11-11 16:28:23 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:28:23 --> Router Class Initialized
+DEBUG - 2010-11-11 16:28:23 --> Output Class Initialized
+DEBUG - 2010-11-11 16:28:23 --> Input Class Initialized
+DEBUG - 2010-11-11 16:28:23 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:28:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:28:23 --> Language Class Initialized
+DEBUG - 2010-11-11 16:28:23 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:28:23 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:28:23 --> Session Class Initialized
+DEBUG - 2010-11-11 16:28:23 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:28:23 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:28:23 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:28:23 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:28:23 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:28:23 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:28:23 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '07ad4e6329362ee1c6e9bb00e0f914dc'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:28:23 --> Session routines successfully run
+DEBUG - 2010-11-11 16:28:23 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:28:23 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:28:23 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:28:23 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:28:23 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:28:23 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:28:23 --> Final output sent to browser
+DEBUG - 2010-11-11 16:28:23 --> Total execution time: 0.0740
+DEBUG - 2010-11-11 16:29:36 --> Config Class Initialized
+DEBUG - 2010-11-11 16:29:36 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:29:36 --> URI Class Initialized
+DEBUG - 2010-11-11 16:29:36 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:29:36 --> Router Class Initialized
+DEBUG - 2010-11-11 16:29:36 --> Output Class Initialized
+DEBUG - 2010-11-11 16:29:36 --> Input Class Initialized
+DEBUG - 2010-11-11 16:29:36 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:29:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:29:36 --> Language Class Initialized
+DEBUG - 2010-11-11 16:29:36 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:29:36 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:29:36 --> Session Class Initialized
+DEBUG - 2010-11-11 16:29:36 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:29:36 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:29:36 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:29:36 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:29:36 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:29:36 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:29:36 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '07ad4e6329362ee1c6e9bb00e0f914dc'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:29:36 --> Session routines successfully run
+DEBUG - 2010-11-11 16:29:36 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:29:36 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:29:36 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:29:36 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:29:36 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:29:36 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:29:36 --> Final output sent to browser
+DEBUG - 2010-11-11 16:29:36 --> Total execution time: 0.0690
+DEBUG - 2010-11-11 16:29:37 --> Config Class Initialized
+DEBUG - 2010-11-11 16:29:37 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:29:37 --> URI Class Initialized
+DEBUG - 2010-11-11 16:29:37 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:29:37 --> Router Class Initialized
+DEBUG - 2010-11-11 16:29:37 --> Output Class Initialized
+DEBUG - 2010-11-11 16:29:37 --> Input Class Initialized
+DEBUG - 2010-11-11 16:29:37 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:29:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:29:37 --> Language Class Initialized
+DEBUG - 2010-11-11 16:29:37 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:29:37 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:29:37 --> Session Class Initialized
+DEBUG - 2010-11-11 16:29:37 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:29:37 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:29:37 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:29:37 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:29:37 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:29:37 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:29:37 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '07ad4e6329362ee1c6e9bb00e0f914dc'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:29:37 --> Session routines successfully run
+DEBUG - 2010-11-11 16:29:37 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:29:37 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:29:37 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:29:37 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:29:37 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:29:37 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:29:37 --> Final output sent to browser
+DEBUG - 2010-11-11 16:29:37 --> Total execution time: 0.1075
+DEBUG - 2010-11-11 16:31:16 --> Config Class Initialized
+DEBUG - 2010-11-11 16:31:16 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:31:16 --> URI Class Initialized
+DEBUG - 2010-11-11 16:31:16 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:31:16 --> Router Class Initialized
+DEBUG - 2010-11-11 16:31:16 --> Output Class Initialized
+DEBUG - 2010-11-11 16:31:16 --> Input Class Initialized
+DEBUG - 2010-11-11 16:31:16 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:31:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:31:16 --> Language Class Initialized
+DEBUG - 2010-11-11 16:31:16 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:31:16 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:31:16 --> Session Class Initialized
+DEBUG - 2010-11-11 16:31:16 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:31:16 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:31:16 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:31:16 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:31:16 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:31:16 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:31:16 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '07ad4e6329362ee1c6e9bb00e0f914dc'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:31:16 --> SQL : UPDATE ci_sessions SET last_activity = 1289511076, session_id = '8d6433795a2cd010ab2f88c6130f1f83' WHERE session_id = '07ad4e6329362ee1c6e9bb00e0f914dc'
+DEBUG - 2010-11-11 16:31:16 --> Session routines successfully run
+DEBUG - 2010-11-11 16:31:16 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:31:16 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:31:16 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:31:16 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:31:16 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:31:16 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:31:16 --> Final output sent to browser
+DEBUG - 2010-11-11 16:31:16 --> Total execution time: 0.0770
+DEBUG - 2010-11-11 16:32:06 --> Config Class Initialized
+DEBUG - 2010-11-11 16:32:06 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:32:06 --> URI Class Initialized
+DEBUG - 2010-11-11 16:32:06 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:32:06 --> Router Class Initialized
+DEBUG - 2010-11-11 16:32:06 --> Output Class Initialized
+DEBUG - 2010-11-11 16:32:06 --> Input Class Initialized
+DEBUG - 2010-11-11 16:32:06 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:32:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:32:06 --> Language Class Initialized
+DEBUG - 2010-11-11 16:32:06 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:32:06 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:32:06 --> Session Class Initialized
+DEBUG - 2010-11-11 16:32:06 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:32:06 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:32:06 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:32:06 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:32:06 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:32:06 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:32:06 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '8d6433795a2cd010ab2f88c6130f1f83'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:32:06 --> Session routines successfully run
+DEBUG - 2010-11-11 16:32:06 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:32:06 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:32:06 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:32:06 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:32:06 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:32:06 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:32:06 --> Final output sent to browser
+DEBUG - 2010-11-11 16:32:06 --> Total execution time: 0.0727
+DEBUG - 2010-11-11 16:32:17 --> Config Class Initialized
+DEBUG - 2010-11-11 16:32:17 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:32:17 --> URI Class Initialized
+DEBUG - 2010-11-11 16:32:17 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:32:17 --> Router Class Initialized
+DEBUG - 2010-11-11 16:32:17 --> Output Class Initialized
+DEBUG - 2010-11-11 16:32:17 --> Input Class Initialized
+DEBUG - 2010-11-11 16:32:17 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:32:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:32:17 --> Language Class Initialized
+DEBUG - 2010-11-11 16:32:17 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:32:17 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:32:17 --> Session Class Initialized
+DEBUG - 2010-11-11 16:32:17 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:32:17 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:32:17 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:32:17 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:32:17 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:32:17 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:32:17 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '8d6433795a2cd010ab2f88c6130f1f83'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:32:17 --> Session routines successfully run
+DEBUG - 2010-11-11 16:32:17 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:32:17 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:32:17 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:32:17 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:32:17 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:32:17 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:32:17 --> Final output sent to browser
+DEBUG - 2010-11-11 16:32:17 --> Total execution time: 0.2681
+DEBUG - 2010-11-11 16:34:01 --> Config Class Initialized
+DEBUG - 2010-11-11 16:34:01 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:34:01 --> URI Class Initialized
+DEBUG - 2010-11-11 16:34:01 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:34:01 --> Router Class Initialized
+DEBUG - 2010-11-11 16:34:01 --> Output Class Initialized
+DEBUG - 2010-11-11 16:34:01 --> Input Class Initialized
+DEBUG - 2010-11-11 16:34:01 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:34:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:34:01 --> Language Class Initialized
+DEBUG - 2010-11-11 16:34:01 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:34:01 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:34:01 --> Session Class Initialized
+DEBUG - 2010-11-11 16:34:01 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:34:01 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:34:01 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:34:01 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:34:01 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:34:01 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:34:01 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '8d6433795a2cd010ab2f88c6130f1f83'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:34:01 --> Session routines successfully run
+DEBUG - 2010-11-11 16:34:01 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:34:01 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:34:01 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:34:01 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:34:01 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:34:01 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:34:01 --> Final output sent to browser
+DEBUG - 2010-11-11 16:34:01 --> Total execution time: 0.0688
+DEBUG - 2010-11-11 16:40:04 --> Config Class Initialized
+DEBUG - 2010-11-11 16:40:04 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:40:04 --> URI Class Initialized
+DEBUG - 2010-11-11 16:40:04 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:40:04 --> Router Class Initialized
+DEBUG - 2010-11-11 16:40:04 --> Output Class Initialized
+DEBUG - 2010-11-11 16:40:04 --> Input Class Initialized
+DEBUG - 2010-11-11 16:40:04 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:40:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:40:04 --> Language Class Initialized
+DEBUG - 2010-11-11 16:40:04 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:40:04 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:40:04 --> Session Class Initialized
+DEBUG - 2010-11-11 16:40:04 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:40:04 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:40:04 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:40:04 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:40:04 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:40:04 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:40:04 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '8d6433795a2cd010ab2f88c6130f1f83'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:40:04 --> SQL : UPDATE ci_sessions SET last_activity = 1289511604, session_id = 'd5f6029dffdde72005b907f91e922ebe' WHERE session_id = '8d6433795a2cd010ab2f88c6130f1f83'
+DEBUG - 2010-11-11 16:40:04 --> Session routines successfully run
+DEBUG - 2010-11-11 16:40:04 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:40:04 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:40:04 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:40:04 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:40:04 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:40:04 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:40:04 --> Final output sent to browser
+DEBUG - 2010-11-11 16:40:04 --> Total execution time: 0.0804
+DEBUG - 2010-11-11 16:40:28 --> Config Class Initialized
+DEBUG - 2010-11-11 16:40:28 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:40:28 --> URI Class Initialized
+DEBUG - 2010-11-11 16:40:28 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:40:28 --> Router Class Initialized
+DEBUG - 2010-11-11 16:40:28 --> Output Class Initialized
+DEBUG - 2010-11-11 16:40:28 --> Input Class Initialized
+DEBUG - 2010-11-11 16:40:28 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:40:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:40:28 --> Language Class Initialized
+DEBUG - 2010-11-11 16:40:28 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:40:28 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:40:28 --> Session Class Initialized
+DEBUG - 2010-11-11 16:40:28 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:40:28 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:40:28 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:40:28 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:40:28 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:40:28 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:40:28 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:40:28 --> Session routines successfully run
+DEBUG - 2010-11-11 16:40:28 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:40:28 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:40:28 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:40:28 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:40:28 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:40:28 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:40:28 --> Final output sent to browser
+DEBUG - 2010-11-11 16:40:28 --> Total execution time: 0.0718
+DEBUG - 2010-11-11 16:41:23 --> Config Class Initialized
+DEBUG - 2010-11-11 16:41:23 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:41:23 --> URI Class Initialized
+DEBUG - 2010-11-11 16:41:23 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:41:23 --> Router Class Initialized
+DEBUG - 2010-11-11 16:41:23 --> Output Class Initialized
+DEBUG - 2010-11-11 16:41:23 --> Input Class Initialized
+DEBUG - 2010-11-11 16:41:23 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:41:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:41:23 --> Language Class Initialized
+DEBUG - 2010-11-11 16:41:23 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:41:23 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:41:23 --> Session Class Initialized
+DEBUG - 2010-11-11 16:41:23 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:41:23 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:41:23 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:41:23 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:41:23 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:41:23 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:41:23 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:41:23 --> Session routines successfully run
+DEBUG - 2010-11-11 16:41:23 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:41:23 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:41:23 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:41:23 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:41:23 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:41:23 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:41:23 --> Final output sent to browser
+DEBUG - 2010-11-11 16:41:23 --> Total execution time: 0.0735
+DEBUG - 2010-11-11 16:41:25 --> Config Class Initialized
+DEBUG - 2010-11-11 16:41:25 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:41:25 --> URI Class Initialized
+DEBUG - 2010-11-11 16:41:25 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:41:25 --> Router Class Initialized
+DEBUG - 2010-11-11 16:41:25 --> Output Class Initialized
+DEBUG - 2010-11-11 16:41:25 --> Input Class Initialized
+DEBUG - 2010-11-11 16:41:25 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:41:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:41:25 --> Language Class Initialized
+DEBUG - 2010-11-11 16:41:25 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:41:25 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:41:25 --> Session Class Initialized
+DEBUG - 2010-11-11 16:41:25 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:41:25 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:41:25 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:41:25 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:41:25 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:41:25 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:41:25 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:41:25 --> Session routines successfully run
+DEBUG - 2010-11-11 16:41:25 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:41:25 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:41:25 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:41:25 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:41:25 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:41:25 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:41:25 --> Final output sent to browser
+DEBUG - 2010-11-11 16:41:25 --> Total execution time: 0.0719
+DEBUG - 2010-11-11 16:41:30 --> Config Class Initialized
+DEBUG - 2010-11-11 16:41:30 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:41:30 --> URI Class Initialized
+DEBUG - 2010-11-11 16:41:30 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:41:30 --> Router Class Initialized
+DEBUG - 2010-11-11 16:41:30 --> Output Class Initialized
+DEBUG - 2010-11-11 16:41:30 --> Input Class Initialized
+DEBUG - 2010-11-11 16:41:30 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:41:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:41:30 --> Language Class Initialized
+DEBUG - 2010-11-11 16:41:30 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:41:30 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:41:30 --> Session Class Initialized
+DEBUG - 2010-11-11 16:41:30 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:41:30 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:41:30 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:41:30 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:41:30 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:41:30 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:41:30 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:41:30 --> Session routines successfully run
+DEBUG - 2010-11-11 16:41:30 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:41:30 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:41:30 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:41:30 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:41:30 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:41:30 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:41:30 --> Final output sent to browser
+DEBUG - 2010-11-11 16:41:30 --> Total execution time: 0.0682
+DEBUG - 2010-11-11 16:41:37 --> Config Class Initialized
+DEBUG - 2010-11-11 16:41:37 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:41:37 --> URI Class Initialized
+DEBUG - 2010-11-11 16:41:37 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:41:37 --> Router Class Initialized
+DEBUG - 2010-11-11 16:41:37 --> Output Class Initialized
+DEBUG - 2010-11-11 16:41:37 --> Input Class Initialized
+DEBUG - 2010-11-11 16:41:37 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:41:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:41:37 --> Language Class Initialized
+DEBUG - 2010-11-11 16:41:37 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:41:37 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:41:37 --> Session Class Initialized
+DEBUG - 2010-11-11 16:41:37 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:41:37 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:41:37 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:41:37 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:41:37 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:41:37 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:41:37 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:41:37 --> Session routines successfully run
+DEBUG - 2010-11-11 16:41:37 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:41:37 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:41:37 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:41:37 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:41:37 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:41:37 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:41:37 --> Final output sent to browser
+DEBUG - 2010-11-11 16:41:37 --> Total execution time: 0.0776
+DEBUG - 2010-11-11 16:41:52 --> Config Class Initialized
+DEBUG - 2010-11-11 16:41:52 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:41:52 --> URI Class Initialized
+DEBUG - 2010-11-11 16:41:52 --> Router Class Initialized
+DEBUG - 2010-11-11 16:41:52 --> Output Class Initialized
+DEBUG - 2010-11-11 16:41:52 --> Input Class Initialized
+DEBUG - 2010-11-11 16:41:52 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:41:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:41:52 --> Language Class Initialized
+DEBUG - 2010-11-11 16:41:52 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:41:52 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:41:52 --> Session Class Initialized
+DEBUG - 2010-11-11 16:41:52 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:41:52 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:41:52 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:41:52 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:41:52 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:41:52 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:41:52 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:41:52 --> Session routines successfully run
+DEBUG - 2010-11-11 16:41:52 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:41:52 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:41:52 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:41:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:41:52 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:41:52 --> Final output sent to browser
+DEBUG - 2010-11-11 16:41:52 --> Total execution time: 0.0350
+DEBUG - 2010-11-11 16:42:39 --> Config Class Initialized
+DEBUG - 2010-11-11 16:42:39 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:42:39 --> URI Class Initialized
+DEBUG - 2010-11-11 16:42:39 --> Router Class Initialized
+DEBUG - 2010-11-11 16:42:39 --> Output Class Initialized
+DEBUG - 2010-11-11 16:42:39 --> Input Class Initialized
+DEBUG - 2010-11-11 16:42:39 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:42:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:42:39 --> Language Class Initialized
+DEBUG - 2010-11-11 16:42:39 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:42:39 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:42:39 --> Session Class Initialized
+DEBUG - 2010-11-11 16:42:39 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:42:39 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:42:39 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:42:39 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:42:39 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:42:39 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:42:39 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:42:39 --> Session routines successfully run
+DEBUG - 2010-11-11 16:42:39 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:42:39 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:42:39 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:42:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:42:39 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:42:39 --> Final output sent to browser
+DEBUG - 2010-11-11 16:42:39 --> Total execution time: 0.0770
+DEBUG - 2010-11-11 16:42:42 --> Config Class Initialized
+DEBUG - 2010-11-11 16:42:42 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:42:42 --> URI Class Initialized
+DEBUG - 2010-11-11 16:42:42 --> Router Class Initialized
+DEBUG - 2010-11-11 16:42:42 --> Output Class Initialized
+DEBUG - 2010-11-11 16:42:42 --> Input Class Initialized
+DEBUG - 2010-11-11 16:42:42 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:42:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:42:42 --> Language Class Initialized
+DEBUG - 2010-11-11 16:42:42 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:42:42 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:42:42 --> Session Class Initialized
+DEBUG - 2010-11-11 16:42:42 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:42:42 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:42:42 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:42:42 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:42:42 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:42:42 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:42:42 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:42:42 --> Session routines successfully run
+DEBUG - 2010-11-11 16:42:42 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:42:42 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:42:42 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:42:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:42:42 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:42:42 --> Final output sent to browser
+DEBUG - 2010-11-11 16:42:42 --> Total execution time: 0.0722
+DEBUG - 2010-11-11 16:42:43 --> Config Class Initialized
+DEBUG - 2010-11-11 16:42:43 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:42:43 --> URI Class Initialized
+DEBUG - 2010-11-11 16:42:43 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:42:43 --> Router Class Initialized
+DEBUG - 2010-11-11 16:42:43 --> Output Class Initialized
+DEBUG - 2010-11-11 16:42:43 --> Input Class Initialized
+DEBUG - 2010-11-11 16:42:43 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:42:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:42:43 --> Language Class Initialized
+DEBUG - 2010-11-11 16:42:43 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:42:43 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:42:43 --> Session Class Initialized
+DEBUG - 2010-11-11 16:42:43 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:42:43 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:42:43 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:42:43 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:42:43 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:42:43 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:42:43 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:42:43 --> Session routines successfully run
+DEBUG - 2010-11-11 16:42:43 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:42:43 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:42:43 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:42:43 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:42:43 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:42:43 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:42:43 --> Final output sent to browser
+DEBUG - 2010-11-11 16:42:43 --> Total execution time: 0.0730
+DEBUG - 2010-11-11 16:42:58 --> Config Class Initialized
+DEBUG - 2010-11-11 16:42:58 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:42:58 --> URI Class Initialized
+DEBUG - 2010-11-11 16:42:58 --> Router Class Initialized
+DEBUG - 2010-11-11 16:42:58 --> Output Class Initialized
+DEBUG - 2010-11-11 16:42:58 --> Input Class Initialized
+DEBUG - 2010-11-11 16:42:58 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:42:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:42:58 --> Language Class Initialized
+DEBUG - 2010-11-11 16:42:58 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:42:58 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:42:58 --> Session Class Initialized
+DEBUG - 2010-11-11 16:42:58 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:42:58 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:42:58 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:42:58 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:42:58 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:42:58 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:42:58 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:42:58 --> Session routines successfully run
+DEBUG - 2010-11-11 16:42:58 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:42:58 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:42:58 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:42:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:42:58 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:42:58 --> Final output sent to browser
+DEBUG - 2010-11-11 16:42:58 --> Total execution time: 0.0706
+DEBUG - 2010-11-11 16:43:23 --> Config Class Initialized
+DEBUG - 2010-11-11 16:43:23 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:43:23 --> URI Class Initialized
+DEBUG - 2010-11-11 16:43:23 --> Router Class Initialized
+DEBUG - 2010-11-11 16:43:23 --> Output Class Initialized
+DEBUG - 2010-11-11 16:43:23 --> Input Class Initialized
+DEBUG - 2010-11-11 16:43:23 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:43:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:43:23 --> Language Class Initialized
+DEBUG - 2010-11-11 16:43:23 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:43:23 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:43:23 --> Session Class Initialized
+DEBUG - 2010-11-11 16:43:23 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:43:23 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:43:23 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:43:23 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:43:23 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:43:23 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:43:23 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:43:23 --> Session routines successfully run
+DEBUG - 2010-11-11 16:43:23 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:43:23 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:43:23 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:43:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:43:23 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:43:23 --> Final output sent to browser
+DEBUG - 2010-11-11 16:43:23 --> Total execution time: 0.0778
+DEBUG - 2010-11-11 16:43:25 --> Config Class Initialized
+DEBUG - 2010-11-11 16:43:25 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:43:25 --> URI Class Initialized
+DEBUG - 2010-11-11 16:43:25 --> Router Class Initialized
+DEBUG - 2010-11-11 16:43:25 --> Output Class Initialized
+DEBUG - 2010-11-11 16:43:25 --> Input Class Initialized
+DEBUG - 2010-11-11 16:43:25 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:43:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:43:25 --> Language Class Initialized
+DEBUG - 2010-11-11 16:43:25 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:43:25 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:43:25 --> Session Class Initialized
+DEBUG - 2010-11-11 16:43:25 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:43:25 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:43:25 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:43:25 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:43:25 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:43:25 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:43:25 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:43:25 --> Session routines successfully run
+DEBUG - 2010-11-11 16:43:25 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:43:25 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:43:25 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:43:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:43:25 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:43:25 --> Final output sent to browser
+DEBUG - 2010-11-11 16:43:25 --> Total execution time: 0.0478
+DEBUG - 2010-11-11 16:43:30 --> Config Class Initialized
+DEBUG - 2010-11-11 16:43:30 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:43:30 --> URI Class Initialized
+DEBUG - 2010-11-11 16:43:30 --> Router Class Initialized
+DEBUG - 2010-11-11 16:43:30 --> Output Class Initialized
+DEBUG - 2010-11-11 16:43:30 --> Input Class Initialized
+DEBUG - 2010-11-11 16:43:30 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:43:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:43:30 --> Language Class Initialized
+DEBUG - 2010-11-11 16:43:30 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:43:30 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:43:30 --> Session Class Initialized
+DEBUG - 2010-11-11 16:43:30 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:43:30 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:43:30 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:43:30 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:43:30 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:43:30 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:43:30 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:43:30 --> Session routines successfully run
+DEBUG - 2010-11-11 16:43:30 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:43:30 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:43:30 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:43:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:43:30 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:43:30 --> Final output sent to browser
+DEBUG - 2010-11-11 16:43:30 --> Total execution time: 0.0802
+DEBUG - 2010-11-11 16:43:42 --> Config Class Initialized
+DEBUG - 2010-11-11 16:43:42 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:43:42 --> URI Class Initialized
+DEBUG - 2010-11-11 16:43:42 --> Router Class Initialized
+DEBUG - 2010-11-11 16:43:42 --> Output Class Initialized
+DEBUG - 2010-11-11 16:43:42 --> Input Class Initialized
+DEBUG - 2010-11-11 16:43:42 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:43:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:43:42 --> Language Class Initialized
+DEBUG - 2010-11-11 16:43:42 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:43:42 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:43:42 --> Session Class Initialized
+DEBUG - 2010-11-11 16:43:42 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:43:42 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:43:42 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:43:42 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:43:42 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:43:42 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:43:42 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:43:42 --> Session routines successfully run
+DEBUG - 2010-11-11 16:43:42 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:43:42 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:43:42 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:43:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:43:42 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:43:42 --> Final output sent to browser
+DEBUG - 2010-11-11 16:43:42 --> Total execution time: 0.0329
+DEBUG - 2010-11-11 16:43:43 --> Config Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> URI Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Router Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Output Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Input Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:43:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:43:43 --> Language Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:43:43 --> Session Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:43:43 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:43:43 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:43:43 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:43:43 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:43:43 --> Session routines successfully run
+DEBUG - 2010-11-11 16:43:43 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:43:43 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:43:43 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:43:43 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:43:43 --> Final output sent to browser
+DEBUG - 2010-11-11 16:43:43 --> Total execution time: 0.0714
+DEBUG - 2010-11-11 16:43:43 --> Config Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> URI Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Router Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Output Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Input Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:43:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:43:43 --> Language Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:43:43 --> Session Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:43:43 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:43:43 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:43:43 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:43:43 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:43:43 --> Session routines successfully run
+DEBUG - 2010-11-11 16:43:43 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:43:43 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:43:43 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:43:43 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:43:43 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:43:43 --> Final output sent to browser
+DEBUG - 2010-11-11 16:43:43 --> Total execution time: 0.0341
+DEBUG - 2010-11-11 16:44:12 --> Config Class Initialized
+DEBUG - 2010-11-11 16:44:12 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:44:12 --> URI Class Initialized
+DEBUG - 2010-11-11 16:44:12 --> Router Class Initialized
+DEBUG - 2010-11-11 16:44:12 --> Output Class Initialized
+DEBUG - 2010-11-11 16:44:12 --> Input Class Initialized
+DEBUG - 2010-11-11 16:44:12 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:44:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:44:12 --> Language Class Initialized
+DEBUG - 2010-11-11 16:44:12 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:44:12 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:44:12 --> Session Class Initialized
+DEBUG - 2010-11-11 16:44:12 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:44:12 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:44:12 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:44:12 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:44:12 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:44:12 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:44:12 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '65b0fb5b1d5a38b8f4aa28a2e5a9b207'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:44:12 --> SQL : UPDATE ci_sessions SET last_activity = 1289511852, session_id = '2bf980cd7ac2345b8f301f6dfcd224c7' WHERE session_id = '65b0fb5b1d5a38b8f4aa28a2e5a9b207'
+DEBUG - 2010-11-11 16:44:12 --> Session routines successfully run
+DEBUG - 2010-11-11 16:44:12 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:44:12 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:44:12 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:44:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:44:12 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:44:12 --> Final output sent to browser
+DEBUG - 2010-11-11 16:44:12 --> Total execution time: 0.0428
+DEBUG - 2010-11-11 16:44:41 --> Config Class Initialized
+DEBUG - 2010-11-11 16:44:41 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:44:41 --> URI Class Initialized
+DEBUG - 2010-11-11 16:44:41 --> Router Class Initialized
+DEBUG - 2010-11-11 16:44:41 --> Output Class Initialized
+DEBUG - 2010-11-11 16:44:41 --> Input Class Initialized
+DEBUG - 2010-11-11 16:44:41 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:44:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:44:41 --> Language Class Initialized
+DEBUG - 2010-11-11 16:44:41 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:44:41 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:44:41 --> Session Class Initialized
+DEBUG - 2010-11-11 16:44:41 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:44:41 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:44:41 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:44:41 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:44:41 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:44:41 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:44:41 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:44:41 --> Session routines successfully run
+DEBUG - 2010-11-11 16:44:41 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:44:41 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:44:41 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:44:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:44:41 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:44:41 --> Final output sent to browser
+DEBUG - 2010-11-11 16:44:41 --> Total execution time: 0.0764
+DEBUG - 2010-11-11 16:44:45 --> Config Class Initialized
+DEBUG - 2010-11-11 16:44:45 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:44:45 --> URI Class Initialized
+DEBUG - 2010-11-11 16:44:46 --> Router Class Initialized
+DEBUG - 2010-11-11 16:44:46 --> Output Class Initialized
+DEBUG - 2010-11-11 16:44:46 --> Input Class Initialized
+DEBUG - 2010-11-11 16:44:46 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:44:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:44:46 --> Language Class Initialized
+DEBUG - 2010-11-11 16:44:46 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:44:46 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:44:46 --> Session Class Initialized
+DEBUG - 2010-11-11 16:44:46 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:44:46 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:44:46 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:44:46 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:44:46 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:44:46 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:44:46 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '2bf980cd7ac2345b8f301f6dfcd224c7'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:44:46 --> Session routines successfully run
+DEBUG - 2010-11-11 16:44:46 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:44:46 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:44:46 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:44:46 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:44:46 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:44:46 --> Final output sent to browser
+DEBUG - 2010-11-11 16:44:46 --> Total execution time: 0.0909
+DEBUG - 2010-11-11 16:45:37 --> Config Class Initialized
+DEBUG - 2010-11-11 16:45:37 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:45:37 --> URI Class Initialized
+DEBUG - 2010-11-11 16:45:37 --> Router Class Initialized
+DEBUG - 2010-11-11 16:45:37 --> Output Class Initialized
+DEBUG - 2010-11-11 16:45:37 --> Input Class Initialized
+DEBUG - 2010-11-11 16:45:37 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:45:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:45:37 --> Language Class Initialized
+DEBUG - 2010-11-11 16:45:37 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:45:37 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:45:37 --> Session Class Initialized
+DEBUG - 2010-11-11 16:45:37 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:45:37 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:45:37 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:45:37 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:45:37 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:45:37 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:45:38 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '2bf980cd7ac2345b8f301f6dfcd224c7'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:45:38 --> Session routines successfully run
+DEBUG - 2010-11-11 16:45:38 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:45:38 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:45:38 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:45:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:45:38 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:45:38 --> Final output sent to browser
+DEBUG - 2010-11-11 16:45:38 --> Total execution time: 0.0388
+DEBUG - 2010-11-11 16:45:52 --> Config Class Initialized
+DEBUG - 2010-11-11 16:45:52 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:45:52 --> URI Class Initialized
+DEBUG - 2010-11-11 16:45:52 --> Router Class Initialized
+DEBUG - 2010-11-11 16:45:52 --> Output Class Initialized
+DEBUG - 2010-11-11 16:45:52 --> Input Class Initialized
+DEBUG - 2010-11-11 16:45:52 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:45:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:45:52 --> Language Class Initialized
+DEBUG - 2010-11-11 16:45:52 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:45:52 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:45:53 --> Session Class Initialized
+DEBUG - 2010-11-11 16:45:53 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:45:53 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:45:53 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:45:53 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:45:53 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:45:53 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:45:53 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '2bf980cd7ac2345b8f301f6dfcd224c7'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:45:53 --> Session routines successfully run
+DEBUG - 2010-11-11 16:45:53 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:45:53 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:45:53 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:45:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:45:53 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:45:53 --> Final output sent to browser
+DEBUG - 2010-11-11 16:45:53 --> Total execution time: 0.0778
+DEBUG - 2010-11-11 16:45:59 --> Config Class Initialized
+DEBUG - 2010-11-11 16:45:59 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:45:59 --> URI Class Initialized
+DEBUG - 2010-11-11 16:45:59 --> Router Class Initialized
+DEBUG - 2010-11-11 16:45:59 --> Output Class Initialized
+DEBUG - 2010-11-11 16:45:59 --> Input Class Initialized
+DEBUG - 2010-11-11 16:45:59 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:45:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:45:59 --> Language Class Initialized
+DEBUG - 2010-11-11 16:45:59 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:45:59 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:45:59 --> Session Class Initialized
+DEBUG - 2010-11-11 16:45:59 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:45:59 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:45:59 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:45:59 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:45:59 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:45:59 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:45:59 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '2bf980cd7ac2345b8f301f6dfcd224c7'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:45:59 --> Session routines successfully run
+DEBUG - 2010-11-11 16:45:59 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:45:59 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:45:59 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:45:59 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:45:59 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:45:59 --> Final output sent to browser
+DEBUG - 2010-11-11 16:45:59 --> Total execution time: 0.0786
+DEBUG - 2010-11-11 16:46:26 --> Config Class Initialized
+DEBUG - 2010-11-11 16:46:26 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:46:26 --> URI Class Initialized
+DEBUG - 2010-11-11 16:46:26 --> Router Class Initialized
+DEBUG - 2010-11-11 16:46:26 --> Output Class Initialized
+DEBUG - 2010-11-11 16:46:26 --> Input Class Initialized
+DEBUG - 2010-11-11 16:46:26 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:46:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:46:26 --> Language Class Initialized
+DEBUG - 2010-11-11 16:46:26 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:46:26 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:46:26 --> Session Class Initialized
+DEBUG - 2010-11-11 16:46:26 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:46:26 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:46:26 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:46:26 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:46:26 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:46:26 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:46:26 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '2bf980cd7ac2345b8f301f6dfcd224c7'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:46:26 --> Session routines successfully run
+DEBUG - 2010-11-11 16:46:26 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:46:26 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:46:26 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:46:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:46:26 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:46:26 --> Final output sent to browser
+DEBUG - 2010-11-11 16:46:26 --> Total execution time: 0.0769
+DEBUG - 2010-11-11 16:48:11 --> Config Class Initialized
+DEBUG - 2010-11-11 16:48:11 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:48:11 --> URI Class Initialized
+DEBUG - 2010-11-11 16:48:11 --> Router Class Initialized
+DEBUG - 2010-11-11 16:48:11 --> Output Class Initialized
+DEBUG - 2010-11-11 16:48:11 --> Input Class Initialized
+DEBUG - 2010-11-11 16:48:11 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:48:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:48:11 --> Language Class Initialized
+DEBUG - 2010-11-11 16:48:11 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:48:11 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:48:11 --> Session Class Initialized
+DEBUG - 2010-11-11 16:48:11 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:48:11 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:48:11 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:48:11 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:48:11 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:48:11 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:48:11 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '2bf980cd7ac2345b8f301f6dfcd224c7'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:48:11 --> Session routines successfully run
+DEBUG - 2010-11-11 16:48:11 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:48:11 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:48:11 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:48:11 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:48:11 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:48:11 --> Final output sent to browser
+DEBUG - 2010-11-11 16:48:11 --> Total execution time: 0.0737
+DEBUG - 2010-11-11 16:48:38 --> Config Class Initialized
+DEBUG - 2010-11-11 16:48:38 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:48:38 --> URI Class Initialized
+DEBUG - 2010-11-11 16:48:38 --> Router Class Initialized
+DEBUG - 2010-11-11 16:48:38 --> Output Class Initialized
+DEBUG - 2010-11-11 16:48:38 --> Input Class Initialized
+DEBUG - 2010-11-11 16:48:38 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:48:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:48:38 --> Language Class Initialized
+DEBUG - 2010-11-11 16:48:38 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:48:38 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:48:38 --> Session Class Initialized
+DEBUG - 2010-11-11 16:48:38 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:48:38 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:48:38 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:48:38 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:48:38 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:48:38 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:48:38 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '2bf980cd7ac2345b8f301f6dfcd224c7'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:48:38 --> Session routines successfully run
+DEBUG - 2010-11-11 16:48:38 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:48:38 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:48:38 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:48:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:48:38 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:48:38 --> Final output sent to browser
+DEBUG - 2010-11-11 16:48:38 --> Total execution time: 0.0746
+DEBUG - 2010-11-11 16:48:41 --> Config Class Initialized
+DEBUG - 2010-11-11 16:48:41 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:48:41 --> URI Class Initialized
+DEBUG - 2010-11-11 16:48:41 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:48:41 --> Router Class Initialized
+DEBUG - 2010-11-11 16:48:41 --> Output Class Initialized
+DEBUG - 2010-11-11 16:48:41 --> Input Class Initialized
+DEBUG - 2010-11-11 16:48:41 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:48:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:48:41 --> Language Class Initialized
+DEBUG - 2010-11-11 16:48:41 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:48:41 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:48:41 --> Session Class Initialized
+DEBUG - 2010-11-11 16:48:41 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:48:41 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:48:41 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:48:41 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:48:41 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:48:41 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:48:41 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '2bf980cd7ac2345b8f301f6dfcd224c7'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:48:41 --> Session routines successfully run
+DEBUG - 2010-11-11 16:48:41 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:48:41 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:48:41 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:48:41 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:48:41 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:48:41 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:48:41 --> Final output sent to browser
+DEBUG - 2010-11-11 16:48:41 --> Total execution time: 0.0715
+DEBUG - 2010-11-11 16:49:01 --> Config Class Initialized
+DEBUG - 2010-11-11 16:49:01 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:49:01 --> URI Class Initialized
+DEBUG - 2010-11-11 16:49:01 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:49:01 --> Router Class Initialized
+DEBUG - 2010-11-11 16:49:01 --> Output Class Initialized
+DEBUG - 2010-11-11 16:49:01 --> Input Class Initialized
+DEBUG - 2010-11-11 16:49:01 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:49:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:49:01 --> Language Class Initialized
+DEBUG - 2010-11-11 16:49:01 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:49:01 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:49:01 --> Session Class Initialized
+DEBUG - 2010-11-11 16:49:01 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:49:01 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:49:01 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:49:01 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:49:01 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:49:01 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:49:01 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '2bf980cd7ac2345b8f301f6dfcd224c7'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:49:01 --> Session routines successfully run
+DEBUG - 2010-11-11 16:49:01 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:49:01 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:49:01 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:49:01 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:49:01 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:49:01 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:49:01 --> Final output sent to browser
+DEBUG - 2010-11-11 16:49:01 --> Total execution time: 0.0724
+DEBUG - 2010-11-11 16:49:09 --> Config Class Initialized
+DEBUG - 2010-11-11 16:49:09 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:49:09 --> URI Class Initialized
+DEBUG - 2010-11-11 16:49:09 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:49:09 --> Router Class Initialized
+DEBUG - 2010-11-11 16:49:09 --> Output Class Initialized
+DEBUG - 2010-11-11 16:49:09 --> Input Class Initialized
+DEBUG - 2010-11-11 16:49:09 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:49:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:49:09 --> Language Class Initialized
+DEBUG - 2010-11-11 16:49:09 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:49:09 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:49:09 --> Session Class Initialized
+DEBUG - 2010-11-11 16:49:09 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:49:09 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:49:09 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:49:09 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:49:09 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:49:09 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:49:09 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '2bf980cd7ac2345b8f301f6dfcd224c7'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:49:09 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289504949
+DEBUG - 2010-11-11 16:49:09 --> Session garbage collection performed.
+DEBUG - 2010-11-11 16:49:09 --> Session routines successfully run
+DEBUG - 2010-11-11 16:49:09 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:49:09 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:49:09 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:49:09 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:49:09 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:49:09 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:49:09 --> Final output sent to browser
+DEBUG - 2010-11-11 16:49:09 --> Total execution time: 0.0732
+DEBUG - 2010-11-11 16:49:10 --> Config Class Initialized
+DEBUG - 2010-11-11 16:49:10 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:49:10 --> URI Class Initialized
+DEBUG - 2010-11-11 16:49:10 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:49:10 --> Router Class Initialized
+DEBUG - 2010-11-11 16:49:10 --> Output Class Initialized
+DEBUG - 2010-11-11 16:49:10 --> Input Class Initialized
+DEBUG - 2010-11-11 16:49:10 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:49:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:49:10 --> Language Class Initialized
+DEBUG - 2010-11-11 16:49:10 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:49:10 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:49:10 --> Session Class Initialized
+DEBUG - 2010-11-11 16:49:10 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:49:10 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:49:10 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:49:10 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:49:10 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:49:10 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:49:10 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '2bf980cd7ac2345b8f301f6dfcd224c7'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:49:10 --> Session routines successfully run
+DEBUG - 2010-11-11 16:49:10 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:49:10 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:49:10 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:49:10 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:49:10 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:49:10 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:49:10 --> Final output sent to browser
+DEBUG - 2010-11-11 16:49:10 --> Total execution time: 0.0316
+DEBUG - 2010-11-11 16:49:50 --> Config Class Initialized
+DEBUG - 2010-11-11 16:49:50 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:49:50 --> URI Class Initialized
+DEBUG - 2010-11-11 16:49:50 --> Router Class Initialized
+DEBUG - 2010-11-11 16:49:50 --> Output Class Initialized
+DEBUG - 2010-11-11 16:49:50 --> Input Class Initialized
+DEBUG - 2010-11-11 16:49:50 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:49:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:49:50 --> Language Class Initialized
+DEBUG - 2010-11-11 16:49:50 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:49:50 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:49:50 --> Session Class Initialized
+DEBUG - 2010-11-11 16:49:50 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:49:50 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:49:50 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:49:50 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:49:50 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:49:50 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:49:50 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:49:50 --> SQL : UPDATE ci_sessions SET last_activity = 1289512190, session_id = 'f10ea5e37aec81eb8bb7149eeb0389b8' WHERE session_id = 'd5f6029dffdde72005b907f91e922ebe'
+DEBUG - 2010-11-11 16:49:50 --> Session routines successfully run
+DEBUG - 2010-11-11 16:49:50 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:49:50 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:49:50 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:49:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:49:50 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:49:50 --> Final output sent to browser
+DEBUG - 2010-11-11 16:49:50 --> Total execution time: 0.0814
+DEBUG - 2010-11-11 16:49:51 --> Config Class Initialized
+DEBUG - 2010-11-11 16:49:51 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:49:51 --> URI Class Initialized
+DEBUG - 2010-11-11 16:49:51 --> Router Class Initialized
+DEBUG - 2010-11-11 16:49:51 --> Output Class Initialized
+DEBUG - 2010-11-11 16:49:51 --> Input Class Initialized
+DEBUG - 2010-11-11 16:49:51 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:49:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:49:51 --> Language Class Initialized
+DEBUG - 2010-11-11 16:49:51 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:49:51 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:49:51 --> Session Class Initialized
+DEBUG - 2010-11-11 16:49:51 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:49:51 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:49:51 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:49:51 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:49:51 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:49:51 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:49:51 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'f10ea5e37aec81eb8bb7149eeb0389b8'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 16:49:51 --> Session routines successfully run
+DEBUG - 2010-11-11 16:49:51 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:49:51 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:49:51 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 16:49:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 16:49:51 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 16:49:51 --> Final output sent to browser
+DEBUG - 2010-11-11 16:49:51 --> Total execution time: 0.0726
+DEBUG - 2010-11-11 16:50:53 --> Config Class Initialized
+DEBUG - 2010-11-11 16:50:53 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:50:53 --> URI Class Initialized
+DEBUG - 2010-11-11 16:50:53 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:50:53 --> Router Class Initialized
+DEBUG - 2010-11-11 16:50:53 --> Output Class Initialized
+DEBUG - 2010-11-11 16:50:53 --> Input Class Initialized
+DEBUG - 2010-11-11 16:50:53 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:50:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:50:53 --> Language Class Initialized
+DEBUG - 2010-11-11 16:50:53 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:50:53 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:50:53 --> Session Class Initialized
+DEBUG - 2010-11-11 16:50:53 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:50:53 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:50:53 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:50:53 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:50:53 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:50:53 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:50:53 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '2bf980cd7ac2345b8f301f6dfcd224c7'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:50:53 --> SQL : UPDATE ci_sessions SET last_activity = 1289512253, session_id = '179c31536e523c335270411e61a46a83' WHERE session_id = '2bf980cd7ac2345b8f301f6dfcd224c7'
+DEBUG - 2010-11-11 16:50:53 --> Session routines successfully run
+DEBUG - 2010-11-11 16:50:53 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:50:53 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:50:53 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:50:53 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:50:53 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:50:53 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:50:53 --> Final output sent to browser
+DEBUG - 2010-11-11 16:50:53 --> Total execution time: 0.0827
+DEBUG - 2010-11-11 16:51:02 --> Config Class Initialized
+DEBUG - 2010-11-11 16:51:02 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:51:02 --> URI Class Initialized
+DEBUG - 2010-11-11 16:51:02 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:51:02 --> Router Class Initialized
+DEBUG - 2010-11-11 16:51:02 --> Output Class Initialized
+DEBUG - 2010-11-11 16:51:02 --> Input Class Initialized
+DEBUG - 2010-11-11 16:51:02 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:51:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:51:02 --> Language Class Initialized
+DEBUG - 2010-11-11 16:51:02 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:51:02 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:51:02 --> Session Class Initialized
+DEBUG - 2010-11-11 16:51:02 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:51:02 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:51:02 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:51:02 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:51:02 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:51:02 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:51:02 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '179c31536e523c335270411e61a46a83'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:51:02 --> Session routines successfully run
+DEBUG - 2010-11-11 16:51:02 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:51:02 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:51:02 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:51:02 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:51:02 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:51:02 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:51:02 --> Final output sent to browser
+DEBUG - 2010-11-11 16:51:02 --> Total execution time: 0.0701
+DEBUG - 2010-11-11 16:51:25 --> Config Class Initialized
+DEBUG - 2010-11-11 16:51:25 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:51:25 --> URI Class Initialized
+DEBUG - 2010-11-11 16:51:25 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:51:25 --> Router Class Initialized
+DEBUG - 2010-11-11 16:51:25 --> Output Class Initialized
+DEBUG - 2010-11-11 16:51:25 --> Input Class Initialized
+DEBUG - 2010-11-11 16:51:25 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:51:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:51:25 --> Language Class Initialized
+DEBUG - 2010-11-11 16:51:25 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:51:25 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:51:25 --> Session Class Initialized
+DEBUG - 2010-11-11 16:51:25 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:51:25 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:51:25 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:51:25 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:51:25 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:51:25 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:51:25 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '179c31536e523c335270411e61a46a83'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:51:25 --> Session routines successfully run
+DEBUG - 2010-11-11 16:51:25 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:51:25 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:51:25 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:51:25 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:51:25 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:51:25 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:51:25 --> Final output sent to browser
+DEBUG - 2010-11-11 16:51:25 --> Total execution time: 0.0876
+DEBUG - 2010-11-11 16:52:24 --> Config Class Initialized
+DEBUG - 2010-11-11 16:52:24 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:52:24 --> URI Class Initialized
+DEBUG - 2010-11-11 16:52:24 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:52:24 --> Router Class Initialized
+DEBUG - 2010-11-11 16:52:24 --> Output Class Initialized
+DEBUG - 2010-11-11 16:52:24 --> Input Class Initialized
+DEBUG - 2010-11-11 16:52:24 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:52:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:52:24 --> Language Class Initialized
+DEBUG - 2010-11-11 16:52:24 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:52:24 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:52:24 --> Session Class Initialized
+DEBUG - 2010-11-11 16:52:24 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:52:24 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:52:24 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:52:24 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:52:24 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:52:24 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:52:24 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '179c31536e523c335270411e61a46a83'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:52:24 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289505144
+DEBUG - 2010-11-11 16:52:24 --> Session garbage collection performed.
+DEBUG - 2010-11-11 16:52:24 --> Session routines successfully run
+DEBUG - 2010-11-11 16:52:24 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:52:24 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:52:24 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:52:24 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:52:24 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:52:24 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:52:24 --> Final output sent to browser
+DEBUG - 2010-11-11 16:52:24 --> Total execution time: 0.1338
+DEBUG - 2010-11-11 16:57:50 --> Config Class Initialized
+DEBUG - 2010-11-11 16:57:50 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:57:50 --> URI Class Initialized
+DEBUG - 2010-11-11 16:57:50 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:57:50 --> Router Class Initialized
+DEBUG - 2010-11-11 16:57:50 --> Output Class Initialized
+DEBUG - 2010-11-11 16:57:50 --> Input Class Initialized
+DEBUG - 2010-11-11 16:57:50 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:57:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:57:50 --> Language Class Initialized
+DEBUG - 2010-11-11 16:57:50 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:57:50 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:57:50 --> Session Class Initialized
+DEBUG - 2010-11-11 16:57:50 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:57:50 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:57:50 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:57:50 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:57:50 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:57:50 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:57:50 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '179c31536e523c335270411e61a46a83'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:57:50 --> SQL : UPDATE ci_sessions SET last_activity = 1289512670, session_id = '8636e1de3d0c22ad50f1ca981e757e1d' WHERE session_id = '179c31536e523c335270411e61a46a83'
+DEBUG - 2010-11-11 16:57:50 --> Session routines successfully run
+DEBUG - 2010-11-11 16:57:50 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:57:50 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:57:50 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:57:50 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:57:50 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:57:50 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:57:50 --> Final output sent to browser
+DEBUG - 2010-11-11 16:57:50 --> Total execution time: 0.0820
+DEBUG - 2010-11-11 16:59:11 --> Config Class Initialized
+DEBUG - 2010-11-11 16:59:11 --> Hooks Class Initialized
+DEBUG - 2010-11-11 16:59:11 --> URI Class Initialized
+DEBUG - 2010-11-11 16:59:11 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 16:59:11 --> Router Class Initialized
+DEBUG - 2010-11-11 16:59:11 --> Output Class Initialized
+DEBUG - 2010-11-11 16:59:11 --> Input Class Initialized
+DEBUG - 2010-11-11 16:59:11 --> XSS Filtering completed
+DEBUG - 2010-11-11 16:59:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 16:59:11 --> Language Class Initialized
+DEBUG - 2010-11-11 16:59:11 --> Loader Class Initialized
+DEBUG - 2010-11-11 16:59:11 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 16:59:11 --> Session Class Initialized
+DEBUG - 2010-11-11 16:59:11 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 16:59:11 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 16:59:11 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 16:59:11 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 16:59:11 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 16:59:11 --> PDO driver connection ok
+DEBUG - 2010-11-11 16:59:11 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '8636e1de3d0c22ad50f1ca981e757e1d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 16:59:11 --> Session routines successfully run
+DEBUG - 2010-11-11 16:59:11 --> Controller Class Initialized
+DEBUG - 2010-11-11 16:59:11 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 16:59:11 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 16:59:11 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 16:59:11 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 16:59:11 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 16:59:11 --> Final output sent to browser
+DEBUG - 2010-11-11 16:59:11 --> Total execution time: 0.0729
+DEBUG - 2010-11-11 17:01:25 --> Config Class Initialized
+DEBUG - 2010-11-11 17:01:25 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:01:25 --> URI Class Initialized
+DEBUG - 2010-11-11 17:01:25 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:01:25 --> Router Class Initialized
+DEBUG - 2010-11-11 17:01:25 --> Output Class Initialized
+DEBUG - 2010-11-11 17:01:25 --> Input Class Initialized
+DEBUG - 2010-11-11 17:01:25 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:01:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:01:25 --> Language Class Initialized
+DEBUG - 2010-11-11 17:01:25 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:01:25 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:01:25 --> Session Class Initialized
+DEBUG - 2010-11-11 17:01:25 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:01:25 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:01:25 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:01:25 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:01:25 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:01:25 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:01:25 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '8636e1de3d0c22ad50f1ca981e757e1d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:01:25 --> Session routines successfully run
+DEBUG - 2010-11-11 17:01:25 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:01:25 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:01:25 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:01:25 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:01:25 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:01:25 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:01:25 --> Final output sent to browser
+DEBUG - 2010-11-11 17:01:25 --> Total execution time: 0.0697
+DEBUG - 2010-11-11 17:01:46 --> Config Class Initialized
+DEBUG - 2010-11-11 17:01:46 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:01:46 --> URI Class Initialized
+DEBUG - 2010-11-11 17:01:46 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:01:46 --> Router Class Initialized
+DEBUG - 2010-11-11 17:01:46 --> Output Class Initialized
+DEBUG - 2010-11-11 17:01:46 --> Input Class Initialized
+DEBUG - 2010-11-11 17:01:46 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:01:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:01:46 --> Language Class Initialized
+DEBUG - 2010-11-11 17:01:46 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:01:46 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:01:46 --> Session Class Initialized
+DEBUG - 2010-11-11 17:01:46 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:01:46 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:01:46 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:01:46 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:01:46 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:01:46 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:01:46 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '8636e1de3d0c22ad50f1ca981e757e1d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:01:46 --> Session routines successfully run
+DEBUG - 2010-11-11 17:01:46 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:01:46 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:01:46 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:01:46 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:01:46 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:01:46 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:01:46 --> Final output sent to browser
+DEBUG - 2010-11-11 17:01:46 --> Total execution time: 0.0727
+DEBUG - 2010-11-11 17:04:44 --> Config Class Initialized
+DEBUG - 2010-11-11 17:04:44 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:04:44 --> URI Class Initialized
+DEBUG - 2010-11-11 17:04:44 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:04:44 --> Router Class Initialized
+DEBUG - 2010-11-11 17:04:44 --> Output Class Initialized
+DEBUG - 2010-11-11 17:04:44 --> Input Class Initialized
+DEBUG - 2010-11-11 17:04:44 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:04:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:04:44 --> Language Class Initialized
+DEBUG - 2010-11-11 17:04:44 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:04:44 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:04:44 --> Session Class Initialized
+DEBUG - 2010-11-11 17:04:44 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:04:44 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:04:44 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:04:44 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:04:44 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:04:44 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:04:44 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '8636e1de3d0c22ad50f1ca981e757e1d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:04:44 --> SQL : UPDATE ci_sessions SET last_activity = 1289513084, session_id = '966da764fab3919db1568f0db974cbe2' WHERE session_id = '8636e1de3d0c22ad50f1ca981e757e1d'
+DEBUG - 2010-11-11 17:04:44 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289505884
+DEBUG - 2010-11-11 17:04:44 --> Session garbage collection performed.
+DEBUG - 2010-11-11 17:04:44 --> Session routines successfully run
+DEBUG - 2010-11-11 17:04:44 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:04:44 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:04:44 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:04:44 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:04:44 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:04:44 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:04:44 --> Final output sent to browser
+DEBUG - 2010-11-11 17:04:44 --> Total execution time: 0.0787
+DEBUG - 2010-11-11 17:06:02 --> Config Class Initialized
+DEBUG - 2010-11-11 17:06:02 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:06:02 --> URI Class Initialized
+DEBUG - 2010-11-11 17:06:02 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:06:02 --> Router Class Initialized
+DEBUG - 2010-11-11 17:06:02 --> Output Class Initialized
+DEBUG - 2010-11-11 17:06:02 --> Input Class Initialized
+DEBUG - 2010-11-11 17:06:02 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:06:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:06:02 --> Language Class Initialized
+DEBUG - 2010-11-11 17:06:02 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:06:02 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:06:02 --> Session Class Initialized
+DEBUG - 2010-11-11 17:06:02 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:06:02 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:06:02 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:06:02 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:06:02 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:06:02 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:06:02 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '966da764fab3919db1568f0db974cbe2'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:06:02 --> Session routines successfully run
+DEBUG - 2010-11-11 17:06:02 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:06:02 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:06:02 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:06:02 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:06:02 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:06:02 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:06:02 --> Final output sent to browser
+DEBUG - 2010-11-11 17:06:02 --> Total execution time: 0.0754
+DEBUG - 2010-11-11 17:06:42 --> Config Class Initialized
+DEBUG - 2010-11-11 17:06:42 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:06:42 --> URI Class Initialized
+DEBUG - 2010-11-11 17:06:42 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:06:42 --> Router Class Initialized
+DEBUG - 2010-11-11 17:06:42 --> Output Class Initialized
+DEBUG - 2010-11-11 17:06:42 --> Input Class Initialized
+DEBUG - 2010-11-11 17:06:42 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:06:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:06:42 --> Language Class Initialized
+DEBUG - 2010-11-11 17:06:42 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:06:42 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:06:42 --> Session Class Initialized
+DEBUG - 2010-11-11 17:06:42 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:06:42 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:06:42 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:06:42 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:06:42 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:06:42 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:06:42 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '966da764fab3919db1568f0db974cbe2'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:06:42 --> Session routines successfully run
+DEBUG - 2010-11-11 17:06:42 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:06:42 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:06:42 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:06:42 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:06:42 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:06:42 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:06:42 --> Final output sent to browser
+DEBUG - 2010-11-11 17:06:42 --> Total execution time: 0.0760
+DEBUG - 2010-11-11 17:07:17 --> Config Class Initialized
+DEBUG - 2010-11-11 17:07:17 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:07:17 --> URI Class Initialized
+DEBUG - 2010-11-11 17:07:17 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:07:17 --> Router Class Initialized
+DEBUG - 2010-11-11 17:07:17 --> Output Class Initialized
+DEBUG - 2010-11-11 17:07:17 --> Input Class Initialized
+DEBUG - 2010-11-11 17:07:17 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:07:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:07:17 --> Language Class Initialized
+DEBUG - 2010-11-11 17:07:17 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:07:17 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:07:17 --> Session Class Initialized
+DEBUG - 2010-11-11 17:07:17 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:07:17 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:07:17 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:07:17 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:07:17 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:07:17 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:07:17 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '966da764fab3919db1568f0db974cbe2'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:07:17 --> Session routines successfully run
+DEBUG - 2010-11-11 17:07:17 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:07:17 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:07:17 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:07:17 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:07:17 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:07:17 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:07:17 --> Final output sent to browser
+DEBUG - 2010-11-11 17:07:17 --> Total execution time: 0.0733
+DEBUG - 2010-11-11 17:07:46 --> Config Class Initialized
+DEBUG - 2010-11-11 17:07:46 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:07:46 --> URI Class Initialized
+DEBUG - 2010-11-11 17:07:46 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:07:46 --> Router Class Initialized
+DEBUG - 2010-11-11 17:07:46 --> Output Class Initialized
+DEBUG - 2010-11-11 17:07:46 --> Input Class Initialized
+DEBUG - 2010-11-11 17:07:46 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:07:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:07:46 --> Language Class Initialized
+DEBUG - 2010-11-11 17:07:46 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:07:46 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:07:46 --> Session Class Initialized
+DEBUG - 2010-11-11 17:07:46 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:07:46 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:07:46 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:07:46 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:07:46 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:07:46 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:07:46 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '966da764fab3919db1568f0db974cbe2'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:07:46 --> Session routines successfully run
+DEBUG - 2010-11-11 17:07:46 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:07:46 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:07:46 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:07:46 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:07:46 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:07:46 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:07:46 --> Final output sent to browser
+DEBUG - 2010-11-11 17:07:46 --> Total execution time: 0.0769
+DEBUG - 2010-11-11 17:08:06 --> Config Class Initialized
+DEBUG - 2010-11-11 17:08:06 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:08:06 --> URI Class Initialized
+DEBUG - 2010-11-11 17:08:06 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:08:06 --> Router Class Initialized
+DEBUG - 2010-11-11 17:08:06 --> Output Class Initialized
+DEBUG - 2010-11-11 17:08:06 --> Input Class Initialized
+DEBUG - 2010-11-11 17:08:06 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:08:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:08:06 --> Language Class Initialized
+DEBUG - 2010-11-11 17:08:06 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:08:06 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:08:06 --> Session Class Initialized
+DEBUG - 2010-11-11 17:08:06 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:08:06 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:08:06 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:08:06 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:08:06 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:08:06 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:08:06 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '966da764fab3919db1568f0db974cbe2'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:08:06 --> Session routines successfully run
+DEBUG - 2010-11-11 17:08:06 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:08:06 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:08:06 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:08:06 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:08:06 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:08:06 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:08:06 --> Final output sent to browser
+DEBUG - 2010-11-11 17:08:06 --> Total execution time: 0.0759
+DEBUG - 2010-11-11 17:08:14 --> Config Class Initialized
+DEBUG - 2010-11-11 17:08:14 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:08:14 --> URI Class Initialized
+DEBUG - 2010-11-11 17:08:14 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:08:14 --> Router Class Initialized
+DEBUG - 2010-11-11 17:08:14 --> Output Class Initialized
+DEBUG - 2010-11-11 17:08:14 --> Input Class Initialized
+DEBUG - 2010-11-11 17:08:14 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:08:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:08:14 --> Language Class Initialized
+DEBUG - 2010-11-11 17:08:14 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:08:14 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:08:14 --> Session Class Initialized
+DEBUG - 2010-11-11 17:08:14 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:08:14 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:08:14 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:08:14 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:08:14 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:08:14 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:08:14 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '966da764fab3919db1568f0db974cbe2'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:08:14 --> Session routines successfully run
+DEBUG - 2010-11-11 17:08:14 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:08:14 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:08:14 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:08:14 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:08:14 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:08:14 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:08:14 --> Final output sent to browser
+DEBUG - 2010-11-11 17:08:14 --> Total execution time: 0.0703
+DEBUG - 2010-11-11 17:08:26 --> Config Class Initialized
+DEBUG - 2010-11-11 17:08:26 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:08:26 --> URI Class Initialized
+DEBUG - 2010-11-11 17:08:26 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:08:26 --> Router Class Initialized
+DEBUG - 2010-11-11 17:08:26 --> Output Class Initialized
+DEBUG - 2010-11-11 17:08:26 --> Input Class Initialized
+DEBUG - 2010-11-11 17:08:26 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:08:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:08:26 --> Language Class Initialized
+DEBUG - 2010-11-11 17:08:27 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:08:27 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:08:27 --> Session Class Initialized
+DEBUG - 2010-11-11 17:08:27 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:08:27 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:08:27 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:08:27 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:08:27 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:08:27 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:08:27 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '966da764fab3919db1568f0db974cbe2'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:08:27 --> Session routines successfully run
+DEBUG - 2010-11-11 17:08:27 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:08:27 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:08:27 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:08:27 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:08:27 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:08:27 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:08:27 --> Final output sent to browser
+DEBUG - 2010-11-11 17:08:27 --> Total execution time: 0.3266
+DEBUG - 2010-11-11 17:09:29 --> Config Class Initialized
+DEBUG - 2010-11-11 17:09:29 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:09:29 --> URI Class Initialized
+DEBUG - 2010-11-11 17:09:29 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:09:29 --> Router Class Initialized
+DEBUG - 2010-11-11 17:09:29 --> Output Class Initialized
+DEBUG - 2010-11-11 17:09:29 --> Input Class Initialized
+DEBUG - 2010-11-11 17:09:29 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:09:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:09:29 --> Language Class Initialized
+DEBUG - 2010-11-11 17:09:29 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:09:29 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:09:29 --> Session Class Initialized
+DEBUG - 2010-11-11 17:09:29 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:09:29 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:09:29 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:09:29 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:09:29 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:09:29 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:09:29 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '966da764fab3919db1568f0db974cbe2'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:09:29 --> Session routines successfully run
+DEBUG - 2010-11-11 17:09:29 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:09:29 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:09:29 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:09:29 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:09:29 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:09:29 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:09:29 --> Final output sent to browser
+DEBUG - 2010-11-11 17:09:29 --> Total execution time: 0.0750
+DEBUG - 2010-11-11 17:09:49 --> Config Class Initialized
+DEBUG - 2010-11-11 17:09:49 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:09:49 --> URI Class Initialized
+DEBUG - 2010-11-11 17:09:49 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:09:49 --> Router Class Initialized
+DEBUG - 2010-11-11 17:09:49 --> Output Class Initialized
+DEBUG - 2010-11-11 17:09:49 --> Input Class Initialized
+DEBUG - 2010-11-11 17:09:49 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:09:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:09:49 --> Language Class Initialized
+DEBUG - 2010-11-11 17:09:49 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:09:49 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:09:49 --> Session Class Initialized
+DEBUG - 2010-11-11 17:09:49 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:09:49 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:09:49 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:09:49 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:09:49 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:09:49 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:09:49 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '966da764fab3919db1568f0db974cbe2'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:09:49 --> SQL : UPDATE ci_sessions SET last_activity = 1289513389, session_id = 'd3675c77612896d3c6fe12b0d0063afb' WHERE session_id = '966da764fab3919db1568f0db974cbe2'
+DEBUG - 2010-11-11 17:09:49 --> Session routines successfully run
+DEBUG - 2010-11-11 17:09:49 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:09:49 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:09:49 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:09:49 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:09:49 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:09:49 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:09:49 --> Final output sent to browser
+DEBUG - 2010-11-11 17:09:49 --> Total execution time: 0.0768
+DEBUG - 2010-11-11 17:10:17 --> Config Class Initialized
+DEBUG - 2010-11-11 17:10:17 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:10:17 --> URI Class Initialized
+DEBUG - 2010-11-11 17:10:17 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:10:17 --> Router Class Initialized
+DEBUG - 2010-11-11 17:10:17 --> Output Class Initialized
+DEBUG - 2010-11-11 17:10:17 --> Input Class Initialized
+DEBUG - 2010-11-11 17:10:17 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:10:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:10:17 --> Language Class Initialized
+DEBUG - 2010-11-11 17:10:17 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:10:17 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:10:17 --> Session Class Initialized
+DEBUG - 2010-11-11 17:10:17 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:10:17 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:10:17 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:10:17 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:10:17 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:10:17 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:10:17 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd3675c77612896d3c6fe12b0d0063afb'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:10:17 --> Session routines successfully run
+DEBUG - 2010-11-11 17:10:17 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:10:17 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:10:17 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:10:17 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:10:17 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:10:17 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:10:17 --> Final output sent to browser
+DEBUG - 2010-11-11 17:10:17 --> Total execution time: 0.0697
+DEBUG - 2010-11-11 17:10:26 --> Config Class Initialized
+DEBUG - 2010-11-11 17:10:26 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:10:26 --> URI Class Initialized
+DEBUG - 2010-11-11 17:10:26 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:10:26 --> Router Class Initialized
+DEBUG - 2010-11-11 17:10:26 --> Output Class Initialized
+DEBUG - 2010-11-11 17:10:26 --> Input Class Initialized
+DEBUG - 2010-11-11 17:10:26 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:10:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:10:26 --> Language Class Initialized
+DEBUG - 2010-11-11 17:10:26 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:10:26 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:10:26 --> Session Class Initialized
+DEBUG - 2010-11-11 17:10:26 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:10:26 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:10:26 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:10:26 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:10:26 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:10:26 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:10:26 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd3675c77612896d3c6fe12b0d0063afb'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:10:26 --> Session routines successfully run
+DEBUG - 2010-11-11 17:10:26 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:10:26 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:10:26 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:10:26 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:10:26 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:10:26 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:10:26 --> Final output sent to browser
+DEBUG - 2010-11-11 17:10:26 --> Total execution time: 0.0727
+DEBUG - 2010-11-11 17:10:51 --> Config Class Initialized
+DEBUG - 2010-11-11 17:10:51 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:10:51 --> URI Class Initialized
+DEBUG - 2010-11-11 17:10:51 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:10:51 --> Router Class Initialized
+DEBUG - 2010-11-11 17:10:51 --> Output Class Initialized
+DEBUG - 2010-11-11 17:10:51 --> Input Class Initialized
+DEBUG - 2010-11-11 17:10:51 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:10:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:10:51 --> Language Class Initialized
+DEBUG - 2010-11-11 17:10:51 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:10:51 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:10:51 --> Session Class Initialized
+DEBUG - 2010-11-11 17:10:51 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:10:51 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:10:51 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:10:51 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:10:51 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:10:51 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:10:51 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd3675c77612896d3c6fe12b0d0063afb'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:10:51 --> Session routines successfully run
+DEBUG - 2010-11-11 17:10:51 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:10:51 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:10:51 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:10:51 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:10:51 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:10:51 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:10:51 --> Final output sent to browser
+DEBUG - 2010-11-11 17:10:51 --> Total execution time: 0.0660
+DEBUG - 2010-11-11 17:10:58 --> Config Class Initialized
+DEBUG - 2010-11-11 17:10:58 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:10:58 --> URI Class Initialized
+DEBUG - 2010-11-11 17:10:58 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:10:58 --> Router Class Initialized
+DEBUG - 2010-11-11 17:10:58 --> Output Class Initialized
+DEBUG - 2010-11-11 17:10:58 --> Input Class Initialized
+DEBUG - 2010-11-11 17:10:58 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:10:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:10:58 --> Language Class Initialized
+DEBUG - 2010-11-11 17:10:58 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:10:58 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:10:58 --> Session Class Initialized
+DEBUG - 2010-11-11 17:10:58 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:10:58 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:10:58 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:10:58 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:10:58 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:10:58 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:10:58 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd3675c77612896d3c6fe12b0d0063afb'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:10:58 --> Session routines successfully run
+DEBUG - 2010-11-11 17:10:58 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:10:58 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:10:58 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:10:58 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:10:58 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:10:58 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:10:58 --> Final output sent to browser
+DEBUG - 2010-11-11 17:10:58 --> Total execution time: 0.0756
+DEBUG - 2010-11-11 17:13:29 --> Config Class Initialized
+DEBUG - 2010-11-11 17:13:29 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:13:29 --> URI Class Initialized
+DEBUG - 2010-11-11 17:13:29 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:13:29 --> Router Class Initialized
+DEBUG - 2010-11-11 17:13:29 --> Output Class Initialized
+DEBUG - 2010-11-11 17:13:29 --> Input Class Initialized
+DEBUG - 2010-11-11 17:13:29 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:13:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:13:29 --> Language Class Initialized
+DEBUG - 2010-11-11 17:13:29 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:13:29 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:13:29 --> Session Class Initialized
+DEBUG - 2010-11-11 17:13:29 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:13:29 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:13:29 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:13:29 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:13:29 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:13:29 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:13:29 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd3675c77612896d3c6fe12b0d0063afb'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:13:29 --> Session routines successfully run
+DEBUG - 2010-11-11 17:13:29 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:13:29 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:13:29 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:13:29 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:13:29 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:13:29 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:13:29 --> Final output sent to browser
+DEBUG - 2010-11-11 17:13:29 --> Total execution time: 0.0754
+DEBUG - 2010-11-11 17:14:09 --> Config Class Initialized
+DEBUG - 2010-11-11 17:14:09 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:14:09 --> URI Class Initialized
+DEBUG - 2010-11-11 17:14:09 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:14:09 --> Router Class Initialized
+DEBUG - 2010-11-11 17:14:09 --> Output Class Initialized
+DEBUG - 2010-11-11 17:14:09 --> Input Class Initialized
+DEBUG - 2010-11-11 17:14:09 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:14:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:14:09 --> Language Class Initialized
+DEBUG - 2010-11-11 17:14:09 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:14:09 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:14:09 --> Session Class Initialized
+DEBUG - 2010-11-11 17:14:09 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:14:09 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:14:09 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:14:09 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:14:09 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:14:09 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:14:09 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd3675c77612896d3c6fe12b0d0063afb'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:14:09 --> Session routines successfully run
+DEBUG - 2010-11-11 17:14:09 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:14:09 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:14:09 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:14:09 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:14:09 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:14:09 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:14:09 --> Final output sent to browser
+DEBUG - 2010-11-11 17:14:09 --> Total execution time: 0.0730
+DEBUG - 2010-11-11 17:14:32 --> Config Class Initialized
+DEBUG - 2010-11-11 17:14:32 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:14:32 --> URI Class Initialized
+DEBUG - 2010-11-11 17:14:32 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:14:32 --> Router Class Initialized
+DEBUG - 2010-11-11 17:14:32 --> Output Class Initialized
+DEBUG - 2010-11-11 17:14:32 --> Input Class Initialized
+DEBUG - 2010-11-11 17:14:32 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:14:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:14:32 --> Language Class Initialized
+DEBUG - 2010-11-11 17:14:32 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:14:32 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:14:32 --> Session Class Initialized
+DEBUG - 2010-11-11 17:14:32 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:14:32 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:14:32 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:14:32 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:14:32 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:14:32 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:14:32 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd3675c77612896d3c6fe12b0d0063afb'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:14:32 --> Session routines successfully run
+DEBUG - 2010-11-11 17:14:32 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:14:32 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:14:32 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:14:32 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:14:32 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:14:32 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:14:32 --> Final output sent to browser
+DEBUG - 2010-11-11 17:14:32 --> Total execution time: 0.1324
+DEBUG - 2010-11-11 17:14:54 --> Config Class Initialized
+DEBUG - 2010-11-11 17:14:54 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:14:54 --> URI Class Initialized
+DEBUG - 2010-11-11 17:14:54 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:14:54 --> Router Class Initialized
+DEBUG - 2010-11-11 17:14:54 --> Output Class Initialized
+DEBUG - 2010-11-11 17:14:54 --> Input Class Initialized
+DEBUG - 2010-11-11 17:14:54 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:14:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:14:54 --> Language Class Initialized
+DEBUG - 2010-11-11 17:14:54 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:14:54 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:14:54 --> Session Class Initialized
+DEBUG - 2010-11-11 17:14:54 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:14:54 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:14:54 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:14:54 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:14:54 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:14:54 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:14:54 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd3675c77612896d3c6fe12b0d0063afb'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:14:54 --> SQL : UPDATE ci_sessions SET last_activity = 1289513694, session_id = '85cf6363de3297861f2091d229f7a067' WHERE session_id = 'd3675c77612896d3c6fe12b0d0063afb'
+DEBUG - 2010-11-11 17:14:54 --> Session routines successfully run
+DEBUG - 2010-11-11 17:14:54 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:14:54 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:14:54 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:14:54 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:14:54 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:14:54 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:14:54 --> Final output sent to browser
+DEBUG - 2010-11-11 17:14:54 --> Total execution time: 0.0787
+DEBUG - 2010-11-11 17:15:01 --> Config Class Initialized
+DEBUG - 2010-11-11 17:15:01 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:15:01 --> URI Class Initialized
+DEBUG - 2010-11-11 17:15:01 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:15:01 --> Router Class Initialized
+DEBUG - 2010-11-11 17:15:01 --> Output Class Initialized
+DEBUG - 2010-11-11 17:15:01 --> Input Class Initialized
+DEBUG - 2010-11-11 17:15:01 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:15:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:15:01 --> Language Class Initialized
+DEBUG - 2010-11-11 17:15:01 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:15:01 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:15:01 --> Session Class Initialized
+DEBUG - 2010-11-11 17:15:01 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:15:01 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:15:01 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:15:01 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:15:01 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:15:01 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:15:01 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '85cf6363de3297861f2091d229f7a067'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:15:01 --> Session routines successfully run
+DEBUG - 2010-11-11 17:15:01 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:15:01 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:15:01 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:15:01 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:15:01 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:15:01 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:15:01 --> Final output sent to browser
+DEBUG - 2010-11-11 17:15:01 --> Total execution time: 0.0753
+DEBUG - 2010-11-11 17:15:17 --> Config Class Initialized
+DEBUG - 2010-11-11 17:15:17 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:15:17 --> URI Class Initialized
+DEBUG - 2010-11-11 17:15:17 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:15:17 --> Router Class Initialized
+DEBUG - 2010-11-11 17:15:17 --> Output Class Initialized
+DEBUG - 2010-11-11 17:15:17 --> Input Class Initialized
+DEBUG - 2010-11-11 17:15:17 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:15:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:15:17 --> Language Class Initialized
+DEBUG - 2010-11-11 17:15:17 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:15:17 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:15:17 --> Session Class Initialized
+DEBUG - 2010-11-11 17:15:17 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:15:17 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:15:17 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:15:17 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:15:17 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:15:17 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:15:17 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '85cf6363de3297861f2091d229f7a067'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:15:17 --> Session routines successfully run
+DEBUG - 2010-11-11 17:15:17 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:15:17 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:15:17 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:15:17 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:15:17 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:15:17 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:15:17 --> Final output sent to browser
+DEBUG - 2010-11-11 17:15:17 --> Total execution time: 0.0673
+DEBUG - 2010-11-11 17:15:36 --> Config Class Initialized
+DEBUG - 2010-11-11 17:15:36 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:15:36 --> URI Class Initialized
+DEBUG - 2010-11-11 17:15:36 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:15:36 --> Router Class Initialized
+DEBUG - 2010-11-11 17:15:36 --> Output Class Initialized
+DEBUG - 2010-11-11 17:15:36 --> Input Class Initialized
+DEBUG - 2010-11-11 17:15:36 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:15:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:15:36 --> Language Class Initialized
+DEBUG - 2010-11-11 17:15:36 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:15:36 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:15:36 --> Session Class Initialized
+DEBUG - 2010-11-11 17:15:36 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:15:36 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:15:36 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:15:36 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:15:36 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:15:36 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:15:36 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '85cf6363de3297861f2091d229f7a067'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:15:36 --> Session routines successfully run
+DEBUG - 2010-11-11 17:15:36 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:15:36 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:15:36 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:15:36 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:15:36 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:15:36 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:15:36 --> Final output sent to browser
+DEBUG - 2010-11-11 17:15:36 --> Total execution time: 0.0717
+DEBUG - 2010-11-11 17:15:55 --> Config Class Initialized
+DEBUG - 2010-11-11 17:15:55 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:15:55 --> URI Class Initialized
+DEBUG - 2010-11-11 17:15:55 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:15:55 --> Router Class Initialized
+DEBUG - 2010-11-11 17:15:55 --> Output Class Initialized
+DEBUG - 2010-11-11 17:15:55 --> Input Class Initialized
+DEBUG - 2010-11-11 17:15:55 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:15:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:15:55 --> Language Class Initialized
+DEBUG - 2010-11-11 17:15:55 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:15:55 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:15:55 --> Session Class Initialized
+DEBUG - 2010-11-11 17:15:55 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:15:55 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:15:55 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:15:55 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:15:55 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:15:55 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:15:55 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '85cf6363de3297861f2091d229f7a067'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:15:55 --> Session routines successfully run
+DEBUG - 2010-11-11 17:15:55 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:15:55 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:15:55 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:15:55 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:15:55 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:15:55 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:15:55 --> Final output sent to browser
+DEBUG - 2010-11-11 17:15:55 --> Total execution time: 0.0313
+DEBUG - 2010-11-11 17:16:18 --> Config Class Initialized
+DEBUG - 2010-11-11 17:16:18 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:16:18 --> URI Class Initialized
+DEBUG - 2010-11-11 17:16:18 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:16:18 --> Router Class Initialized
+DEBUG - 2010-11-11 17:16:18 --> Output Class Initialized
+DEBUG - 2010-11-11 17:16:18 --> Input Class Initialized
+DEBUG - 2010-11-11 17:16:18 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:16:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:16:18 --> Language Class Initialized
+DEBUG - 2010-11-11 17:16:18 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:16:18 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:16:18 --> Session Class Initialized
+DEBUG - 2010-11-11 17:16:18 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:16:18 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:16:18 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:16:18 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:16:18 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:16:18 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:16:18 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '85cf6363de3297861f2091d229f7a067'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:16:18 --> Session routines successfully run
+DEBUG - 2010-11-11 17:16:18 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:16:18 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:16:18 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:16:18 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:16:18 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:16:18 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:16:18 --> Final output sent to browser
+DEBUG - 2010-11-11 17:16:18 --> Total execution time: 0.0794
+DEBUG - 2010-11-11 17:17:16 --> Config Class Initialized
+DEBUG - 2010-11-11 17:17:16 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:17:16 --> URI Class Initialized
+DEBUG - 2010-11-11 17:17:16 --> Router Class Initialized
+DEBUG - 2010-11-11 17:17:16 --> Output Class Initialized
+DEBUG - 2010-11-11 17:17:16 --> Input Class Initialized
+DEBUG - 2010-11-11 17:17:16 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:17:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:17:16 --> Language Class Initialized
+DEBUG - 2010-11-11 17:17:16 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:17:16 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:17:16 --> Session Class Initialized
+DEBUG - 2010-11-11 17:17:16 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:17:16 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:17:16 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:17:16 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:17:16 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:17:16 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:17:16 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '85cf6363de3297861f2091d229f7a067'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:17:16 --> Session routines successfully run
+DEBUG - 2010-11-11 17:17:16 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:17:16 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:17:16 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 17:17:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 17:17:16 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 17:17:16 --> Final output sent to browser
+DEBUG - 2010-11-11 17:17:16 --> Total execution time: 0.0337
+DEBUG - 2010-11-11 17:17:19 --> Config Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> URI Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Router Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Output Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Input Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:17:19 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:17:19 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:17:19 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:17:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:17:19 --> Language Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:17:19 --> Session Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:17:19 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:17:19 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:17:19 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:17:19 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '85cf6363de3297861f2091d229f7a067'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:17:19 --> Session routines successfully run
+DEBUG - 2010-11-11 17:17:19 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:17:19 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 17:17:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 17:17:19 --> Form Validation Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2010-11-11 17:17:19 --> SQL : UPDATE ci_sessions SET last_activity = '1289513694', user_data = 'a:1:{s:3:"uni";s:2:"kt";}' WHERE session_id = '85cf6363de3297861f2091d229f7a067'
+DEBUG - 2010-11-11 17:17:19 --> SQL : UPDATE ci_sessions SET last_activity = '1289513694', user_data = 'a:1:{s:3:"uni";s:2:"kt";}' WHERE session_id = '85cf6363de3297861f2091d229f7a067'
+DEBUG - 2010-11-11 17:17:19 --> Config Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> URI Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:17:19 --> Router Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Output Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Input Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:17:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:17:19 --> Language Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:17:19 --> Session Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:17:19 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:17:19 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:17:19 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:17:19 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '85cf6363de3297861f2091d229f7a067'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:17:19 --> Session routines successfully run
+DEBUG - 2010-11-11 17:17:19 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:17:19 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:17:19 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:17:19 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:17:19 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:17:19 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:17:19 --> Final output sent to browser
+DEBUG - 2010-11-11 17:17:19 --> Total execution time: 0.0430
+DEBUG - 2010-11-11 17:17:48 --> Config Class Initialized
+DEBUG - 2010-11-11 17:17:48 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:17:48 --> URI Class Initialized
+DEBUG - 2010-11-11 17:17:48 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:17:48 --> Router Class Initialized
+DEBUG - 2010-11-11 17:17:48 --> Output Class Initialized
+DEBUG - 2010-11-11 17:17:48 --> Input Class Initialized
+DEBUG - 2010-11-11 17:17:48 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:17:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:17:48 --> Language Class Initialized
+DEBUG - 2010-11-11 17:17:48 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:17:48 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:17:48 --> Session Class Initialized
+DEBUG - 2010-11-11 17:17:48 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:17:48 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:17:48 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:17:48 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:17:48 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:17:48 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:17:48 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '85cf6363de3297861f2091d229f7a067'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:17:48 --> Session routines successfully run
+DEBUG - 2010-11-11 17:17:48 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:17:48 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:17:48 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:17:48 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:17:48 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:17:48 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:17:48 --> Final output sent to browser
+DEBUG - 2010-11-11 17:17:48 --> Total execution time: 0.0733
+DEBUG - 2010-11-11 17:18:17 --> Config Class Initialized
+DEBUG - 2010-11-11 17:18:17 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:18:17 --> URI Class Initialized
+DEBUG - 2010-11-11 17:18:17 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:18:17 --> Router Class Initialized
+DEBUG - 2010-11-11 17:18:17 --> Output Class Initialized
+DEBUG - 2010-11-11 17:18:17 --> Input Class Initialized
+DEBUG - 2010-11-11 17:18:17 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:18:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:18:17 --> Language Class Initialized
+DEBUG - 2010-11-11 17:18:17 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:18:17 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:18:17 --> Session Class Initialized
+DEBUG - 2010-11-11 17:18:17 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:18:17 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:18:17 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:18:17 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:18:17 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:18:17 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:18:17 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '85cf6363de3297861f2091d229f7a067'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:18:17 --> Session routines successfully run
+DEBUG - 2010-11-11 17:18:17 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:18:17 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:18:17 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:18:17 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:18:17 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:18:17 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:18:17 --> Final output sent to browser
+DEBUG - 2010-11-11 17:18:17 --> Total execution time: 0.0736
+DEBUG - 2010-11-11 17:18:50 --> Config Class Initialized
+DEBUG - 2010-11-11 17:18:50 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:18:50 --> URI Class Initialized
+DEBUG - 2010-11-11 17:18:50 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:18:50 --> Router Class Initialized
+DEBUG - 2010-11-11 17:18:50 --> Output Class Initialized
+DEBUG - 2010-11-11 17:18:50 --> Input Class Initialized
+DEBUG - 2010-11-11 17:18:50 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:18:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:18:50 --> Language Class Initialized
+DEBUG - 2010-11-11 17:18:50 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:18:50 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:18:50 --> Session Class Initialized
+DEBUG - 2010-11-11 17:18:50 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:18:50 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:18:50 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:18:50 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:18:50 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:18:50 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:18:50 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '85cf6363de3297861f2091d229f7a067'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:18:50 --> Session routines successfully run
+DEBUG - 2010-11-11 17:18:50 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:18:50 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:18:50 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:18:50 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:18:50 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:18:50 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:18:50 --> Final output sent to browser
+DEBUG - 2010-11-11 17:18:50 --> Total execution time: 0.0695
+DEBUG - 2010-11-11 17:18:51 --> Config Class Initialized
+DEBUG - 2010-11-11 17:18:51 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:18:51 --> URI Class Initialized
+DEBUG - 2010-11-11 17:18:51 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:18:51 --> Router Class Initialized
+DEBUG - 2010-11-11 17:18:51 --> Output Class Initialized
+DEBUG - 2010-11-11 17:18:51 --> Input Class Initialized
+DEBUG - 2010-11-11 17:18:51 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:18:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:18:51 --> Language Class Initialized
+DEBUG - 2010-11-11 17:18:51 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:18:51 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:18:51 --> Session Class Initialized
+DEBUG - 2010-11-11 17:18:51 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:18:51 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:18:51 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:18:51 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:18:51 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:18:51 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:18:51 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '85cf6363de3297861f2091d229f7a067'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:18:51 --> Session routines successfully run
+DEBUG - 2010-11-11 17:18:51 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:18:51 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:18:51 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:18:51 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:18:51 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:18:51 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:18:51 --> Final output sent to browser
+DEBUG - 2010-11-11 17:18:51 --> Total execution time: 0.0733
+DEBUG - 2010-11-11 17:20:21 --> Config Class Initialized
+DEBUG - 2010-11-11 17:20:21 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:20:21 --> URI Class Initialized
+DEBUG - 2010-11-11 17:20:21 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:20:21 --> Router Class Initialized
+DEBUG - 2010-11-11 17:20:21 --> Output Class Initialized
+DEBUG - 2010-11-11 17:20:21 --> Input Class Initialized
+DEBUG - 2010-11-11 17:20:21 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:20:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:20:21 --> Language Class Initialized
+DEBUG - 2010-11-11 17:20:21 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:20:21 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:20:21 --> Session Class Initialized
+DEBUG - 2010-11-11 17:20:21 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:20:21 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:20:21 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:20:21 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:20:21 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:20:21 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:20:21 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '85cf6363de3297861f2091d229f7a067'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:20:21 --> SQL : UPDATE ci_sessions SET last_activity = 1289514021, session_id = '58d957767ad6847ddfe66c812e51319c' WHERE session_id = '85cf6363de3297861f2091d229f7a067'
+DEBUG - 2010-11-11 17:20:21 --> Session routines successfully run
+DEBUG - 2010-11-11 17:20:21 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:20:21 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:20:21 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:20:21 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:20:21 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:20:21 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:20:21 --> Final output sent to browser
+DEBUG - 2010-11-11 17:20:21 --> Total execution time: 0.0838
+DEBUG - 2010-11-11 17:20:50 --> Config Class Initialized
+DEBUG - 2010-11-11 17:20:50 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:20:50 --> URI Class Initialized
+DEBUG - 2010-11-11 17:20:50 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:20:50 --> Router Class Initialized
+DEBUG - 2010-11-11 17:20:50 --> Output Class Initialized
+DEBUG - 2010-11-11 17:20:50 --> Input Class Initialized
+DEBUG - 2010-11-11 17:20:50 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:20:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:20:50 --> Language Class Initialized
+DEBUG - 2010-11-11 17:20:50 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:20:50 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:20:50 --> Session Class Initialized
+DEBUG - 2010-11-11 17:20:50 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:20:50 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:20:50 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:20:50 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:20:50 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:20:50 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:20:50 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '58d957767ad6847ddfe66c812e51319c'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:20:50 --> Session routines successfully run
+DEBUG - 2010-11-11 17:20:50 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:20:50 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:20:50 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:20:50 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:20:50 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:20:50 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:20:50 --> Final output sent to browser
+DEBUG - 2010-11-11 17:20:50 --> Total execution time: 0.0753
+DEBUG - 2010-11-11 17:21:22 --> Config Class Initialized
+DEBUG - 2010-11-11 17:21:22 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:21:22 --> URI Class Initialized
+DEBUG - 2010-11-11 17:21:22 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:21:22 --> Router Class Initialized
+DEBUG - 2010-11-11 17:21:22 --> Output Class Initialized
+DEBUG - 2010-11-11 17:21:22 --> Input Class Initialized
+DEBUG - 2010-11-11 17:21:22 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:21:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:21:22 --> Language Class Initialized
+DEBUG - 2010-11-11 17:21:22 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:21:22 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:21:22 --> Session Class Initialized
+DEBUG - 2010-11-11 17:21:22 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:21:22 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:21:22 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:21:22 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:21:22 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:21:22 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:21:22 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '58d957767ad6847ddfe66c812e51319c'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:21:22 --> Session routines successfully run
+DEBUG - 2010-11-11 17:21:22 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:21:22 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:21:22 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:21:22 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:21:22 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:21:22 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:21:22 --> Final output sent to browser
+DEBUG - 2010-11-11 17:21:22 --> Total execution time: 0.0672
+DEBUG - 2010-11-11 17:21:49 --> Config Class Initialized
+DEBUG - 2010-11-11 17:21:49 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:21:49 --> URI Class Initialized
+DEBUG - 2010-11-11 17:21:49 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:21:49 --> Router Class Initialized
+DEBUG - 2010-11-11 17:21:49 --> Output Class Initialized
+DEBUG - 2010-11-11 17:21:49 --> Input Class Initialized
+DEBUG - 2010-11-11 17:21:49 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:21:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:21:49 --> Language Class Initialized
+DEBUG - 2010-11-11 17:21:49 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:21:49 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:21:49 --> Session Class Initialized
+DEBUG - 2010-11-11 17:21:49 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:21:49 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:21:49 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:21:49 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:21:49 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:21:49 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:21:49 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '58d957767ad6847ddfe66c812e51319c'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:21:49 --> Session routines successfully run
+DEBUG - 2010-11-11 17:21:49 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:21:49 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:21:49 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:21:49 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:21:49 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:21:49 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:21:49 --> Final output sent to browser
+DEBUG - 2010-11-11 17:21:49 --> Total execution time: 0.0716
+DEBUG - 2010-11-11 17:22:04 --> Config Class Initialized
+DEBUG - 2010-11-11 17:22:04 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:22:04 --> URI Class Initialized
+DEBUG - 2010-11-11 17:22:04 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:22:04 --> Router Class Initialized
+DEBUG - 2010-11-11 17:22:04 --> Output Class Initialized
+DEBUG - 2010-11-11 17:22:04 --> Input Class Initialized
+DEBUG - 2010-11-11 17:22:04 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:22:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:22:04 --> Language Class Initialized
+DEBUG - 2010-11-11 17:22:04 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:22:04 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:22:04 --> Session Class Initialized
+DEBUG - 2010-11-11 17:22:04 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:22:04 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:22:04 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:22:04 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:22:04 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:22:04 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:22:04 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'f10ea5e37aec81eb8bb7149eeb0389b8'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:22:04 --> SQL : UPDATE ci_sessions SET last_activity = 1289514124, session_id = '5e5fda9d90a4d7295cfabd7fa3ed15c7' WHERE session_id = 'f10ea5e37aec81eb8bb7149eeb0389b8'
+DEBUG - 2010-11-11 17:22:04 --> Session routines successfully run
+DEBUG - 2010-11-11 17:22:04 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:22:04 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:22:04 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:22:04 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:22:04 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:22:04 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:22:04 --> Final output sent to browser
+DEBUG - 2010-11-11 17:22:04 --> Total execution time: 0.0777
+DEBUG - 2010-11-11 17:22:24 --> Config Class Initialized
+DEBUG - 2010-11-11 17:22:24 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:22:24 --> URI Class Initialized
+DEBUG - 2010-11-11 17:22:25 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:22:25 --> Router Class Initialized
+DEBUG - 2010-11-11 17:22:25 --> Output Class Initialized
+DEBUG - 2010-11-11 17:22:25 --> Input Class Initialized
+DEBUG - 2010-11-11 17:22:25 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:22:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:22:25 --> Language Class Initialized
+DEBUG - 2010-11-11 17:22:25 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:22:25 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:22:25 --> Session Class Initialized
+DEBUG - 2010-11-11 17:22:25 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:22:25 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:22:25 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:22:25 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:22:25 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:22:25 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:22:25 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '5e5fda9d90a4d7295cfabd7fa3ed15c7'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:22:25 --> Session routines successfully run
+DEBUG - 2010-11-11 17:22:25 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:22:25 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:22:25 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:22:25 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:22:25 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:22:25 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:22:25 --> Final output sent to browser
+DEBUG - 2010-11-11 17:22:25 --> Total execution time: 0.0664
+DEBUG - 2010-11-11 17:25:05 --> Config Class Initialized
+DEBUG - 2010-11-11 17:25:05 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:25:05 --> URI Class Initialized
+DEBUG - 2010-11-11 17:25:05 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:25:05 --> Router Class Initialized
+DEBUG - 2010-11-11 17:25:05 --> Output Class Initialized
+DEBUG - 2010-11-11 17:25:05 --> Input Class Initialized
+DEBUG - 2010-11-11 17:25:05 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:25:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:25:05 --> Language Class Initialized
+DEBUG - 2010-11-11 17:25:05 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:25:05 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:25:05 --> Session Class Initialized
+DEBUG - 2010-11-11 17:25:05 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:25:05 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:25:05 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:25:05 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:25:05 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:25:05 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:25:05 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '58d957767ad6847ddfe66c812e51319c'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:25:05 --> Session routines successfully run
+DEBUG - 2010-11-11 17:25:05 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:25:05 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:25:05 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:25:05 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:25:05 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:25:05 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:25:05 --> Final output sent to browser
+DEBUG - 2010-11-11 17:25:05 --> Total execution time: 0.0733
+DEBUG - 2010-11-11 17:25:22 --> Config Class Initialized
+DEBUG - 2010-11-11 17:25:22 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:25:22 --> URI Class Initialized
+DEBUG - 2010-11-11 17:25:22 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:25:22 --> Router Class Initialized
+DEBUG - 2010-11-11 17:25:22 --> Output Class Initialized
+DEBUG - 2010-11-11 17:25:22 --> Input Class Initialized
+DEBUG - 2010-11-11 17:25:22 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:25:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:25:22 --> Language Class Initialized
+DEBUG - 2010-11-11 17:25:22 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:25:22 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:25:22 --> Session Class Initialized
+DEBUG - 2010-11-11 17:25:22 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:25:22 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:25:22 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:25:22 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:25:22 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:25:22 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:25:22 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '58d957767ad6847ddfe66c812e51319c'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:25:22 --> SQL : UPDATE ci_sessions SET last_activity = 1289514322, session_id = '02df7cab7b3744ec8a6092d6bfe475cf' WHERE session_id = '58d957767ad6847ddfe66c812e51319c'
+DEBUG - 2010-11-11 17:25:22 --> Session routines successfully run
+DEBUG - 2010-11-11 17:25:22 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:25:22 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:25:22 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:25:22 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:25:22 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:25:22 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:25:22 --> Final output sent to browser
+DEBUG - 2010-11-11 17:25:22 --> Total execution time: 0.0758
+DEBUG - 2010-11-11 17:25:24 --> Config Class Initialized
+DEBUG - 2010-11-11 17:25:24 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:25:24 --> URI Class Initialized
+DEBUG - 2010-11-11 17:25:24 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:25:24 --> Router Class Initialized
+DEBUG - 2010-11-11 17:25:24 --> Output Class Initialized
+DEBUG - 2010-11-11 17:25:24 --> Input Class Initialized
+DEBUG - 2010-11-11 17:25:24 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:25:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:25:24 --> Language Class Initialized
+DEBUG - 2010-11-11 17:25:24 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:25:24 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:25:24 --> Session Class Initialized
+DEBUG - 2010-11-11 17:25:24 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:25:24 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:25:24 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:25:24 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:25:24 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:25:24 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:25:24 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '02df7cab7b3744ec8a6092d6bfe475cf'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:25:24 --> Session routines successfully run
+DEBUG - 2010-11-11 17:25:24 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:25:24 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:25:24 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:25:24 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:25:24 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:25:24 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:25:24 --> Final output sent to browser
+DEBUG - 2010-11-11 17:25:24 --> Total execution time: 0.0747
+DEBUG - 2010-11-11 17:25:42 --> Config Class Initialized
+DEBUG - 2010-11-11 17:25:42 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:25:42 --> URI Class Initialized
+DEBUG - 2010-11-11 17:25:42 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:25:42 --> Router Class Initialized
+DEBUG - 2010-11-11 17:25:42 --> Output Class Initialized
+DEBUG - 2010-11-11 17:25:42 --> Input Class Initialized
+DEBUG - 2010-11-11 17:25:42 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:25:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:25:42 --> Language Class Initialized
+DEBUG - 2010-11-11 17:25:42 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:25:42 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:25:42 --> Session Class Initialized
+DEBUG - 2010-11-11 17:25:42 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:25:42 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:25:42 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:25:42 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:25:42 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:25:42 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:25:42 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '02df7cab7b3744ec8a6092d6bfe475cf'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:25:42 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289507142
+DEBUG - 2010-11-11 17:25:42 --> Session garbage collection performed.
+DEBUG - 2010-11-11 17:25:42 --> Session routines successfully run
+DEBUG - 2010-11-11 17:25:42 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:25:42 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:25:42 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:25:42 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:25:42 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:25:42 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:25:42 --> Final output sent to browser
+DEBUG - 2010-11-11 17:25:42 --> Total execution time: 0.1393
+DEBUG - 2010-11-11 17:26:20 --> Config Class Initialized
+DEBUG - 2010-11-11 17:26:20 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:26:20 --> URI Class Initialized
+DEBUG - 2010-11-11 17:26:20 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:26:20 --> Router Class Initialized
+DEBUG - 2010-11-11 17:26:20 --> Output Class Initialized
+DEBUG - 2010-11-11 17:26:20 --> Input Class Initialized
+DEBUG - 2010-11-11 17:26:20 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:26:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:26:20 --> Language Class Initialized
+DEBUG - 2010-11-11 17:26:20 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:26:20 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:26:20 --> Session Class Initialized
+DEBUG - 2010-11-11 17:26:20 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:26:20 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:26:20 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:26:20 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:26:20 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:26:20 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:26:20 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '02df7cab7b3744ec8a6092d6bfe475cf'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:26:20 --> Session routines successfully run
+DEBUG - 2010-11-11 17:26:20 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:26:20 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:26:20 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:26:20 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:26:20 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:26:20 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:26:20 --> Final output sent to browser
+DEBUG - 2010-11-11 17:26:20 --> Total execution time: 0.0655
+DEBUG - 2010-11-11 17:26:22 --> Config Class Initialized
+DEBUG - 2010-11-11 17:26:22 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:26:22 --> URI Class Initialized
+DEBUG - 2010-11-11 17:26:22 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:26:22 --> Router Class Initialized
+DEBUG - 2010-11-11 17:26:22 --> Output Class Initialized
+DEBUG - 2010-11-11 17:26:22 --> Input Class Initialized
+DEBUG - 2010-11-11 17:26:22 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:26:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:26:22 --> Language Class Initialized
+DEBUG - 2010-11-11 17:26:22 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:26:22 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:26:22 --> Session Class Initialized
+DEBUG - 2010-11-11 17:26:22 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:26:22 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:26:22 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:26:22 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:26:22 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:26:22 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:26:22 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '02df7cab7b3744ec8a6092d6bfe475cf'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:26:22 --> Session routines successfully run
+DEBUG - 2010-11-11 17:26:22 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:26:22 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:26:22 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:26:22 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:26:22 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:26:22 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:26:22 --> Final output sent to browser
+DEBUG - 2010-11-11 17:26:22 --> Total execution time: 0.0751
+DEBUG - 2010-11-11 17:26:45 --> Config Class Initialized
+DEBUG - 2010-11-11 17:26:45 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:26:45 --> URI Class Initialized
+DEBUG - 2010-11-11 17:26:45 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:26:45 --> Router Class Initialized
+DEBUG - 2010-11-11 17:26:45 --> Output Class Initialized
+DEBUG - 2010-11-11 17:26:45 --> Input Class Initialized
+DEBUG - 2010-11-11 17:26:45 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:26:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:26:45 --> Language Class Initialized
+DEBUG - 2010-11-11 17:26:45 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:26:45 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:26:45 --> Session Class Initialized
+DEBUG - 2010-11-11 17:26:45 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:26:45 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:26:45 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:26:45 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:26:45 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:26:45 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:26:45 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '02df7cab7b3744ec8a6092d6bfe475cf'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:26:45 --> Session routines successfully run
+DEBUG - 2010-11-11 17:26:45 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:26:45 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:26:45 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:26:45 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:26:45 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:26:45 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:26:45 --> Final output sent to browser
+DEBUG - 2010-11-11 17:26:45 --> Total execution time: 0.0761
+DEBUG - 2010-11-11 17:27:03 --> Config Class Initialized
+DEBUG - 2010-11-11 17:27:03 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:27:03 --> URI Class Initialized
+DEBUG - 2010-11-11 17:27:03 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:27:03 --> Router Class Initialized
+DEBUG - 2010-11-11 17:27:03 --> Output Class Initialized
+DEBUG - 2010-11-11 17:27:03 --> Input Class Initialized
+DEBUG - 2010-11-11 17:27:03 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:27:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:27:03 --> Language Class Initialized
+DEBUG - 2010-11-11 17:27:03 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:27:03 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:27:03 --> Session Class Initialized
+DEBUG - 2010-11-11 17:27:03 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:27:03 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:27:03 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:27:03 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:27:03 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:27:03 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:27:03 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '02df7cab7b3744ec8a6092d6bfe475cf'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:27:03 --> Session routines successfully run
+DEBUG - 2010-11-11 17:27:03 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:27:03 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:27:03 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:27:03 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:27:03 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:27:03 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:27:03 --> Final output sent to browser
+DEBUG - 2010-11-11 17:27:03 --> Total execution time: 0.0690
+DEBUG - 2010-11-11 17:27:35 --> Config Class Initialized
+DEBUG - 2010-11-11 17:27:35 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:27:35 --> URI Class Initialized
+DEBUG - 2010-11-11 17:27:35 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:27:35 --> Router Class Initialized
+DEBUG - 2010-11-11 17:27:35 --> Output Class Initialized
+DEBUG - 2010-11-11 17:27:35 --> Input Class Initialized
+DEBUG - 2010-11-11 17:27:35 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:27:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:27:35 --> Language Class Initialized
+DEBUG - 2010-11-11 17:27:35 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:27:35 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:27:35 --> Session Class Initialized
+DEBUG - 2010-11-11 17:27:35 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:27:35 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:27:35 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:27:35 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:27:35 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:27:35 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:27:35 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '5e5fda9d90a4d7295cfabd7fa3ed15c7'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:27:35 --> SQL : UPDATE ci_sessions SET last_activity = 1289514455, session_id = 'cd217cc3eb64138a7f95cc88600822b8' WHERE session_id = '5e5fda9d90a4d7295cfabd7fa3ed15c7'
+DEBUG - 2010-11-11 17:27:35 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289507255
+DEBUG - 2010-11-11 17:27:35 --> Session garbage collection performed.
+DEBUG - 2010-11-11 17:27:35 --> Session routines successfully run
+DEBUG - 2010-11-11 17:27:35 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:27:35 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:27:35 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:27:35 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:27:35 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:27:35 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:27:35 --> Final output sent to browser
+DEBUG - 2010-11-11 17:27:35 --> Total execution time: 0.0836
+DEBUG - 2010-11-11 17:27:53 --> Config Class Initialized
+DEBUG - 2010-11-11 17:27:53 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:27:53 --> URI Class Initialized
+DEBUG - 2010-11-11 17:27:53 --> Router Class Initialized
+DEBUG - 2010-11-11 17:27:53 --> Output Class Initialized
+DEBUG - 2010-11-11 17:27:53 --> Input Class Initialized
+DEBUG - 2010-11-11 17:27:53 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:27:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:27:53 --> Language Class Initialized
+DEBUG - 2010-11-11 17:27:53 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:27:53 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:27:53 --> Session Class Initialized
+DEBUG - 2010-11-11 17:27:53 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:27:53 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:27:53 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:27:53 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:27:53 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:27:53 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:27:53 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'cd217cc3eb64138a7f95cc88600822b8'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:27:53 --> Session routines successfully run
+DEBUG - 2010-11-11 17:27:53 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:27:53 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:27:53 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 17:27:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 17:27:53 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 17:27:53 --> Final output sent to browser
+DEBUG - 2010-11-11 17:27:53 --> Total execution time: 0.1010
+DEBUG - 2010-11-11 17:28:37 --> Config Class Initialized
+DEBUG - 2010-11-11 17:28:37 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:28:37 --> URI Class Initialized
+DEBUG - 2010-11-11 17:28:37 --> Router Class Initialized
+DEBUG - 2010-11-11 17:28:37 --> Output Class Initialized
+DEBUG - 2010-11-11 17:28:37 --> Input Class Initialized
+DEBUG - 2010-11-11 17:28:37 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:28:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:28:37 --> Language Class Initialized
+DEBUG - 2010-11-11 17:28:37 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:28:37 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:28:37 --> Session Class Initialized
+DEBUG - 2010-11-11 17:28:37 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:28:37 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:28:37 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:28:37 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:28:37 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:28:37 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:28:37 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'cd217cc3eb64138a7f95cc88600822b8'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:28:37 --> Session routines successfully run
+DEBUG - 2010-11-11 17:28:37 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:28:37 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:28:37 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 17:28:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 17:28:37 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 17:28:37 --> Final output sent to browser
+DEBUG - 2010-11-11 17:28:37 --> Total execution time: 0.0341
+DEBUG - 2010-11-11 17:28:41 --> Config Class Initialized
+DEBUG - 2010-11-11 17:28:41 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:28:41 --> URI Class Initialized
+DEBUG - 2010-11-11 17:28:41 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:28:41 --> Router Class Initialized
+DEBUG - 2010-11-11 17:28:41 --> Output Class Initialized
+DEBUG - 2010-11-11 17:28:41 --> Input Class Initialized
+DEBUG - 2010-11-11 17:28:41 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:28:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:28:41 --> Language Class Initialized
+DEBUG - 2010-11-11 17:28:41 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:28:41 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:28:41 --> Session Class Initialized
+DEBUG - 2010-11-11 17:28:41 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:28:41 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:28:41 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:28:41 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:28:41 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:28:41 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:28:41 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'cd217cc3eb64138a7f95cc88600822b8'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:28:41 --> Session routines successfully run
+DEBUG - 2010-11-11 17:28:41 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:28:41 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:28:41 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:28:41 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:28:41 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:28:41 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:28:41 --> Final output sent to browser
+DEBUG - 2010-11-11 17:28:41 --> Total execution time: 0.0519
+DEBUG - 2010-11-11 17:31:22 --> Config Class Initialized
+DEBUG - 2010-11-11 17:31:22 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:31:22 --> URI Class Initialized
+DEBUG - 2010-11-11 17:31:22 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:31:22 --> Router Class Initialized
+DEBUG - 2010-11-11 17:31:22 --> Output Class Initialized
+DEBUG - 2010-11-11 17:31:22 --> Input Class Initialized
+DEBUG - 2010-11-11 17:31:22 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:31:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:31:22 --> Language Class Initialized
+DEBUG - 2010-11-11 17:31:22 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:31:22 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:31:22 --> Session Class Initialized
+DEBUG - 2010-11-11 17:31:22 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:31:22 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:31:22 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:31:22 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:31:22 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:31:22 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:31:22 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'cd217cc3eb64138a7f95cc88600822b8'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:31:22 --> Session routines successfully run
+DEBUG - 2010-11-11 17:31:22 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:31:22 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:31:22 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:31:22 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:31:22 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:31:22 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:31:22 --> Final output sent to browser
+DEBUG - 2010-11-11 17:31:22 --> Total execution time: 0.0669
+DEBUG - 2010-11-11 17:31:24 --> Config Class Initialized
+DEBUG - 2010-11-11 17:31:24 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:31:24 --> URI Class Initialized
+DEBUG - 2010-11-11 17:31:24 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:31:24 --> Router Class Initialized
+DEBUG - 2010-11-11 17:31:24 --> Output Class Initialized
+DEBUG - 2010-11-11 17:31:24 --> Input Class Initialized
+DEBUG - 2010-11-11 17:31:24 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:31:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:31:24 --> Language Class Initialized
+DEBUG - 2010-11-11 17:31:24 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:31:24 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:31:24 --> Session Class Initialized
+DEBUG - 2010-11-11 17:31:24 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:31:24 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:31:24 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:31:24 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:31:24 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:31:24 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:31:24 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'cd217cc3eb64138a7f95cc88600822b8'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:31:24 --> Session routines successfully run
+DEBUG - 2010-11-11 17:31:24 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:31:24 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:31:24 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:31:24 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:31:24 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:31:24 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:31:24 --> Final output sent to browser
+DEBUG - 2010-11-11 17:31:24 --> Total execution time: 0.0733
+DEBUG - 2010-11-11 17:32:01 --> Config Class Initialized
+DEBUG - 2010-11-11 17:32:01 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:32:01 --> URI Class Initialized
+DEBUG - 2010-11-11 17:32:01 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:32:01 --> Router Class Initialized
+DEBUG - 2010-11-11 17:32:01 --> Output Class Initialized
+DEBUG - 2010-11-11 17:32:01 --> Input Class Initialized
+DEBUG - 2010-11-11 17:32:01 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:32:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:32:01 --> Language Class Initialized
+DEBUG - 2010-11-11 17:32:01 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:32:01 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:32:01 --> Session Class Initialized
+DEBUG - 2010-11-11 17:32:01 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:32:01 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:32:01 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:32:01 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:32:01 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:32:01 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:32:01 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'cd217cc3eb64138a7f95cc88600822b8'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:32:01 --> Session routines successfully run
+DEBUG - 2010-11-11 17:32:01 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:32:01 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:32:01 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:32:01 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:32:01 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:32:01 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:32:01 --> Final output sent to browser
+DEBUG - 2010-11-11 17:32:01 --> Total execution time: 0.0729
+DEBUG - 2010-11-11 17:32:07 --> Config Class Initialized
+DEBUG - 2010-11-11 17:32:07 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:32:07 --> URI Class Initialized
+DEBUG - 2010-11-11 17:32:07 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:32:07 --> Router Class Initialized
+DEBUG - 2010-11-11 17:32:07 --> Output Class Initialized
+DEBUG - 2010-11-11 17:32:07 --> Input Class Initialized
+DEBUG - 2010-11-11 17:32:07 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:32:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:32:07 --> Language Class Initialized
+DEBUG - 2010-11-11 17:32:07 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:32:07 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:32:07 --> Session Class Initialized
+DEBUG - 2010-11-11 17:32:07 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:32:07 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:32:07 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:32:07 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:32:07 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:32:07 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:32:07 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'cd217cc3eb64138a7f95cc88600822b8'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:32:07 --> Session routines successfully run
+DEBUG - 2010-11-11 17:32:07 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:32:07 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:32:07 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:32:07 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:32:07 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:32:07 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:32:07 --> Final output sent to browser
+DEBUG - 2010-11-11 17:32:07 --> Total execution time: 0.0325
+DEBUG - 2010-11-11 17:32:09 --> Config Class Initialized
+DEBUG - 2010-11-11 17:32:09 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:32:09 --> URI Class Initialized
+DEBUG - 2010-11-11 17:32:09 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:32:09 --> Router Class Initialized
+DEBUG - 2010-11-11 17:32:09 --> Output Class Initialized
+DEBUG - 2010-11-11 17:32:09 --> Input Class Initialized
+DEBUG - 2010-11-11 17:32:09 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:32:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:32:09 --> Language Class Initialized
+DEBUG - 2010-11-11 17:32:09 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:32:09 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:32:09 --> Session Class Initialized
+DEBUG - 2010-11-11 17:32:09 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:32:09 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:32:09 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:32:09 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:32:09 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:32:09 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:32:09 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'cd217cc3eb64138a7f95cc88600822b8'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:32:09 --> Session routines successfully run
+DEBUG - 2010-11-11 17:32:09 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:32:09 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:32:09 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:32:09 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:32:09 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:32:09 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:32:09 --> Final output sent to browser
+DEBUG - 2010-11-11 17:32:09 --> Total execution time: 0.0680
+DEBUG - 2010-11-11 17:32:17 --> Config Class Initialized
+DEBUG - 2010-11-11 17:32:17 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:32:17 --> URI Class Initialized
+DEBUG - 2010-11-11 17:32:17 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:32:17 --> Router Class Initialized
+DEBUG - 2010-11-11 17:32:17 --> Output Class Initialized
+DEBUG - 2010-11-11 17:32:17 --> Input Class Initialized
+DEBUG - 2010-11-11 17:32:17 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:32:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:32:17 --> Language Class Initialized
+DEBUG - 2010-11-11 17:32:17 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:32:17 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:32:17 --> Session Class Initialized
+DEBUG - 2010-11-11 17:32:17 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:32:17 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:32:17 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:32:17 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:32:17 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:32:17 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:32:17 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '02df7cab7b3744ec8a6092d6bfe475cf'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:32:17 --> SQL : UPDATE ci_sessions SET last_activity = 1289514737, session_id = '04305746962d95dc4d6634825bfeb86f' WHERE session_id = '02df7cab7b3744ec8a6092d6bfe475cf'
+DEBUG - 2010-11-11 17:32:17 --> Session routines successfully run
+DEBUG - 2010-11-11 17:32:17 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:32:17 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:32:17 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:32:17 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:32:17 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:32:17 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:32:17 --> Final output sent to browser
+DEBUG - 2010-11-11 17:32:17 --> Total execution time: 0.0859
+DEBUG - 2010-11-11 17:32:38 --> Config Class Initialized
+DEBUG - 2010-11-11 17:32:38 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:32:38 --> URI Class Initialized
+DEBUG - 2010-11-11 17:32:38 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:32:38 --> Router Class Initialized
+DEBUG - 2010-11-11 17:32:38 --> Output Class Initialized
+DEBUG - 2010-11-11 17:32:38 --> Input Class Initialized
+DEBUG - 2010-11-11 17:32:38 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:32:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:32:38 --> Language Class Initialized
+DEBUG - 2010-11-11 17:32:38 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:32:38 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:32:38 --> Session Class Initialized
+DEBUG - 2010-11-11 17:32:38 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:32:38 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:32:38 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:32:38 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:32:38 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:32:38 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:32:38 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '04305746962d95dc4d6634825bfeb86f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:32:38 --> Session routines successfully run
+DEBUG - 2010-11-11 17:32:38 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:32:38 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:32:38 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:32:38 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:32:38 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:32:38 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:32:38 --> Final output sent to browser
+DEBUG - 2010-11-11 17:32:38 --> Total execution time: 0.0696
+DEBUG - 2010-11-11 17:32:40 --> Config Class Initialized
+DEBUG - 2010-11-11 17:32:40 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:32:40 --> URI Class Initialized
+DEBUG - 2010-11-11 17:32:40 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:32:40 --> Router Class Initialized
+DEBUG - 2010-11-11 17:32:40 --> Output Class Initialized
+DEBUG - 2010-11-11 17:32:40 --> Input Class Initialized
+DEBUG - 2010-11-11 17:32:40 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:32:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:32:40 --> Language Class Initialized
+DEBUG - 2010-11-11 17:32:40 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:32:40 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:32:40 --> Session Class Initialized
+DEBUG - 2010-11-11 17:32:40 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:32:40 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:32:40 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:32:40 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:32:40 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:32:40 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:32:40 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'cd217cc3eb64138a7f95cc88600822b8'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:32:40 --> SQL : UPDATE ci_sessions SET last_activity = 1289514760, session_id = 'b9d407c1a8da854741b4308f491afd64' WHERE session_id = 'cd217cc3eb64138a7f95cc88600822b8'
+DEBUG - 2010-11-11 17:32:40 --> Session routines successfully run
+DEBUG - 2010-11-11 17:32:40 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:32:40 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:32:40 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:32:40 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:32:40 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:32:40 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:32:40 --> Final output sent to browser
+DEBUG - 2010-11-11 17:32:40 --> Total execution time: 0.0762
+DEBUG - 2010-11-11 17:33:12 --> Config Class Initialized
+DEBUG - 2010-11-11 17:33:12 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:33:12 --> URI Class Initialized
+DEBUG - 2010-11-11 17:33:12 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:33:12 --> Router Class Initialized
+DEBUG - 2010-11-11 17:33:12 --> Output Class Initialized
+DEBUG - 2010-11-11 17:33:12 --> Input Class Initialized
+DEBUG - 2010-11-11 17:33:12 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:33:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:33:12 --> Language Class Initialized
+DEBUG - 2010-11-11 17:33:12 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:33:12 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:33:12 --> Session Class Initialized
+DEBUG - 2010-11-11 17:33:12 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:33:12 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:33:12 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:33:12 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:33:12 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:33:12 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:33:12 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'b9d407c1a8da854741b4308f491afd64'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:33:12 --> Session routines successfully run
+DEBUG - 2010-11-11 17:33:12 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:33:12 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:33:12 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:33:12 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:33:12 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:33:12 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:33:12 --> Final output sent to browser
+DEBUG - 2010-11-11 17:33:12 --> Total execution time: 0.0335
+DEBUG - 2010-11-11 17:33:31 --> Config Class Initialized
+DEBUG - 2010-11-11 17:33:31 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:33:31 --> URI Class Initialized
+DEBUG - 2010-11-11 17:33:31 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:33:31 --> Router Class Initialized
+DEBUG - 2010-11-11 17:33:31 --> Output Class Initialized
+DEBUG - 2010-11-11 17:33:31 --> Input Class Initialized
+DEBUG - 2010-11-11 17:33:31 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:33:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:33:31 --> Language Class Initialized
+DEBUG - 2010-11-11 17:33:31 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:33:31 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:33:31 --> Session Class Initialized
+DEBUG - 2010-11-11 17:33:31 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:33:31 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:33:31 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:33:31 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:33:31 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:33:31 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:33:31 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'b9d407c1a8da854741b4308f491afd64'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:33:31 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289507611
+DEBUG - 2010-11-11 17:33:31 --> Session garbage collection performed.
+DEBUG - 2010-11-11 17:33:31 --> Session routines successfully run
+DEBUG - 2010-11-11 17:33:31 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:33:31 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:33:31 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:33:31 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:33:31 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:33:31 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:33:31 --> Final output sent to browser
+DEBUG - 2010-11-11 17:33:31 --> Total execution time: 0.0792
+DEBUG - 2010-11-11 17:34:54 --> Config Class Initialized
+DEBUG - 2010-11-11 17:34:54 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:34:54 --> URI Class Initialized
+DEBUG - 2010-11-11 17:34:54 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:34:54 --> Router Class Initialized
+DEBUG - 2010-11-11 17:34:54 --> Output Class Initialized
+DEBUG - 2010-11-11 17:34:54 --> Input Class Initialized
+DEBUG - 2010-11-11 17:34:54 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:34:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:34:54 --> Language Class Initialized
+DEBUG - 2010-11-11 17:34:54 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:34:54 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:34:54 --> Session Class Initialized
+DEBUG - 2010-11-11 17:34:54 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:34:54 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:34:54 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:34:54 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:34:54 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:34:54 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:34:54 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '04305746962d95dc4d6634825bfeb86f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 17:34:54 --> Session routines successfully run
+DEBUG - 2010-11-11 17:34:54 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:34:54 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:34:54 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:34:54 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:34:54 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:34:54 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:34:54 --> Final output sent to browser
+DEBUG - 2010-11-11 17:34:54 --> Total execution time: 0.0767
+DEBUG - 2010-11-11 17:35:05 --> Config Class Initialized
+DEBUG - 2010-11-11 17:35:05 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:35:05 --> URI Class Initialized
+DEBUG - 2010-11-11 17:35:05 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:35:05 --> Router Class Initialized
+DEBUG - 2010-11-11 17:35:05 --> Output Class Initialized
+DEBUG - 2010-11-11 17:35:05 --> Input Class Initialized
+DEBUG - 2010-11-11 17:35:05 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:35:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:35:05 --> Language Class Initialized
+DEBUG - 2010-11-11 17:35:05 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:35:05 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:35:05 --> Session Class Initialized
+DEBUG - 2010-11-11 17:35:05 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:35:05 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:35:05 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:35:05 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:35:05 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:35:05 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:35:05 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'b9d407c1a8da854741b4308f491afd64'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:35:05 --> Session routines successfully run
+DEBUG - 2010-11-11 17:35:05 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:35:05 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:35:05 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:35:05 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:35:05 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:35:05 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:35:05 --> Final output sent to browser
+DEBUG - 2010-11-11 17:35:05 --> Total execution time: 0.0747
+DEBUG - 2010-11-11 17:35:07 --> Config Class Initialized
+DEBUG - 2010-11-11 17:35:07 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:35:07 --> URI Class Initialized
+DEBUG - 2010-11-11 17:35:07 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:35:07 --> Router Class Initialized
+DEBUG - 2010-11-11 17:35:07 --> Output Class Initialized
+DEBUG - 2010-11-11 17:35:07 --> Input Class Initialized
+DEBUG - 2010-11-11 17:35:07 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:35:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:35:07 --> Language Class Initialized
+DEBUG - 2010-11-11 17:35:07 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:35:07 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:35:07 --> Session Class Initialized
+DEBUG - 2010-11-11 17:35:07 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:35:07 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:35:07 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:35:07 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:35:07 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:35:07 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:35:07 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'b9d407c1a8da854741b4308f491afd64'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:35:07 --> Session routines successfully run
+DEBUG - 2010-11-11 17:35:07 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:35:07 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:35:07 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:35:07 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:35:07 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:35:07 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:35:07 --> Final output sent to browser
+DEBUG - 2010-11-11 17:35:07 --> Total execution time: 0.0321
+DEBUG - 2010-11-11 17:35:33 --> Config Class Initialized
+DEBUG - 2010-11-11 17:35:33 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:35:33 --> URI Class Initialized
+DEBUG - 2010-11-11 17:35:34 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:35:34 --> Router Class Initialized
+DEBUG - 2010-11-11 17:35:34 --> Output Class Initialized
+DEBUG - 2010-11-11 17:35:34 --> Input Class Initialized
+DEBUG - 2010-11-11 17:35:34 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:35:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:35:34 --> Language Class Initialized
+DEBUG - 2010-11-11 17:35:34 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:35:34 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:35:34 --> Session Class Initialized
+DEBUG - 2010-11-11 17:35:34 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:35:34 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:35:34 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:35:34 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:35:34 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:35:34 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:35:34 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'b9d407c1a8da854741b4308f491afd64'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:35:34 --> Session routines successfully run
+DEBUG - 2010-11-11 17:35:34 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:35:34 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:35:34 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:35:34 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:35:34 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:35:34 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:35:34 --> Final output sent to browser
+DEBUG - 2010-11-11 17:35:34 --> Total execution time: 0.0729
+DEBUG - 2010-11-11 17:37:50 --> Config Class Initialized
+DEBUG - 2010-11-11 17:37:50 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:37:50 --> URI Class Initialized
+DEBUG - 2010-11-11 17:37:50 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:37:50 --> Router Class Initialized
+DEBUG - 2010-11-11 17:37:50 --> Output Class Initialized
+DEBUG - 2010-11-11 17:37:50 --> Input Class Initialized
+DEBUG - 2010-11-11 17:37:50 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:37:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:37:50 --> Language Class Initialized
+DEBUG - 2010-11-11 17:37:50 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:37:50 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:37:50 --> Session Class Initialized
+DEBUG - 2010-11-11 17:37:50 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:37:50 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:37:50 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:37:50 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:37:50 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:37:50 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:37:50 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'b9d407c1a8da854741b4308f491afd64'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:37:50 --> SQL : UPDATE ci_sessions SET last_activity = 1289515070, session_id = '95e4db8b90a62ffe03374b3277a2a27d' WHERE session_id = 'b9d407c1a8da854741b4308f491afd64'
+DEBUG - 2010-11-11 17:37:50 --> Session routines successfully run
+DEBUG - 2010-11-11 17:37:50 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:37:50 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:37:50 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:37:50 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:37:50 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:37:50 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:37:50 --> Final output sent to browser
+DEBUG - 2010-11-11 17:37:51 --> Total execution time: 0.0821
+DEBUG - 2010-11-11 17:38:08 --> Config Class Initialized
+DEBUG - 2010-11-11 17:38:08 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:38:08 --> URI Class Initialized
+DEBUG - 2010-11-11 17:38:08 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:38:08 --> Router Class Initialized
+DEBUG - 2010-11-11 17:38:08 --> Output Class Initialized
+DEBUG - 2010-11-11 17:38:08 --> Input Class Initialized
+DEBUG - 2010-11-11 17:38:08 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:38:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:38:08 --> Language Class Initialized
+DEBUG - 2010-11-11 17:38:08 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:38:08 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:38:08 --> Session Class Initialized
+DEBUG - 2010-11-11 17:38:08 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:38:08 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:38:08 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:38:08 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:38:08 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:38:08 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:38:08 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '95e4db8b90a62ffe03374b3277a2a27d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:38:08 --> Session routines successfully run
+DEBUG - 2010-11-11 17:38:08 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:38:08 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:38:08 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:38:08 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:38:08 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:38:08 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:38:08 --> Final output sent to browser
+DEBUG - 2010-11-11 17:38:08 --> Total execution time: 0.0713
+DEBUG - 2010-11-11 17:38:45 --> Config Class Initialized
+DEBUG - 2010-11-11 17:38:45 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:38:45 --> URI Class Initialized
+DEBUG - 2010-11-11 17:38:45 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:38:45 --> Router Class Initialized
+DEBUG - 2010-11-11 17:38:45 --> Output Class Initialized
+DEBUG - 2010-11-11 17:38:45 --> Input Class Initialized
+DEBUG - 2010-11-11 17:38:45 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:38:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:38:45 --> Language Class Initialized
+DEBUG - 2010-11-11 17:38:45 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:38:45 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:38:45 --> Session Class Initialized
+DEBUG - 2010-11-11 17:38:45 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:38:45 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:38:45 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:38:45 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:38:45 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:38:45 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:38:45 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '95e4db8b90a62ffe03374b3277a2a27d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:38:45 --> Session routines successfully run
+DEBUG - 2010-11-11 17:38:45 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:38:45 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:38:45 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:38:45 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:38:45 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:38:45 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:38:45 --> Final output sent to browser
+DEBUG - 2010-11-11 17:38:45 --> Total execution time: 0.0315
+DEBUG - 2010-11-11 17:39:23 --> Config Class Initialized
+DEBUG - 2010-11-11 17:39:23 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:39:23 --> URI Class Initialized
+DEBUG - 2010-11-11 17:39:23 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:39:23 --> Router Class Initialized
+DEBUG - 2010-11-11 17:39:23 --> Output Class Initialized
+DEBUG - 2010-11-11 17:39:23 --> Input Class Initialized
+DEBUG - 2010-11-11 17:39:23 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:39:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:39:23 --> Language Class Initialized
+DEBUG - 2010-11-11 17:39:23 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:39:23 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:39:23 --> Session Class Initialized
+DEBUG - 2010-11-11 17:39:23 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:39:23 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:39:23 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:39:23 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:39:23 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:39:23 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:39:23 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '95e4db8b90a62ffe03374b3277a2a27d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:39:23 --> Session routines successfully run
+DEBUG - 2010-11-11 17:39:23 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:39:23 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:39:23 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:39:23 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:39:23 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:39:23 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:39:23 --> Final output sent to browser
+DEBUG - 2010-11-11 17:39:23 --> Total execution time: 0.0770
+DEBUG - 2010-11-11 17:39:44 --> Config Class Initialized
+DEBUG - 2010-11-11 17:39:44 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:39:44 --> URI Class Initialized
+DEBUG - 2010-11-11 17:39:44 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:39:44 --> Router Class Initialized
+DEBUG - 2010-11-11 17:39:44 --> Output Class Initialized
+DEBUG - 2010-11-11 17:39:44 --> Input Class Initialized
+DEBUG - 2010-11-11 17:39:44 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:39:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:39:44 --> Language Class Initialized
+DEBUG - 2010-11-11 17:39:44 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:39:44 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:39:44 --> Session Class Initialized
+DEBUG - 2010-11-11 17:39:44 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:39:44 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:39:44 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:39:44 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:39:44 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:39:44 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:39:44 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '95e4db8b90a62ffe03374b3277a2a27d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:39:44 --> Session routines successfully run
+DEBUG - 2010-11-11 17:39:44 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:39:44 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:39:44 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:39:44 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:39:44 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:39:44 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:39:44 --> Final output sent to browser
+DEBUG - 2010-11-11 17:39:44 --> Total execution time: 0.0658
+DEBUG - 2010-11-11 17:39:45 --> Config Class Initialized
+DEBUG - 2010-11-11 17:39:45 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:39:45 --> URI Class Initialized
+DEBUG - 2010-11-11 17:39:45 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:39:45 --> Router Class Initialized
+DEBUG - 2010-11-11 17:39:45 --> Output Class Initialized
+DEBUG - 2010-11-11 17:39:45 --> Input Class Initialized
+DEBUG - 2010-11-11 17:39:45 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:39:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:39:45 --> Language Class Initialized
+DEBUG - 2010-11-11 17:39:45 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:39:45 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:39:45 --> Session Class Initialized
+DEBUG - 2010-11-11 17:39:45 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:39:45 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:39:45 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:39:45 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:39:45 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:39:45 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:39:45 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '95e4db8b90a62ffe03374b3277a2a27d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:39:45 --> Session routines successfully run
+DEBUG - 2010-11-11 17:39:45 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:39:45 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:39:45 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:39:45 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:39:45 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:39:45 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:39:45 --> Final output sent to browser
+DEBUG - 2010-11-11 17:39:45 --> Total execution time: 0.0758
+DEBUG - 2010-11-11 17:39:52 --> Config Class Initialized
+DEBUG - 2010-11-11 17:39:52 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:39:52 --> URI Class Initialized
+DEBUG - 2010-11-11 17:39:52 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:39:52 --> Router Class Initialized
+DEBUG - 2010-11-11 17:39:52 --> Output Class Initialized
+DEBUG - 2010-11-11 17:39:52 --> Input Class Initialized
+DEBUG - 2010-11-11 17:39:52 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:39:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:39:52 --> Language Class Initialized
+DEBUG - 2010-11-11 17:39:52 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:39:52 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:39:52 --> Session Class Initialized
+DEBUG - 2010-11-11 17:39:52 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:39:52 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:39:52 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:39:52 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:39:52 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:39:52 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:39:52 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '95e4db8b90a62ffe03374b3277a2a27d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:39:52 --> Session routines successfully run
+DEBUG - 2010-11-11 17:39:52 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:39:52 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:39:52 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:39:52 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:39:52 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:39:52 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:39:52 --> Final output sent to browser
+DEBUG - 2010-11-11 17:39:52 --> Total execution time: 0.0761
+DEBUG - 2010-11-11 17:39:53 --> Config Class Initialized
+DEBUG - 2010-11-11 17:39:53 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:39:53 --> URI Class Initialized
+DEBUG - 2010-11-11 17:39:53 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:39:53 --> Router Class Initialized
+DEBUG - 2010-11-11 17:39:53 --> Output Class Initialized
+DEBUG - 2010-11-11 17:39:53 --> Input Class Initialized
+DEBUG - 2010-11-11 17:39:53 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:39:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:39:53 --> Language Class Initialized
+DEBUG - 2010-11-11 17:39:53 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:39:53 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:39:53 --> Session Class Initialized
+DEBUG - 2010-11-11 17:39:53 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:39:53 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:39:53 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:39:53 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:39:53 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:39:53 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:39:53 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '95e4db8b90a62ffe03374b3277a2a27d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:39:53 --> Session routines successfully run
+DEBUG - 2010-11-11 17:39:53 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:39:53 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:39:53 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:39:53 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:39:53 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:39:53 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:39:53 --> Final output sent to browser
+DEBUG - 2010-11-11 17:39:53 --> Total execution time: 0.0328
+DEBUG - 2010-11-11 17:41:20 --> Config Class Initialized
+DEBUG - 2010-11-11 17:41:20 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:41:20 --> URI Class Initialized
+DEBUG - 2010-11-11 17:41:20 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:41:20 --> Router Class Initialized
+DEBUG - 2010-11-11 17:41:20 --> Output Class Initialized
+DEBUG - 2010-11-11 17:41:20 --> Input Class Initialized
+DEBUG - 2010-11-11 17:41:20 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:41:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:41:20 --> Language Class Initialized
+DEBUG - 2010-11-11 17:41:20 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:41:20 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:41:20 --> Session Class Initialized
+DEBUG - 2010-11-11 17:41:20 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:41:20 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:41:20 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:41:20 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:41:20 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:41:20 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:41:20 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '95e4db8b90a62ffe03374b3277a2a27d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:41:20 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289508080
+DEBUG - 2010-11-11 17:41:20 --> Session garbage collection performed.
+DEBUG - 2010-11-11 17:41:20 --> Session routines successfully run
+DEBUG - 2010-11-11 17:41:20 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:41:20 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:41:20 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:41:20 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:41:20 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:41:20 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:41:20 --> Final output sent to browser
+DEBUG - 2010-11-11 17:41:20 --> Total execution time: 0.0752
+DEBUG - 2010-11-11 17:43:07 --> Config Class Initialized
+DEBUG - 2010-11-11 17:43:07 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:43:07 --> URI Class Initialized
+DEBUG - 2010-11-11 17:43:07 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:43:07 --> Router Class Initialized
+DEBUG - 2010-11-11 17:43:07 --> Output Class Initialized
+DEBUG - 2010-11-11 17:43:07 --> Input Class Initialized
+DEBUG - 2010-11-11 17:43:07 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:43:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:43:07 --> Language Class Initialized
+DEBUG - 2010-11-11 17:43:07 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:43:07 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:43:07 --> Session Class Initialized
+DEBUG - 2010-11-11 17:43:07 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:43:07 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:43:07 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:43:07 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:43:07 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:43:07 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:43:07 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '95e4db8b90a62ffe03374b3277a2a27d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:43:07 --> SQL : UPDATE ci_sessions SET last_activity = 1289515387, session_id = '00ba1fd8d2d424c514ac91e7ba79ddac' WHERE session_id = '95e4db8b90a62ffe03374b3277a2a27d'
+DEBUG - 2010-11-11 17:43:07 --> Session routines successfully run
+DEBUG - 2010-11-11 17:43:07 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:43:07 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:43:07 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:43:07 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:43:07 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:43:07 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:43:07 --> Final output sent to browser
+DEBUG - 2010-11-11 17:43:07 --> Total execution time: 0.0824
+DEBUG - 2010-11-11 17:43:18 --> Config Class Initialized
+DEBUG - 2010-11-11 17:43:18 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:43:18 --> URI Class Initialized
+DEBUG - 2010-11-11 17:43:18 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 17:43:18 --> Router Class Initialized
+DEBUG - 2010-11-11 17:43:18 --> Output Class Initialized
+DEBUG - 2010-11-11 17:43:18 --> Input Class Initialized
+DEBUG - 2010-11-11 17:43:18 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:43:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:43:18 --> Language Class Initialized
+DEBUG - 2010-11-11 17:43:18 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:43:18 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:43:18 --> Session Class Initialized
+DEBUG - 2010-11-11 17:43:18 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:43:18 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:43:18 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:43:18 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:43:18 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:43:18 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:43:18 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '00ba1fd8d2d424c514ac91e7ba79ddac'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:43:18 --> Session routines successfully run
+DEBUG - 2010-11-11 17:43:18 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:43:18 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:43:18 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 17:43:18 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 17:43:18 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 17:43:18 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 17:43:18 --> Final output sent to browser
+DEBUG - 2010-11-11 17:43:18 --> Total execution time: 0.0328
+DEBUG - 2010-11-11 17:43:31 --> Config Class Initialized
+DEBUG - 2010-11-11 17:43:31 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:43:31 --> URI Class Initialized
+DEBUG - 2010-11-11 17:43:31 --> Router Class Initialized
+DEBUG - 2010-11-11 17:43:31 --> Output Class Initialized
+DEBUG - 2010-11-11 17:43:31 --> Input Class Initialized
+DEBUG - 2010-11-11 17:43:31 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:43:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:43:31 --> Language Class Initialized
+DEBUG - 2010-11-11 17:43:31 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:43:31 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:43:31 --> Session Class Initialized
+DEBUG - 2010-11-11 17:43:31 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:43:31 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:43:31 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:43:31 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:43:31 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:43:31 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:43:31 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '00ba1fd8d2d424c514ac91e7ba79ddac'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:43:31 --> Session routines successfully run
+DEBUG - 2010-11-11 17:43:31 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:43:31 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:43:31 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 17:43:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 17:43:31 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 17:43:31 --> Final output sent to browser
+DEBUG - 2010-11-11 17:43:31 --> Total execution time: 0.0703
+DEBUG - 2010-11-11 17:43:39 --> Config Class Initialized
+DEBUG - 2010-11-11 17:43:39 --> Hooks Class Initialized
+DEBUG - 2010-11-11 17:43:39 --> URI Class Initialized
+DEBUG - 2010-11-11 17:43:39 --> Router Class Initialized
+DEBUG - 2010-11-11 17:43:39 --> Output Class Initialized
+DEBUG - 2010-11-11 17:43:39 --> Input Class Initialized
+DEBUG - 2010-11-11 17:43:39 --> XSS Filtering completed
+DEBUG - 2010-11-11 17:43:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 17:43:39 --> Language Class Initialized
+DEBUG - 2010-11-11 17:43:39 --> Loader Class Initialized
+DEBUG - 2010-11-11 17:43:39 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 17:43:39 --> Session Class Initialized
+DEBUG - 2010-11-11 17:43:39 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 17:43:39 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 17:43:39 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 17:43:39 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 17:43:39 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 17:43:39 --> PDO driver connection ok
+DEBUG - 2010-11-11 17:43:39 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '00ba1fd8d2d424c514ac91e7ba79ddac'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 17:43:39 --> Session routines successfully run
+DEBUG - 2010-11-11 17:43:39 --> Controller Class Initialized
+DEBUG - 2010-11-11 17:43:39 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 17:43:39 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 17:43:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 17:43:39 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 17:43:39 --> Final output sent to browser
+DEBUG - 2010-11-11 17:43:39 --> Total execution time: 0.0729
+DEBUG - 2010-11-11 18:08:56 --> Config Class Initialized
+DEBUG - 2010-11-11 18:08:56 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:08:56 --> URI Class Initialized
+DEBUG - 2010-11-11 18:08:56 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:08:56 --> Router Class Initialized
+DEBUG - 2010-11-11 18:08:56 --> Output Class Initialized
+DEBUG - 2010-11-11 18:08:56 --> Input Class Initialized
+DEBUG - 2010-11-11 18:08:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:08:56 --> Language Class Initialized
+DEBUG - 2010-11-11 18:08:56 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:08:56 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:08:56 --> Session Class Initialized
+DEBUG - 2010-11-11 18:08:56 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:08:56 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:08:56 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:08:56 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:08:56 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:08:56 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:08:56 --> A session cookie was not found.
+DEBUG - 2010-11-11 18:08:56 --> SQL : INSERT INTO ci_sessions (session_id, ip_address, user_agent, last_activity) VALUES ('82f331e98de551a636e51da041e34c5c', '127.0.0.1', 'Opera/9.20 (Macintosh; Intel Mac OS X; U; fr)', 1289516936)
+DEBUG - 2010-11-11 18:08:56 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289509736
+DEBUG - 2010-11-11 18:08:56 --> Session garbage collection performed.
+DEBUG - 2010-11-11 18:08:56 --> Session routines successfully run
+DEBUG - 2010-11-11 18:08:56 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:08:56 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:08:56 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:08:56 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:08:56 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:08:56 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:08:56 --> Final output sent to browser
+DEBUG - 2010-11-11 18:08:56 --> Total execution time: 0.0917
+DEBUG - 2010-11-11 18:11:32 --> Config Class Initialized
+DEBUG - 2010-11-11 18:11:32 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:11:32 --> URI Class Initialized
+DEBUG - 2010-11-11 18:11:32 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:11:32 --> Router Class Initialized
+DEBUG - 2010-11-11 18:11:32 --> Output Class Initialized
+DEBUG - 2010-11-11 18:11:32 --> Input Class Initialized
+DEBUG - 2010-11-11 18:11:32 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:11:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:11:32 --> Language Class Initialized
+DEBUG - 2010-11-11 18:11:32 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:11:32 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:11:32 --> Session Class Initialized
+DEBUG - 2010-11-11 18:11:32 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:11:32 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:11:32 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:11:32 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:11:32 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:11:32 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:11:32 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '00ba1fd8d2d424c514ac91e7ba79ddac'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:11:32 --> SQL : UPDATE ci_sessions SET last_activity = 1289517092, session_id = '1c03424c7c1fe63ac4c005699343cf6d' WHERE session_id = '00ba1fd8d2d424c514ac91e7ba79ddac'
+DEBUG - 2010-11-11 18:11:32 --> Session routines successfully run
+DEBUG - 2010-11-11 18:11:32 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:11:32 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:11:32 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:11:32 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:11:32 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:11:32 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:11:32 --> Final output sent to browser
+DEBUG - 2010-11-11 18:11:32 --> Total execution time: 0.1157
+DEBUG - 2010-11-11 18:11:41 --> Config Class Initialized
+DEBUG - 2010-11-11 18:11:41 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:11:41 --> URI Class Initialized
+DEBUG - 2010-11-11 18:11:41 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:11:41 --> Router Class Initialized
+DEBUG - 2010-11-11 18:11:41 --> Output Class Initialized
+DEBUG - 2010-11-11 18:11:41 --> Input Class Initialized
+DEBUG - 2010-11-11 18:11:41 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:11:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:11:41 --> Language Class Initialized
+DEBUG - 2010-11-11 18:11:41 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:11:41 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:11:41 --> Session Class Initialized
+DEBUG - 2010-11-11 18:11:41 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:11:41 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:11:41 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:11:41 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:11:41 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:11:41 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:11:41 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '1c03424c7c1fe63ac4c005699343cf6d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:11:41 --> Session routines successfully run
+DEBUG - 2010-11-11 18:11:41 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:11:41 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:11:41 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:11:41 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:11:41 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:11:41 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:11:41 --> Final output sent to browser
+DEBUG - 2010-11-11 18:11:41 --> Total execution time: 0.0751
+DEBUG - 2010-11-11 18:11:45 --> Config Class Initialized
+DEBUG - 2010-11-11 18:11:45 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:11:45 --> URI Class Initialized
+DEBUG - 2010-11-11 18:11:45 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:11:45 --> Router Class Initialized
+DEBUG - 2010-11-11 18:11:45 --> Output Class Initialized
+DEBUG - 2010-11-11 18:11:45 --> Input Class Initialized
+DEBUG - 2010-11-11 18:11:45 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:11:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:11:45 --> Language Class Initialized
+DEBUG - 2010-11-11 18:11:45 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:11:45 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:11:45 --> Session Class Initialized
+DEBUG - 2010-11-11 18:11:45 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:11:45 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:11:45 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:11:45 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:11:45 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:11:45 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:11:45 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '1c03424c7c1fe63ac4c005699343cf6d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:11:45 --> Session routines successfully run
+DEBUG - 2010-11-11 18:11:45 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:11:45 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:11:45 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:11:45 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:11:45 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:11:45 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:11:45 --> Final output sent to browser
+DEBUG - 2010-11-11 18:11:45 --> Total execution time: 0.0686
+DEBUG - 2010-11-11 18:12:44 --> Config Class Initialized
+DEBUG - 2010-11-11 18:12:44 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:12:44 --> URI Class Initialized
+DEBUG - 2010-11-11 18:12:44 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:12:44 --> Router Class Initialized
+DEBUG - 2010-11-11 18:12:44 --> Output Class Initialized
+DEBUG - 2010-11-11 18:12:44 --> Input Class Initialized
+DEBUG - 2010-11-11 18:12:44 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:12:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:12:44 --> Language Class Initialized
+DEBUG - 2010-11-11 18:12:44 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:12:44 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:12:44 --> Session Class Initialized
+DEBUG - 2010-11-11 18:12:44 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:12:44 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:12:44 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:12:44 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:12:44 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:12:44 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:12:44 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '1c03424c7c1fe63ac4c005699343cf6d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:12:44 --> Session routines successfully run
+DEBUG - 2010-11-11 18:12:44 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:12:44 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:12:44 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:12:44 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:12:44 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:12:44 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:12:44 --> Final output sent to browser
+DEBUG - 2010-11-11 18:12:44 --> Total execution time: 0.0846
+DEBUG - 2010-11-11 18:12:45 --> Config Class Initialized
+DEBUG - 2010-11-11 18:12:45 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:12:45 --> URI Class Initialized
+DEBUG - 2010-11-11 18:12:45 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:12:45 --> Router Class Initialized
+DEBUG - 2010-11-11 18:12:45 --> Output Class Initialized
+DEBUG - 2010-11-11 18:12:45 --> Input Class Initialized
+DEBUG - 2010-11-11 18:12:45 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:12:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:12:45 --> Language Class Initialized
+DEBUG - 2010-11-11 18:12:45 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:12:45 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:12:45 --> Session Class Initialized
+DEBUG - 2010-11-11 18:12:45 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:12:45 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:12:45 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:12:45 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:12:45 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:12:45 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:12:45 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '1c03424c7c1fe63ac4c005699343cf6d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:12:45 --> Session routines successfully run
+DEBUG - 2010-11-11 18:12:45 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:12:45 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:12:45 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:12:45 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:12:45 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:12:45 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:12:45 --> Final output sent to browser
+DEBUG - 2010-11-11 18:12:45 --> Total execution time: 0.0315
+DEBUG - 2010-11-11 18:12:49 --> Config Class Initialized
+DEBUG - 2010-11-11 18:12:49 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:12:49 --> URI Class Initialized
+DEBUG - 2010-11-11 18:12:49 --> Router Class Initialized
+DEBUG - 2010-11-11 18:12:49 --> Output Class Initialized
+DEBUG - 2010-11-11 18:12:49 --> Input Class Initialized
+DEBUG - 2010-11-11 18:12:49 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:12:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:12:49 --> Language Class Initialized
+DEBUG - 2010-11-11 18:12:49 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:12:49 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:12:49 --> Session Class Initialized
+DEBUG - 2010-11-11 18:12:49 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:12:49 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:12:49 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:12:49 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:12:49 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:12:49 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:12:49 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '1c03424c7c1fe63ac4c005699343cf6d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:12:49 --> Session routines successfully run
+DEBUG - 2010-11-11 18:12:49 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:12:49 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:12:49 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 18:12:49 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 18:12:49 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 18:12:49 --> Final output sent to browser
+DEBUG - 2010-11-11 18:12:49 --> Total execution time: 0.0780
+DEBUG - 2010-11-11 18:12:59 --> Config Class Initialized
+DEBUG - 2010-11-11 18:12:59 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:12:59 --> URI Class Initialized
+DEBUG - 2010-11-11 18:12:59 --> Router Class Initialized
+DEBUG - 2010-11-11 18:12:59 --> Output Class Initialized
+DEBUG - 2010-11-11 18:12:59 --> Input Class Initialized
+DEBUG - 2010-11-11 18:12:59 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:12:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:12:59 --> Language Class Initialized
+DEBUG - 2010-11-11 18:12:59 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:12:59 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:12:59 --> Session Class Initialized
+DEBUG - 2010-11-11 18:12:59 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:12:59 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:12:59 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:12:59 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:12:59 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:12:59 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:12:59 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '1c03424c7c1fe63ac4c005699343cf6d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:12:59 --> Session routines successfully run
+DEBUG - 2010-11-11 18:12:59 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:12:59 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:12:59 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 18:12:59 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 18:12:59 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 18:12:59 --> Final output sent to browser
+DEBUG - 2010-11-11 18:12:59 --> Total execution time: 0.0374
+DEBUG - 2010-11-11 18:13:31 --> Config Class Initialized
+DEBUG - 2010-11-11 18:13:31 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:13:31 --> URI Class Initialized
+DEBUG - 2010-11-11 18:13:31 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:13:31 --> Router Class Initialized
+DEBUG - 2010-11-11 18:13:31 --> Output Class Initialized
+DEBUG - 2010-11-11 18:13:31 --> Input Class Initialized
+DEBUG - 2010-11-11 18:13:31 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:13:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:13:31 --> Language Class Initialized
+DEBUG - 2010-11-11 18:13:31 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:13:31 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:13:31 --> Session Class Initialized
+DEBUG - 2010-11-11 18:13:31 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:13:31 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:13:31 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:13:31 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:13:31 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:13:31 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:13:31 --> SQL : INSERT INTO ci_sessions (session_id, ip_address, user_agent, last_activity) VALUES ('928cc4d8db19a589f021209c31f81b83', '127.0.0.1', 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres', 1289517211)
+DEBUG - 2010-11-11 18:13:31 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289510011
+DEBUG - 2010-11-11 18:13:31 --> Session garbage collection performed.
+DEBUG - 2010-11-11 18:13:31 --> Session routines successfully run
+DEBUG - 2010-11-11 18:13:31 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:13:31 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:13:31 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:13:31 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:13:31 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:13:31 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:13:31 --> Final output sent to browser
+DEBUG - 2010-11-11 18:13:31 --> Total execution time: 0.7956
+DEBUG - 2010-11-11 18:13:51 --> Config Class Initialized
+DEBUG - 2010-11-11 18:13:51 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:13:51 --> URI Class Initialized
+DEBUG - 2010-11-11 18:13:51 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:13:51 --> Router Class Initialized
+DEBUG - 2010-11-11 18:13:51 --> Output Class Initialized
+DEBUG - 2010-11-11 18:13:51 --> Input Class Initialized
+DEBUG - 2010-11-11 18:13:51 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:13:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:13:51 --> Language Class Initialized
+DEBUG - 2010-11-11 18:13:51 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:13:51 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:13:51 --> Session Class Initialized
+DEBUG - 2010-11-11 18:13:51 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:13:51 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:13:51 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:13:51 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:13:51 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:13:51 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:13:51 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '04305746962d95dc4d6634825bfeb86f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 18:13:51 --> SQL : UPDATE ci_sessions SET last_activity = 1289517231, session_id = 'b23ff6c7d6e4d1896a2e98e68056bfb8' WHERE session_id = '04305746962d95dc4d6634825bfeb86f'
+DEBUG - 2010-11-11 18:13:51 --> Session routines successfully run
+DEBUG - 2010-11-11 18:13:51 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:13:51 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:13:51 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:13:51 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:13:51 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:13:51 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:13:51 --> Final output sent to browser
+DEBUG - 2010-11-11 18:13:51 --> Total execution time: 0.1738
+DEBUG - 2010-11-11 18:15:35 --> Config Class Initialized
+DEBUG - 2010-11-11 18:15:35 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:15:35 --> URI Class Initialized
+DEBUG - 2010-11-11 18:15:35 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:15:35 --> Router Class Initialized
+DEBUG - 2010-11-11 18:15:35 --> Output Class Initialized
+DEBUG - 2010-11-11 18:15:35 --> Input Class Initialized
+DEBUG - 2010-11-11 18:15:35 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:15:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:15:35 --> Language Class Initialized
+DEBUG - 2010-11-11 18:15:35 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:15:35 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:15:35 --> Session Class Initialized
+DEBUG - 2010-11-11 18:15:35 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:15:35 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:15:35 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:15:35 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:15:35 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:15:35 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:15:35 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '928cc4d8db19a589f021209c31f81b83'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 18:15:35 --> Session routines successfully run
+DEBUG - 2010-11-11 18:15:35 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:15:35 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:15:35 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:15:35 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:15:35 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:15:35 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:15:35 --> Final output sent to browser
+DEBUG - 2010-11-11 18:15:35 --> Total execution time: 0.0724
+DEBUG - 2010-11-11 18:15:37 --> Config Class Initialized
+DEBUG - 2010-11-11 18:15:37 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:15:37 --> URI Class Initialized
+DEBUG - 2010-11-11 18:15:37 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:15:37 --> Router Class Initialized
+DEBUG - 2010-11-11 18:15:37 --> Output Class Initialized
+DEBUG - 2010-11-11 18:15:37 --> Input Class Initialized
+DEBUG - 2010-11-11 18:15:37 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:15:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:15:37 --> Language Class Initialized
+DEBUG - 2010-11-11 18:15:37 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:15:37 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:15:37 --> Session Class Initialized
+DEBUG - 2010-11-11 18:15:37 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:15:37 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:15:37 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:15:37 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:15:37 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:15:37 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:15:37 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '928cc4d8db19a589f021209c31f81b83'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 18:15:37 --> Session routines successfully run
+DEBUG - 2010-11-11 18:15:37 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:15:37 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:15:37 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:15:37 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:15:37 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:15:37 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:15:37 --> Final output sent to browser
+DEBUG - 2010-11-11 18:15:37 --> Total execution time: 0.0689
+DEBUG - 2010-11-11 18:16:11 --> Config Class Initialized
+DEBUG - 2010-11-11 18:16:11 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:16:11 --> URI Class Initialized
+DEBUG - 2010-11-11 18:16:11 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:16:11 --> Router Class Initialized
+DEBUG - 2010-11-11 18:16:11 --> Output Class Initialized
+DEBUG - 2010-11-11 18:16:11 --> Input Class Initialized
+DEBUG - 2010-11-11 18:16:11 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:16:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:16:11 --> Language Class Initialized
+DEBUG - 2010-11-11 18:16:11 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:16:11 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:16:11 --> Session Class Initialized
+DEBUG - 2010-11-11 18:16:11 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:16:11 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:16:11 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:16:11 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:16:11 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:16:11 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:16:11 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '928cc4d8db19a589f021209c31f81b83'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 18:16:11 --> Session routines successfully run
+DEBUG - 2010-11-11 18:16:11 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:16:11 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:16:11 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:16:11 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:16:11 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:16:11 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:16:11 --> Final output sent to browser
+DEBUG - 2010-11-11 18:16:11 --> Total execution time: 0.0696
+DEBUG - 2010-11-11 18:16:16 --> Config Class Initialized
+DEBUG - 2010-11-11 18:16:16 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:16:16 --> URI Class Initialized
+DEBUG - 2010-11-11 18:16:16 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:16:16 --> Router Class Initialized
+DEBUG - 2010-11-11 18:16:16 --> Output Class Initialized
+DEBUG - 2010-11-11 18:16:16 --> Input Class Initialized
+DEBUG - 2010-11-11 18:16:16 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:16:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:16:16 --> Language Class Initialized
+DEBUG - 2010-11-11 18:16:16 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:16:16 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:16:16 --> Session Class Initialized
+DEBUG - 2010-11-11 18:16:16 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:16:16 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:16:16 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:16:16 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:16:16 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:16:16 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:16:16 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'b23ff6c7d6e4d1896a2e98e68056bfb8'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 18:16:16 --> Session routines successfully run
+DEBUG - 2010-11-11 18:16:16 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:16:16 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:16:16 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:16:16 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:16:16 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:16:16 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:16:16 --> Final output sent to browser
+DEBUG - 2010-11-11 18:16:16 --> Total execution time: 0.0320
+DEBUG - 2010-11-11 18:16:26 --> Config Class Initialized
+DEBUG - 2010-11-11 18:16:26 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:16:26 --> URI Class Initialized
+DEBUG - 2010-11-11 18:16:27 --> Router Class Initialized
+DEBUG - 2010-11-11 18:16:27 --> Output Class Initialized
+DEBUG - 2010-11-11 18:16:27 --> Input Class Initialized
+DEBUG - 2010-11-11 18:16:27 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:16:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:16:27 --> Language Class Initialized
+DEBUG - 2010-11-11 18:16:27 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:16:27 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:16:27 --> Session Class Initialized
+DEBUG - 2010-11-11 18:16:27 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:16:27 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:16:27 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:16:27 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:16:27 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:16:27 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:16:27 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '1c03424c7c1fe63ac4c005699343cf6d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:16:27 --> Session routines successfully run
+DEBUG - 2010-11-11 18:16:27 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:16:27 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:16:27 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 18:16:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 18:16:27 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 18:16:27 --> Final output sent to browser
+DEBUG - 2010-11-11 18:16:27 --> Total execution time: 0.0787
+DEBUG - 2010-11-11 18:24:50 --> Config Class Initialized
+DEBUG - 2010-11-11 18:24:51 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:24:51 --> URI Class Initialized
+DEBUG - 2010-11-11 18:24:51 --> Router Class Initialized
+DEBUG - 2010-11-11 18:24:51 --> Output Class Initialized
+DEBUG - 2010-11-11 18:24:51 --> Input Class Initialized
+DEBUG - 2010-11-11 18:24:51 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:24:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:24:51 --> Language Class Initialized
+DEBUG - 2010-11-11 18:24:51 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:24:51 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:24:51 --> Session Class Initialized
+DEBUG - 2010-11-11 18:24:51 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:24:51 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:24:51 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:24:51 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:24:51 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:24:51 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:24:51 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '1c03424c7c1fe63ac4c005699343cf6d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:24:51 --> SQL : UPDATE ci_sessions SET last_activity = 1289517891, session_id = '24bd2f0c8f623de2cdfb75c8a5816e8e' WHERE session_id = '1c03424c7c1fe63ac4c005699343cf6d'
+DEBUG - 2010-11-11 18:24:51 --> Session routines successfully run
+DEBUG - 2010-11-11 18:24:51 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:24:51 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:24:51 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 18:24:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 18:24:51 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 18:24:51 --> Final output sent to browser
+DEBUG - 2010-11-11 18:24:51 --> Total execution time: 0.0834
+DEBUG - 2010-11-11 18:25:10 --> Config Class Initialized
+DEBUG - 2010-11-11 18:25:10 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:25:10 --> URI Class Initialized
+DEBUG - 2010-11-11 18:25:10 --> Router Class Initialized
+DEBUG - 2010-11-11 18:25:10 --> Output Class Initialized
+DEBUG - 2010-11-11 18:25:10 --> Input Class Initialized
+DEBUG - 2010-11-11 18:25:10 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:25:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:25:10 --> Language Class Initialized
+DEBUG - 2010-11-11 18:25:10 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:25:10 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:25:10 --> Session Class Initialized
+DEBUG - 2010-11-11 18:25:10 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:25:10 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:25:10 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:25:10 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:25:10 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:25:10 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:25:10 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '24bd2f0c8f623de2cdfb75c8a5816e8e'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:25:10 --> Session routines successfully run
+DEBUG - 2010-11-11 18:25:10 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:25:10 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:25:10 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 18:25:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 18:25:10 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 18:25:10 --> Final output sent to browser
+DEBUG - 2010-11-11 18:25:10 --> Total execution time: 0.0750
+DEBUG - 2010-11-11 18:25:12 --> Config Class Initialized
+DEBUG - 2010-11-11 18:25:12 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:25:12 --> URI Class Initialized
+DEBUG - 2010-11-11 18:25:12 --> Router Class Initialized
+DEBUG - 2010-11-11 18:25:12 --> Output Class Initialized
+DEBUG - 2010-11-11 18:25:12 --> Input Class Initialized
+DEBUG - 2010-11-11 18:25:12 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:25:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:25:12 --> Language Class Initialized
+DEBUG - 2010-11-11 18:25:12 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:25:12 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:25:12 --> Session Class Initialized
+DEBUG - 2010-11-11 18:25:12 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:25:12 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:25:12 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:25:12 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:25:12 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:25:12 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:25:12 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '24bd2f0c8f623de2cdfb75c8a5816e8e'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:25:12 --> Session routines successfully run
+DEBUG - 2010-11-11 18:25:12 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:25:12 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:25:12 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 18:25:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 18:25:12 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 18:25:12 --> Final output sent to browser
+DEBUG - 2010-11-11 18:25:12 --> Total execution time: 0.0351
+DEBUG - 2010-11-11 18:25:20 --> Config Class Initialized
+DEBUG - 2010-11-11 18:25:20 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:25:20 --> URI Class Initialized
+DEBUG - 2010-11-11 18:25:20 --> Router Class Initialized
+DEBUG - 2010-11-11 18:25:20 --> Output Class Initialized
+DEBUG - 2010-11-11 18:25:20 --> Input Class Initialized
+DEBUG - 2010-11-11 18:25:20 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:25:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:25:20 --> Language Class Initialized
+DEBUG - 2010-11-11 18:25:20 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:25:20 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:25:20 --> Session Class Initialized
+DEBUG - 2010-11-11 18:25:20 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:25:20 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:25:20 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:25:20 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:25:20 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:25:20 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:25:20 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '24bd2f0c8f623de2cdfb75c8a5816e8e'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:25:20 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289510720
+DEBUG - 2010-11-11 18:25:20 --> Session garbage collection performed.
+DEBUG - 2010-11-11 18:25:20 --> Session routines successfully run
+DEBUG - 2010-11-11 18:25:20 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:25:20 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:25:20 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 18:25:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 18:25:20 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 18:25:20 --> Final output sent to browser
+DEBUG - 2010-11-11 18:25:20 --> Total execution time: 0.0791
+DEBUG - 2010-11-11 18:25:27 --> Config Class Initialized
+DEBUG - 2010-11-11 18:25:27 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:25:27 --> URI Class Initialized
+DEBUG - 2010-11-11 18:25:27 --> Router Class Initialized
+DEBUG - 2010-11-11 18:25:27 --> Output Class Initialized
+DEBUG - 2010-11-11 18:25:27 --> Input Class Initialized
+DEBUG - 2010-11-11 18:25:27 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:25:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:25:27 --> Language Class Initialized
+DEBUG - 2010-11-11 18:25:27 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:25:27 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:25:27 --> Session Class Initialized
+DEBUG - 2010-11-11 18:25:27 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:25:27 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:25:27 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:25:27 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:25:27 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:25:27 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:25:27 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '24bd2f0c8f623de2cdfb75c8a5816e8e'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:25:27 --> Session routines successfully run
+DEBUG - 2010-11-11 18:25:27 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:25:27 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:25:27 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:25:27 --> 404 Page Not Found --> home/advsearch
+DEBUG - 2010-11-11 18:25:37 --> Config Class Initialized
+DEBUG - 2010-11-11 18:25:37 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:25:37 --> URI Class Initialized
+DEBUG - 2010-11-11 18:25:37 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:25:37 --> Router Class Initialized
+DEBUG - 2010-11-11 18:25:37 --> Output Class Initialized
+DEBUG - 2010-11-11 18:25:37 --> Input Class Initialized
+DEBUG - 2010-11-11 18:25:37 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:25:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:25:37 --> Language Class Initialized
+DEBUG - 2010-11-11 18:25:37 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:25:37 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:25:37 --> Session Class Initialized
+DEBUG - 2010-11-11 18:25:37 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:25:37 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:25:37 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:25:37 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:25:37 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:25:37 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:25:37 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'b23ff6c7d6e4d1896a2e98e68056bfb8'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 18:25:37 --> SQL : UPDATE ci_sessions SET last_activity = 1289517937, session_id = '42a42459e9b8cf936e79dd76bc8eff6a' WHERE session_id = 'b23ff6c7d6e4d1896a2e98e68056bfb8'
+DEBUG - 2010-11-11 18:25:37 --> Session routines successfully run
+DEBUG - 2010-11-11 18:25:37 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:25:37 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:25:37 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:25:37 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:25:37 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:25:37 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:25:37 --> Final output sent to browser
+DEBUG - 2010-11-11 18:25:37 --> Total execution time: 0.0643
+DEBUG - 2010-11-11 18:25:39 --> Config Class Initialized
+DEBUG - 2010-11-11 18:25:39 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:25:39 --> URI Class Initialized
+DEBUG - 2010-11-11 18:25:39 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:25:39 --> Router Class Initialized
+DEBUG - 2010-11-11 18:25:39 --> Output Class Initialized
+DEBUG - 2010-11-11 18:25:39 --> Input Class Initialized
+DEBUG - 2010-11-11 18:25:39 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:25:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:25:39 --> Language Class Initialized
+DEBUG - 2010-11-11 18:25:39 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:25:39 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:25:39 --> Session Class Initialized
+DEBUG - 2010-11-11 18:25:39 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:25:39 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:25:39 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:25:39 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:25:39 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:25:39 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:25:39 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '928cc4d8db19a589f021209c31f81b83'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 18:25:39 --> SQL : UPDATE ci_sessions SET last_activity = 1289517939, session_id = '90d16b7f49fa97baed18504864a43af5' WHERE session_id = '928cc4d8db19a589f021209c31f81b83'
+DEBUG - 2010-11-11 18:25:39 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289510739
+DEBUG - 2010-11-11 18:25:39 --> Session garbage collection performed.
+DEBUG - 2010-11-11 18:25:39 --> Session routines successfully run
+DEBUG - 2010-11-11 18:25:39 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:25:39 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:25:39 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:25:39 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:25:39 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:25:39 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:25:39 --> Final output sent to browser
+DEBUG - 2010-11-11 18:25:39 --> Total execution time: 0.2310
+DEBUG - 2010-11-11 18:27:31 --> Config Class Initialized
+DEBUG - 2010-11-11 18:27:31 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:27:31 --> URI Class Initialized
+DEBUG - 2010-11-11 18:27:31 --> Router Class Initialized
+DEBUG - 2010-11-11 18:27:31 --> Output Class Initialized
+DEBUG - 2010-11-11 18:27:31 --> Input Class Initialized
+DEBUG - 2010-11-11 18:27:31 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:27:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:27:31 --> Language Class Initialized
+DEBUG - 2010-11-11 18:27:31 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:27:31 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:27:31 --> Session Class Initialized
+DEBUG - 2010-11-11 18:27:31 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:27:31 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:27:31 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:27:31 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:27:31 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:27:31 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:27:31 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '24bd2f0c8f623de2cdfb75c8a5816e8e'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:27:31 --> Session routines successfully run
+DEBUG - 2010-11-11 18:27:31 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:27:31 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:27:31 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 18:27:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 18:27:31 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 18:27:31 --> Final output sent to browser
+DEBUG - 2010-11-11 18:27:31 --> Total execution time: 0.0751
+DEBUG - 2010-11-11 18:27:34 --> Config Class Initialized
+DEBUG - 2010-11-11 18:27:34 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:27:34 --> URI Class Initialized
+DEBUG - 2010-11-11 18:27:34 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:27:34 --> Router Class Initialized
+DEBUG - 2010-11-11 18:27:34 --> Output Class Initialized
+DEBUG - 2010-11-11 18:27:34 --> Input Class Initialized
+DEBUG - 2010-11-11 18:27:34 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:27:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:27:34 --> Language Class Initialized
+DEBUG - 2010-11-11 18:27:34 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:27:34 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:27:34 --> Session Class Initialized
+DEBUG - 2010-11-11 18:27:34 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:27:34 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:27:34 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:27:34 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:27:34 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:27:34 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:27:34 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '24bd2f0c8f623de2cdfb75c8a5816e8e'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:27:34 --> Session routines successfully run
+DEBUG - 2010-11-11 18:27:34 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:27:34 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:27:34 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:27:34 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:27:34 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:27:34 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:27:34 --> Final output sent to browser
+DEBUG - 2010-11-11 18:27:34 --> Total execution time: 0.0774
+DEBUG - 2010-11-11 18:27:47 --> Config Class Initialized
+DEBUG - 2010-11-11 18:27:47 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:27:47 --> URI Class Initialized
+DEBUG - 2010-11-11 18:27:47 --> Router Class Initialized
+DEBUG - 2010-11-11 18:27:47 --> Output Class Initialized
+DEBUG - 2010-11-11 18:27:47 --> Input Class Initialized
+DEBUG - 2010-11-11 18:27:47 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:27:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:27:47 --> Language Class Initialized
+DEBUG - 2010-11-11 18:27:47 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:27:47 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:27:47 --> Session Class Initialized
+DEBUG - 2010-11-11 18:27:47 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:27:47 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:27:47 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:27:47 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:27:47 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:27:47 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:27:47 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '24bd2f0c8f623de2cdfb75c8a5816e8e'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:27:47 --> Session routines successfully run
+DEBUG - 2010-11-11 18:27:47 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:27:47 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:27:47 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 18:27:47 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 18:27:47 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 18:27:47 --> Final output sent to browser
+DEBUG - 2010-11-11 18:27:47 --> Total execution time: 0.0688
+DEBUG - 2010-11-11 18:27:59 --> Config Class Initialized
+DEBUG - 2010-11-11 18:27:59 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:27:59 --> URI Class Initialized
+DEBUG - 2010-11-11 18:27:59 --> Router Class Initialized
+DEBUG - 2010-11-11 18:27:59 --> Output Class Initialized
+DEBUG - 2010-11-11 18:27:59 --> Input Class Initialized
+DEBUG - 2010-11-11 18:27:59 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:27:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:27:59 --> Language Class Initialized
+DEBUG - 2010-11-11 18:27:59 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:27:59 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:27:59 --> Session Class Initialized
+DEBUG - 2010-11-11 18:27:59 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:27:59 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:27:59 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:27:59 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:27:59 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:27:59 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:27:59 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '24bd2f0c8f623de2cdfb75c8a5816e8e'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:27:59 --> Session routines successfully run
+DEBUG - 2010-11-11 18:27:59 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:27:59 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:27:59 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 18:27:59 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 18:27:59 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 18:27:59 --> Final output sent to browser
+DEBUG - 2010-11-11 18:27:59 --> Total execution time: 0.0430
+DEBUG - 2010-11-11 18:28:19 --> Config Class Initialized
+DEBUG - 2010-11-11 18:28:19 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:28:19 --> URI Class Initialized
+DEBUG - 2010-11-11 18:28:19 --> Router Class Initialized
+DEBUG - 2010-11-11 18:28:19 --> Output Class Initialized
+DEBUG - 2010-11-11 18:28:19 --> Input Class Initialized
+DEBUG - 2010-11-11 18:28:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:28:19 --> Language Class Initialized
+DEBUG - 2010-11-11 18:28:19 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:28:19 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:28:19 --> Session Class Initialized
+DEBUG - 2010-11-11 18:28:19 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:28:19 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:28:19 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:28:19 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:28:19 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:28:19 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:28:19 --> A session cookie was not found.
+DEBUG - 2010-11-11 18:28:19 --> SQL : INSERT INTO ci_sessions (session_id, ip_address, user_agent, last_activity) VALUES ('6f0719c6459703926e9ef34152c62a3d', '0.0.0.0', 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; ', 1289518099)
+DEBUG - 2010-11-11 18:28:19 --> Session routines successfully run
+DEBUG - 2010-11-11 18:28:19 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:28:19 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:28:19 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 18:28:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 18:28:19 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 18:28:19 --> Final output sent to browser
+DEBUG - 2010-11-11 18:28:19 --> Total execution time: 0.0427
+DEBUG - 2010-11-11 18:28:31 --> Config Class Initialized
+DEBUG - 2010-11-11 18:28:31 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:28:31 --> URI Class Initialized
+DEBUG - 2010-11-11 18:28:32 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:28:32 --> Router Class Initialized
+DEBUG - 2010-11-11 18:28:32 --> Output Class Initialized
+DEBUG - 2010-11-11 18:28:32 --> Input Class Initialized
+DEBUG - 2010-11-11 18:28:32 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:28:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:28:32 --> Language Class Initialized
+DEBUG - 2010-11-11 18:28:32 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:28:32 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:28:32 --> Session Class Initialized
+DEBUG - 2010-11-11 18:28:32 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:28:32 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:28:32 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:28:32 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:28:32 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:28:32 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:28:32 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '6f0719c6459703926e9ef34152c62a3d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:28:32 --> Session routines successfully run
+DEBUG - 2010-11-11 18:28:32 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:28:32 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:28:32 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:28:32 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:28:32 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:28:32 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:28:32 --> Final output sent to browser
+DEBUG - 2010-11-11 18:28:32 --> Total execution time: 0.0956
+DEBUG - 2010-11-11 18:28:33 --> Config Class Initialized
+DEBUG - 2010-11-11 18:28:33 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:28:33 --> URI Class Initialized
+DEBUG - 2010-11-11 18:28:33 --> Router Class Initialized
+DEBUG - 2010-11-11 18:28:33 --> Output Class Initialized
+DEBUG - 2010-11-11 18:28:33 --> Input Class Initialized
+DEBUG - 2010-11-11 18:28:33 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:28:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:28:33 --> Language Class Initialized
+DEBUG - 2010-11-11 18:28:33 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:28:33 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:28:33 --> Session Class Initialized
+DEBUG - 2010-11-11 18:28:33 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:28:33 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:28:33 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:28:33 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:28:33 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:28:33 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:28:33 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '6f0719c6459703926e9ef34152c62a3d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:28:33 --> Session routines successfully run
+DEBUG - 2010-11-11 18:28:33 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:28:33 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:28:33 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:28:33 --> 404 Page Not Found --> home/advsearch
+DEBUG - 2010-11-11 18:28:35 --> Config Class Initialized
+DEBUG - 2010-11-11 18:28:35 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:28:35 --> URI Class Initialized
+DEBUG - 2010-11-11 18:28:35 --> Router Class Initialized
+DEBUG - 2010-11-11 18:28:35 --> Output Class Initialized
+DEBUG - 2010-11-11 18:28:35 --> Input Class Initialized
+DEBUG - 2010-11-11 18:28:35 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:28:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:28:35 --> Language Class Initialized
+DEBUG - 2010-11-11 18:28:35 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:28:35 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:28:35 --> Session Class Initialized
+DEBUG - 2010-11-11 18:28:35 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:28:35 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:28:35 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:28:35 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:28:35 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:28:35 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:28:35 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '6f0719c6459703926e9ef34152c62a3d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:28:35 --> Session routines successfully run
+DEBUG - 2010-11-11 18:28:35 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:28:35 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:28:35 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:28:35 --> 404 Page Not Found --> home/submit
+DEBUG - 2010-11-11 18:30:04 --> Config Class Initialized
+DEBUG - 2010-11-11 18:30:04 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:30:04 --> URI Class Initialized
+DEBUG - 2010-11-11 18:30:04 --> Router Class Initialized
+DEBUG - 2010-11-11 18:30:04 --> Output Class Initialized
+DEBUG - 2010-11-11 18:30:04 --> Input Class Initialized
+DEBUG - 2010-11-11 18:30:04 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:30:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:30:04 --> Language Class Initialized
+DEBUG - 2010-11-11 18:30:04 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:30:04 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:30:04 --> Session Class Initialized
+DEBUG - 2010-11-11 18:30:04 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:30:04 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:30:04 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:30:04 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:30:04 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:30:04 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:30:04 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '24bd2f0c8f623de2cdfb75c8a5816e8e'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:30:04 --> SQL : UPDATE ci_sessions SET last_activity = 1289518204, session_id = '128d4b4f0154fd1ff915ff28a5642d7a' WHERE session_id = '24bd2f0c8f623de2cdfb75c8a5816e8e'
+DEBUG - 2010-11-11 18:30:04 --> Session routines successfully run
+DEBUG - 2010-11-11 18:30:04 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:30:04 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:30:04 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 18:30:04 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 18:30:04 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 18:30:04 --> Final output sent to browser
+DEBUG - 2010-11-11 18:30:04 --> Total execution time: 0.0797
+DEBUG - 2010-11-11 18:30:05 --> Config Class Initialized
+DEBUG - 2010-11-11 18:30:05 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:30:05 --> URI Class Initialized
+DEBUG - 2010-11-11 18:30:05 --> Router Class Initialized
+DEBUG - 2010-11-11 18:30:05 --> Output Class Initialized
+DEBUG - 2010-11-11 18:30:05 --> Input Class Initialized
+DEBUG - 2010-11-11 18:30:05 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:30:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:30:05 --> Language Class Initialized
+DEBUG - 2010-11-11 18:30:05 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:30:05 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:30:05 --> Session Class Initialized
+DEBUG - 2010-11-11 18:30:05 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:30:05 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:30:05 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:30:05 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:30:05 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:30:05 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:30:05 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '128d4b4f0154fd1ff915ff28a5642d7a'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:30:05 --> Session routines successfully run
+DEBUG - 2010-11-11 18:30:05 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:30:05 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:30:05 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 18:30:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 18:30:05 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 18:30:05 --> Final output sent to browser
+DEBUG - 2010-11-11 18:30:05 --> Total execution time: 0.1881
+DEBUG - 2010-11-11 18:30:22 --> Config Class Initialized
+DEBUG - 2010-11-11 18:30:22 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:30:22 --> URI Class Initialized
+DEBUG - 2010-11-11 18:30:22 --> Router Class Initialized
+DEBUG - 2010-11-11 18:30:22 --> Output Class Initialized
+DEBUG - 2010-11-11 18:30:22 --> Input Class Initialized
+DEBUG - 2010-11-11 18:30:22 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:30:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:30:22 --> Language Class Initialized
+DEBUG - 2010-11-11 18:30:22 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:30:22 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:30:22 --> Session Class Initialized
+DEBUG - 2010-11-11 18:30:22 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:30:22 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:30:22 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:30:22 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:30:22 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:30:22 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:30:22 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '128d4b4f0154fd1ff915ff28a5642d7a'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:30:22 --> Session routines successfully run
+DEBUG - 2010-11-11 18:30:22 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:30:22 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:30:22 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 18:30:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 18:30:22 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 18:30:22 --> Final output sent to browser
+DEBUG - 2010-11-11 18:30:22 --> Total execution time: 0.0769
+DEBUG - 2010-11-11 18:30:23 --> Config Class Initialized
+DEBUG - 2010-11-11 18:30:23 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:30:23 --> URI Class Initialized
+DEBUG - 2010-11-11 18:30:23 --> Router Class Initialized
+DEBUG - 2010-11-11 18:30:23 --> Output Class Initialized
+DEBUG - 2010-11-11 18:30:23 --> Input Class Initialized
+DEBUG - 2010-11-11 18:30:23 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:30:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:30:23 --> Language Class Initialized
+DEBUG - 2010-11-11 18:30:23 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:30:23 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:30:23 --> Session Class Initialized
+DEBUG - 2010-11-11 18:30:23 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:30:23 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:30:23 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:30:23 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:30:23 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:30:23 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:30:23 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '128d4b4f0154fd1ff915ff28a5642d7a'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:30:23 --> Session routines successfully run
+DEBUG - 2010-11-11 18:30:23 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:30:23 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:30:23 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 18:30:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 18:30:23 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 18:30:23 --> Final output sent to browser
+DEBUG - 2010-11-11 18:30:23 --> Total execution time: 0.5747
+DEBUG - 2010-11-11 18:30:53 --> Config Class Initialized
+DEBUG - 2010-11-11 18:30:53 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:30:53 --> URI Class Initialized
+DEBUG - 2010-11-11 18:30:53 --> Router Class Initialized
+DEBUG - 2010-11-11 18:30:53 --> Output Class Initialized
+DEBUG - 2010-11-11 18:30:53 --> Input Class Initialized
+DEBUG - 2010-11-11 18:30:53 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:30:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:30:53 --> Language Class Initialized
+DEBUG - 2010-11-11 18:30:53 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:30:53 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:30:53 --> Session Class Initialized
+DEBUG - 2010-11-11 18:30:53 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:30:53 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:30:53 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:30:53 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:30:53 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:30:53 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:30:53 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '128d4b4f0154fd1ff915ff28a5642d7a'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:30:53 --> Session routines successfully run
+DEBUG - 2010-11-11 18:30:53 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:30:53 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:30:53 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 18:30:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 18:30:53 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 18:30:53 --> Final output sent to browser
+DEBUG - 2010-11-11 18:30:53 --> Total execution time: 0.1271
+DEBUG - 2010-11-11 18:30:54 --> Config Class Initialized
+DEBUG - 2010-11-11 18:30:54 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:30:54 --> URI Class Initialized
+DEBUG - 2010-11-11 18:30:54 --> Router Class Initialized
+DEBUG - 2010-11-11 18:30:54 --> Output Class Initialized
+DEBUG - 2010-11-11 18:30:54 --> Input Class Initialized
+DEBUG - 2010-11-11 18:30:54 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:30:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:30:54 --> Language Class Initialized
+DEBUG - 2010-11-11 18:30:54 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:30:54 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:30:54 --> Session Class Initialized
+DEBUG - 2010-11-11 18:30:54 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:30:54 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:30:54 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:30:54 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:30:54 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:30:54 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:30:54 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '128d4b4f0154fd1ff915ff28a5642d7a'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:30:54 --> Session routines successfully run
+DEBUG - 2010-11-11 18:30:54 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:30:54 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:30:54 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 18:30:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 18:30:54 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 18:30:54 --> Final output sent to browser
+DEBUG - 2010-11-11 18:30:54 --> Total execution time: 0.0328
+DEBUG - 2010-11-11 18:31:58 --> Config Class Initialized
+DEBUG - 2010-11-11 18:31:58 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:31:58 --> URI Class Initialized
+DEBUG - 2010-11-11 18:31:58 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:31:58 --> Router Class Initialized
+DEBUG - 2010-11-11 18:31:58 --> Output Class Initialized
+DEBUG - 2010-11-11 18:31:58 --> Input Class Initialized
+DEBUG - 2010-11-11 18:31:58 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:31:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:31:58 --> Language Class Initialized
+DEBUG - 2010-11-11 18:31:58 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:31:58 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:31:58 --> Session Class Initialized
+DEBUG - 2010-11-11 18:31:58 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:31:58 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:31:58 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:31:58 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:31:58 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:31:58 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:31:58 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '90d16b7f49fa97baed18504864a43af5'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 18:31:58 --> SQL : UPDATE ci_sessions SET last_activity = 1289518318, session_id = 'c386b73c166ac7281db8f4578a59e9a8' WHERE session_id = '90d16b7f49fa97baed18504864a43af5'
+DEBUG - 2010-11-11 18:31:58 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289511118
+DEBUG - 2010-11-11 18:31:58 --> Session garbage collection performed.
+DEBUG - 2010-11-11 18:31:58 --> Session routines successfully run
+DEBUG - 2010-11-11 18:31:58 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:31:58 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:31:58 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:31:59 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:31:59 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:31:59 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:31:59 --> Final output sent to browser
+DEBUG - 2010-11-11 18:31:59 --> Total execution time: 0.2077
+DEBUG - 2010-11-11 18:37:24 --> Config Class Initialized
+DEBUG - 2010-11-11 18:37:24 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:37:24 --> URI Class Initialized
+DEBUG - 2010-11-11 18:37:24 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:37:24 --> Router Class Initialized
+DEBUG - 2010-11-11 18:37:24 --> Output Class Initialized
+DEBUG - 2010-11-11 18:37:24 --> Input Class Initialized
+DEBUG - 2010-11-11 18:37:24 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:37:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:37:24 --> Language Class Initialized
+DEBUG - 2010-11-11 18:37:24 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:37:24 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:37:24 --> Session Class Initialized
+DEBUG - 2010-11-11 18:37:24 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:37:24 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:37:24 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:37:24 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:37:24 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:37:24 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:37:24 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c386b73c166ac7281db8f4578a59e9a8'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 18:37:24 --> SQL : UPDATE ci_sessions SET last_activity = 1289518644, session_id = 'a4451529cd7695d32cddcd7a2f4b9e49' WHERE session_id = 'c386b73c166ac7281db8f4578a59e9a8'
+DEBUG - 2010-11-11 18:37:24 --> Session routines successfully run
+DEBUG - 2010-11-11 18:37:24 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:37:24 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:37:24 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:37:24 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:37:24 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:37:24 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:37:24 --> Final output sent to browser
+DEBUG - 2010-11-11 18:37:24 --> Total execution time: 0.0775
+DEBUG - 2010-11-11 18:46:40 --> Config Class Initialized
+DEBUG - 2010-11-11 18:46:40 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:46:40 --> URI Class Initialized
+DEBUG - 2010-11-11 18:46:40 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:46:40 --> Router Class Initialized
+DEBUG - 2010-11-11 18:46:40 --> Output Class Initialized
+DEBUG - 2010-11-11 18:46:40 --> Input Class Initialized
+DEBUG - 2010-11-11 18:46:40 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:46:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:46:40 --> Language Class Initialized
+DEBUG - 2010-11-11 18:46:40 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:46:40 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:46:40 --> Session Class Initialized
+DEBUG - 2010-11-11 18:46:40 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:46:40 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:46:40 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:46:40 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:46:40 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:46:40 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:46:40 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '42a42459e9b8cf936e79dd76bc8eff6a'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 18:46:40 --> SQL : UPDATE ci_sessions SET last_activity = 1289519200, session_id = '7fbb211ed1e4753c728d6926ba2b55b3' WHERE session_id = '42a42459e9b8cf936e79dd76bc8eff6a'
+DEBUG - 2010-11-11 18:46:40 --> Session routines successfully run
+DEBUG - 2010-11-11 18:46:40 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:46:40 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:46:40 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:46:40 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:46:40 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:46:40 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:46:40 --> Final output sent to browser
+DEBUG - 2010-11-11 18:46:40 --> Total execution time: 0.1084
+DEBUG - 2010-11-11 18:46:44 --> Config Class Initialized
+DEBUG - 2010-11-11 18:46:44 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:46:44 --> URI Class Initialized
+DEBUG - 2010-11-11 18:46:44 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:46:44 --> Router Class Initialized
+DEBUG - 2010-11-11 18:46:44 --> Output Class Initialized
+DEBUG - 2010-11-11 18:46:44 --> Input Class Initialized
+DEBUG - 2010-11-11 18:46:44 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:46:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:46:44 --> Language Class Initialized
+DEBUG - 2010-11-11 18:46:44 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:46:44 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:46:44 --> Session Class Initialized
+DEBUG - 2010-11-11 18:46:44 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:46:44 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:46:44 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:46:44 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:46:44 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:46:44 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:46:44 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '6f0719c6459703926e9ef34152c62a3d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:46:44 --> SQL : UPDATE ci_sessions SET last_activity = 1289519204, session_id = 'cc85cac498c63cf65f8844f62aabd42f' WHERE session_id = '6f0719c6459703926e9ef34152c62a3d'
+DEBUG - 2010-11-11 18:46:44 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289512004
+DEBUG - 2010-11-11 18:46:44 --> Session garbage collection performed.
+DEBUG - 2010-11-11 18:46:44 --> Session routines successfully run
+DEBUG - 2010-11-11 18:46:44 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:46:44 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:46:44 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:46:44 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:46:44 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:46:44 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:46:44 --> Final output sent to browser
+DEBUG - 2010-11-11 18:46:44 --> Total execution time: 0.0960
+DEBUG - 2010-11-11 18:47:41 --> Config Class Initialized
+DEBUG - 2010-11-11 18:47:41 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:47:41 --> URI Class Initialized
+DEBUG - 2010-11-11 18:47:41 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:47:41 --> Router Class Initialized
+DEBUG - 2010-11-11 18:47:41 --> Output Class Initialized
+DEBUG - 2010-11-11 18:47:41 --> Input Class Initialized
+DEBUG - 2010-11-11 18:47:41 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:47:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:47:41 --> Language Class Initialized
+DEBUG - 2010-11-11 18:47:41 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:47:41 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:47:41 --> Session Class Initialized
+DEBUG - 2010-11-11 18:47:41 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:47:41 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:47:41 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:47:41 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:47:41 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:47:41 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:47:41 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'cc85cac498c63cf65f8844f62aabd42f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:47:41 --> Session routines successfully run
+DEBUG - 2010-11-11 18:47:41 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:47:41 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:47:41 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:47:41 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:47:41 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:47:41 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:47:41 --> Final output sent to browser
+DEBUG - 2010-11-11 18:47:41 --> Total execution time: 0.0732
+DEBUG - 2010-11-11 18:48:04 --> Config Class Initialized
+DEBUG - 2010-11-11 18:48:04 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:48:04 --> URI Class Initialized
+DEBUG - 2010-11-11 18:48:04 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:48:04 --> Router Class Initialized
+DEBUG - 2010-11-11 18:48:04 --> Output Class Initialized
+DEBUG - 2010-11-11 18:48:04 --> Input Class Initialized
+DEBUG - 2010-11-11 18:48:04 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:48:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:48:04 --> Language Class Initialized
+DEBUG - 2010-11-11 18:48:04 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:48:04 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:48:04 --> Session Class Initialized
+DEBUG - 2010-11-11 18:48:04 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:48:04 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:48:04 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:48:04 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:48:04 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:48:04 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:48:04 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'cc85cac498c63cf65f8844f62aabd42f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:48:04 --> Session routines successfully run
+DEBUG - 2010-11-11 18:48:04 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:48:04 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:48:04 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:48:04 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:48:04 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:48:04 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:48:04 --> Final output sent to browser
+DEBUG - 2010-11-11 18:48:04 --> Total execution time: 0.0765
+DEBUG - 2010-11-11 18:48:46 --> Config Class Initialized
+DEBUG - 2010-11-11 18:48:46 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:48:46 --> URI Class Initialized
+DEBUG - 2010-11-11 18:48:46 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:48:46 --> Router Class Initialized
+DEBUG - 2010-11-11 18:48:46 --> Output Class Initialized
+DEBUG - 2010-11-11 18:48:46 --> Input Class Initialized
+DEBUG - 2010-11-11 18:48:46 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:48:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:48:46 --> Language Class Initialized
+DEBUG - 2010-11-11 18:48:46 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:48:46 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:48:46 --> Session Class Initialized
+DEBUG - 2010-11-11 18:48:46 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:48:46 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:48:46 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:48:46 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:48:46 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:48:46 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:48:46 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'cc85cac498c63cf65f8844f62aabd42f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:48:46 --> Session routines successfully run
+DEBUG - 2010-11-11 18:48:46 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:48:46 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:48:46 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:48:46 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:48:46 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:48:46 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:48:46 --> Final output sent to browser
+DEBUG - 2010-11-11 18:48:46 --> Total execution time: 0.0725
+DEBUG - 2010-11-11 18:49:09 --> Config Class Initialized
+DEBUG - 2010-11-11 18:49:09 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:49:09 --> URI Class Initialized
+DEBUG - 2010-11-11 18:49:09 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:49:09 --> Router Class Initialized
+DEBUG - 2010-11-11 18:49:09 --> Output Class Initialized
+DEBUG - 2010-11-11 18:49:09 --> Input Class Initialized
+DEBUG - 2010-11-11 18:49:09 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:49:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:49:09 --> Language Class Initialized
+DEBUG - 2010-11-11 18:49:09 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:49:09 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:49:09 --> Session Class Initialized
+DEBUG - 2010-11-11 18:49:09 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:49:09 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:49:09 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:49:09 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:49:09 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:49:09 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:49:09 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'cc85cac498c63cf65f8844f62aabd42f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:49:09 --> Session routines successfully run
+DEBUG - 2010-11-11 18:49:09 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:49:09 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:49:09 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:49:09 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:49:09 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:49:09 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:49:09 --> Final output sent to browser
+DEBUG - 2010-11-11 18:49:09 --> Total execution time: 0.0754
+DEBUG - 2010-11-11 18:49:34 --> Config Class Initialized
+DEBUG - 2010-11-11 18:49:34 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:49:34 --> URI Class Initialized
+DEBUG - 2010-11-11 18:49:34 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:49:34 --> Router Class Initialized
+DEBUG - 2010-11-11 18:49:34 --> Output Class Initialized
+DEBUG - 2010-11-11 18:49:34 --> Input Class Initialized
+DEBUG - 2010-11-11 18:49:34 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:49:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:49:34 --> Language Class Initialized
+DEBUG - 2010-11-11 18:49:34 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:49:34 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:49:34 --> Session Class Initialized
+DEBUG - 2010-11-11 18:49:34 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:49:34 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:49:34 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:49:34 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:49:34 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:49:34 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:49:34 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'cc85cac498c63cf65f8844f62aabd42f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:49:34 --> Session routines successfully run
+DEBUG - 2010-11-11 18:49:34 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:49:34 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:49:34 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:49:34 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:49:34 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:49:34 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:49:34 --> Final output sent to browser
+DEBUG - 2010-11-11 18:49:34 --> Total execution time: 0.0740
+DEBUG - 2010-11-11 18:49:42 --> Config Class Initialized
+DEBUG - 2010-11-11 18:49:42 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:49:42 --> URI Class Initialized
+DEBUG - 2010-11-11 18:49:42 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:49:42 --> Router Class Initialized
+DEBUG - 2010-11-11 18:49:42 --> Output Class Initialized
+DEBUG - 2010-11-11 18:49:42 --> Input Class Initialized
+DEBUG - 2010-11-11 18:49:42 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:49:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:49:42 --> Language Class Initialized
+DEBUG - 2010-11-11 18:49:42 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:49:42 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:49:43 --> Session Class Initialized
+DEBUG - 2010-11-11 18:49:43 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:49:43 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:49:43 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:49:43 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:49:43 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:49:43 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:49:43 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'cc85cac498c63cf65f8844f62aabd42f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 18:49:43 --> Session routines successfully run
+DEBUG - 2010-11-11 18:49:43 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:49:43 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:49:43 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:49:43 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:49:43 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:49:43 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:49:43 --> Final output sent to browser
+DEBUG - 2010-11-11 18:49:43 --> Total execution time: 0.2244
+DEBUG - 2010-11-11 18:57:20 --> Config Class Initialized
+DEBUG - 2010-11-11 18:57:20 --> Hooks Class Initialized
+DEBUG - 2010-11-11 18:57:20 --> URI Class Initialized
+DEBUG - 2010-11-11 18:57:20 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 18:57:20 --> Router Class Initialized
+DEBUG - 2010-11-11 18:57:20 --> Output Class Initialized
+DEBUG - 2010-11-11 18:57:20 --> Input Class Initialized
+DEBUG - 2010-11-11 18:57:20 --> XSS Filtering completed
+DEBUG - 2010-11-11 18:57:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 18:57:20 --> Language Class Initialized
+DEBUG - 2010-11-11 18:57:20 --> Loader Class Initialized
+DEBUG - 2010-11-11 18:57:20 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 18:57:20 --> Session Class Initialized
+DEBUG - 2010-11-11 18:57:20 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 18:57:20 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 18:57:20 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 18:57:20 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 18:57:20 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 18:57:20 --> PDO driver connection ok
+DEBUG - 2010-11-11 18:57:20 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7fbb211ed1e4753c728d6926ba2b55b3'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 18:57:20 --> SQL : UPDATE ci_sessions SET last_activity = 1289519840, session_id = 'd718f59adc07fcdbf1a1e51ba728f60d' WHERE session_id = '7fbb211ed1e4753c728d6926ba2b55b3'
+DEBUG - 2010-11-11 18:57:20 --> Session routines successfully run
+DEBUG - 2010-11-11 18:57:20 --> Controller Class Initialized
+DEBUG - 2010-11-11 18:57:20 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 18:57:20 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 18:57:20 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 18:57:20 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 18:57:20 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 18:57:20 --> Final output sent to browser
+DEBUG - 2010-11-11 18:57:20 --> Total execution time: 0.0872
+DEBUG - 2010-11-11 19:00:42 --> Config Class Initialized
+DEBUG - 2010-11-11 19:00:42 --> Hooks Class Initialized
+DEBUG - 2010-11-11 19:00:42 --> URI Class Initialized
+DEBUG - 2010-11-11 19:00:42 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 19:00:42 --> Router Class Initialized
+DEBUG - 2010-11-11 19:00:42 --> Output Class Initialized
+DEBUG - 2010-11-11 19:00:42 --> Input Class Initialized
+DEBUG - 2010-11-11 19:00:42 --> XSS Filtering completed
+DEBUG - 2010-11-11 19:00:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 19:00:42 --> Language Class Initialized
+DEBUG - 2010-11-11 19:00:42 --> Loader Class Initialized
+DEBUG - 2010-11-11 19:00:42 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 19:00:42 --> Session Class Initialized
+DEBUG - 2010-11-11 19:00:42 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 19:00:42 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 19:00:42 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 19:00:42 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 19:00:42 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 19:00:42 --> PDO driver connection ok
+DEBUG - 2010-11-11 19:00:42 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd718f59adc07fcdbf1a1e51ba728f60d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 19:00:42 --> Session routines successfully run
+DEBUG - 2010-11-11 19:00:42 --> Controller Class Initialized
+DEBUG - 2010-11-11 19:00:42 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 19:00:42 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 19:00:42 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 19:00:42 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 19:00:42 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 19:00:42 --> Final output sent to browser
+DEBUG - 2010-11-11 19:00:42 --> Total execution time: 0.1785
+DEBUG - 2010-11-11 19:00:44 --> Config Class Initialized
+DEBUG - 2010-11-11 19:00:44 --> Hooks Class Initialized
+DEBUG - 2010-11-11 19:00:44 --> URI Class Initialized
+DEBUG - 2010-11-11 19:00:44 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 19:00:44 --> Router Class Initialized
+DEBUG - 2010-11-11 19:00:44 --> Output Class Initialized
+DEBUG - 2010-11-11 19:00:44 --> Input Class Initialized
+DEBUG - 2010-11-11 19:00:44 --> XSS Filtering completed
+DEBUG - 2010-11-11 19:00:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 19:00:44 --> Language Class Initialized
+DEBUG - 2010-11-11 19:00:44 --> Loader Class Initialized
+DEBUG - 2010-11-11 19:00:44 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 19:00:44 --> Session Class Initialized
+DEBUG - 2010-11-11 19:00:44 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 19:00:44 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 19:00:44 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 19:00:44 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 19:00:44 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 19:00:44 --> PDO driver connection ok
+DEBUG - 2010-11-11 19:00:44 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd718f59adc07fcdbf1a1e51ba728f60d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 19:00:44 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289512844
+DEBUG - 2010-11-11 19:00:44 --> Session garbage collection performed.
+DEBUG - 2010-11-11 19:00:44 --> Session routines successfully run
+DEBUG - 2010-11-11 19:00:44 --> Controller Class Initialized
+DEBUG - 2010-11-11 19:00:44 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 19:00:44 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 19:00:44 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 19:00:44 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 19:00:44 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 19:00:44 --> Final output sent to browser
+DEBUG - 2010-11-11 19:00:44 --> Total execution time: 0.0944
+DEBUG - 2010-11-11 19:00:51 --> Config Class Initialized
+DEBUG - 2010-11-11 19:00:51 --> Hooks Class Initialized
+DEBUG - 2010-11-11 19:00:51 --> URI Class Initialized
+DEBUG - 2010-11-11 19:00:51 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 19:00:51 --> Router Class Initialized
+DEBUG - 2010-11-11 19:00:51 --> Output Class Initialized
+DEBUG - 2010-11-11 19:00:51 --> Input Class Initialized
+DEBUG - 2010-11-11 19:00:51 --> XSS Filtering completed
+DEBUG - 2010-11-11 19:00:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 19:00:51 --> Language Class Initialized
+DEBUG - 2010-11-11 19:00:51 --> Loader Class Initialized
+DEBUG - 2010-11-11 19:00:51 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 19:00:51 --> Session Class Initialized
+DEBUG - 2010-11-11 19:00:51 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 19:00:51 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 19:00:51 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 19:00:51 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 19:00:51 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 19:00:51 --> PDO driver connection ok
+DEBUG - 2010-11-11 19:00:51 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd718f59adc07fcdbf1a1e51ba728f60d'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 19:00:51 --> Session routines successfully run
+DEBUG - 2010-11-11 19:00:51 --> Controller Class Initialized
+DEBUG - 2010-11-11 19:00:51 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 19:00:51 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 19:00:51 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 19:00:51 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 19:00:51 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 19:00:51 --> Final output sent to browser
+DEBUG - 2010-11-11 19:00:51 --> Total execution time: 0.0739
+DEBUG - 2010-11-11 19:06:30 --> Config Class Initialized
+DEBUG - 2010-11-11 19:06:30 --> Hooks Class Initialized
+DEBUG - 2010-11-11 19:06:30 --> URI Class Initialized
+DEBUG - 2010-11-11 19:06:30 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 19:06:30 --> Router Class Initialized
+DEBUG - 2010-11-11 19:06:30 --> Output Class Initialized
+DEBUG - 2010-11-11 19:06:30 --> Input Class Initialized
+DEBUG - 2010-11-11 19:06:30 --> XSS Filtering completed
+DEBUG - 2010-11-11 19:06:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 19:06:30 --> Language Class Initialized
+DEBUG - 2010-11-11 19:06:30 --> Loader Class Initialized
+DEBUG - 2010-11-11 19:06:30 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 19:06:30 --> Session Class Initialized
+DEBUG - 2010-11-11 19:06:30 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 19:06:30 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 19:06:30 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 19:06:30 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 19:06:30 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 19:06:30 --> PDO driver connection ok
+DEBUG - 2010-11-11 19:06:30 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'a4451529cd7695d32cddcd7a2f4b9e49'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 19:06:30 --> SQL : UPDATE ci_sessions SET last_activity = 1289520390, session_id = 'afee369391eb749fc5ba2a11d393734e' WHERE session_id = 'a4451529cd7695d32cddcd7a2f4b9e49'
+DEBUG - 2010-11-11 19:06:30 --> Session routines successfully run
+DEBUG - 2010-11-11 19:06:30 --> Controller Class Initialized
+DEBUG - 2010-11-11 19:06:30 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 19:06:30 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 19:06:30 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 19:06:30 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 19:06:30 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 19:06:30 --> Final output sent to browser
+DEBUG - 2010-11-11 19:06:30 --> Total execution time: 0.1120
+DEBUG - 2010-11-11 19:06:32 --> Config Class Initialized
+DEBUG - 2010-11-11 19:06:32 --> Hooks Class Initialized
+DEBUG - 2010-11-11 19:06:32 --> URI Class Initialized
+DEBUG - 2010-11-11 19:06:32 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 19:06:32 --> Router Class Initialized
+DEBUG - 2010-11-11 19:06:32 --> Output Class Initialized
+DEBUG - 2010-11-11 19:06:32 --> Input Class Initialized
+DEBUG - 2010-11-11 19:06:32 --> XSS Filtering completed
+DEBUG - 2010-11-11 19:06:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 19:06:32 --> Language Class Initialized
+DEBUG - 2010-11-11 19:06:32 --> Loader Class Initialized
+DEBUG - 2010-11-11 19:06:32 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 19:06:32 --> Session Class Initialized
+DEBUG - 2010-11-11 19:06:32 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 19:06:32 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 19:06:32 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 19:06:32 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 19:06:32 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 19:06:32 --> PDO driver connection ok
+DEBUG - 2010-11-11 19:06:32 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'afee369391eb749fc5ba2a11d393734e'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 19:06:32 --> Session routines successfully run
+DEBUG - 2010-11-11 19:06:32 --> Controller Class Initialized
+DEBUG - 2010-11-11 19:06:32 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 19:06:32 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 19:06:32 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 19:06:32 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 19:06:32 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 19:06:32 --> Final output sent to browser
+DEBUG - 2010-11-11 19:06:32 --> Total execution time: 0.0754
+DEBUG - 2010-11-11 19:07:12 --> Config Class Initialized
+DEBUG - 2010-11-11 19:07:12 --> Hooks Class Initialized
+DEBUG - 2010-11-11 19:07:12 --> URI Class Initialized
+DEBUG - 2010-11-11 19:07:12 --> Router Class Initialized
+DEBUG - 2010-11-11 19:07:12 --> Output Class Initialized
+DEBUG - 2010-11-11 19:07:12 --> Input Class Initialized
+DEBUG - 2010-11-11 19:07:12 --> XSS Filtering completed
+DEBUG - 2010-11-11 19:07:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 19:07:12 --> Language Class Initialized
+DEBUG - 2010-11-11 19:07:12 --> Loader Class Initialized
+DEBUG - 2010-11-11 19:07:12 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 19:07:12 --> Session Class Initialized
+DEBUG - 2010-11-11 19:07:12 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 19:07:12 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 19:07:12 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 19:07:12 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 19:07:12 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 19:07:12 --> PDO driver connection ok
+DEBUG - 2010-11-11 19:07:12 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'afee369391eb749fc5ba2a11d393734e'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 19:07:12 --> Session routines successfully run
+DEBUG - 2010-11-11 19:07:12 --> Controller Class Initialized
+DEBUG - 2010-11-11 19:07:12 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 19:07:12 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 19:07:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 19:07:12 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 19:07:12 --> Final output sent to browser
+DEBUG - 2010-11-11 19:07:12 --> Total execution time: 0.1858
+DEBUG - 2010-11-11 19:07:35 --> Config Class Initialized
+DEBUG - 2010-11-11 19:07:35 --> Hooks Class Initialized
+DEBUG - 2010-11-11 19:07:35 --> URI Class Initialized
+DEBUG - 2010-11-11 19:07:35 --> Router Class Initialized
+DEBUG - 2010-11-11 19:07:35 --> Output Class Initialized
+DEBUG - 2010-11-11 19:07:35 --> Input Class Initialized
+DEBUG - 2010-11-11 19:07:35 --> XSS Filtering completed
+DEBUG - 2010-11-11 19:07:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 19:07:35 --> Language Class Initialized
+DEBUG - 2010-11-11 19:07:35 --> Loader Class Initialized
+DEBUG - 2010-11-11 19:07:35 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 19:07:35 --> Session Class Initialized
+DEBUG - 2010-11-11 19:07:35 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 19:07:35 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 19:07:35 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 19:07:35 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 19:07:35 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 19:07:35 --> PDO driver connection ok
+DEBUG - 2010-11-11 19:07:35 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'afee369391eb749fc5ba2a11d393734e'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 19:07:35 --> Session routines successfully run
+DEBUG - 2010-11-11 19:07:35 --> Controller Class Initialized
+DEBUG - 2010-11-11 19:07:35 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 19:07:35 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 19:07:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 19:07:35 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 19:07:35 --> Final output sent to browser
+DEBUG - 2010-11-11 19:07:35 --> Total execution time: 0.0733
+DEBUG - 2010-11-11 19:08:41 --> Config Class Initialized
+DEBUG - 2010-11-11 19:08:41 --> Hooks Class Initialized
+DEBUG - 2010-11-11 19:08:41 --> URI Class Initialized
+DEBUG - 2010-11-11 19:08:41 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 19:08:41 --> Router Class Initialized
+DEBUG - 2010-11-11 19:08:41 --> Output Class Initialized
+DEBUG - 2010-11-11 19:08:41 --> Input Class Initialized
+DEBUG - 2010-11-11 19:08:41 --> XSS Filtering completed
+DEBUG - 2010-11-11 19:08:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 19:08:41 --> Language Class Initialized
+DEBUG - 2010-11-11 19:08:41 --> Loader Class Initialized
+DEBUG - 2010-11-11 19:08:41 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 19:08:41 --> Session Class Initialized
+DEBUG - 2010-11-11 19:08:41 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 19:08:41 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 19:08:41 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 19:08:41 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 19:08:41 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 19:08:41 --> PDO driver connection ok
+DEBUG - 2010-11-11 19:08:41 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '128d4b4f0154fd1ff915ff28a5642d7a'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 19:08:41 --> SQL : UPDATE ci_sessions SET last_activity = 1289520521, session_id = 'd48880470822dcb0bb01c094b03d6ca3' WHERE session_id = '128d4b4f0154fd1ff915ff28a5642d7a'
+DEBUG - 2010-11-11 19:08:41 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289513321
+DEBUG - 2010-11-11 19:08:41 --> Session garbage collection performed.
+DEBUG - 2010-11-11 19:08:41 --> Session routines successfully run
+DEBUG - 2010-11-11 19:08:41 --> Controller Class Initialized
+DEBUG - 2010-11-11 19:08:41 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 19:08:41 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 19:08:41 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 19:08:41 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 19:08:41 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 19:08:41 --> Final output sent to browser
+DEBUG - 2010-11-11 19:08:41 --> Total execution time: 0.0385
+DEBUG - 2010-11-11 19:10:38 --> Config Class Initialized
+DEBUG - 2010-11-11 19:10:38 --> Hooks Class Initialized
+DEBUG - 2010-11-11 19:10:38 --> URI Class Initialized
+DEBUG - 2010-11-11 19:10:38 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 19:10:38 --> Router Class Initialized
+DEBUG - 2010-11-11 19:10:38 --> Output Class Initialized
+DEBUG - 2010-11-11 19:10:38 --> Input Class Initialized
+DEBUG - 2010-11-11 19:10:38 --> XSS Filtering completed
+DEBUG - 2010-11-11 19:10:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 19:10:38 --> Language Class Initialized
+DEBUG - 2010-11-11 19:10:38 --> Loader Class Initialized
+DEBUG - 2010-11-11 19:10:38 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 19:10:38 --> Session Class Initialized
+DEBUG - 2010-11-11 19:10:38 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 19:10:38 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 19:10:38 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 19:10:38 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 19:10:38 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 19:10:38 --> PDO driver connection ok
+DEBUG - 2010-11-11 19:10:38 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd48880470822dcb0bb01c094b03d6ca3'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 19:10:38 --> Session routines successfully run
+DEBUG - 2010-11-11 19:10:38 --> Controller Class Initialized
+DEBUG - 2010-11-11 19:10:38 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 19:10:38 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 19:10:38 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 19:10:38 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 19:10:38 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 19:10:38 --> Final output sent to browser
+DEBUG - 2010-11-11 19:10:38 --> Total execution time: 0.1064
+DEBUG - 2010-11-11 19:11:18 --> Config Class Initialized
+DEBUG - 2010-11-11 19:11:18 --> Hooks Class Initialized
+DEBUG - 2010-11-11 19:11:18 --> URI Class Initialized
+DEBUG - 2010-11-11 19:11:18 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 19:11:18 --> Router Class Initialized
+DEBUG - 2010-11-11 19:11:18 --> Output Class Initialized
+DEBUG - 2010-11-11 19:11:18 --> Input Class Initialized
+DEBUG - 2010-11-11 19:11:18 --> XSS Filtering completed
+DEBUG - 2010-11-11 19:11:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 19:11:18 --> Language Class Initialized
+DEBUG - 2010-11-11 19:11:18 --> Loader Class Initialized
+DEBUG - 2010-11-11 19:11:18 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 19:11:18 --> Session Class Initialized
+DEBUG - 2010-11-11 19:11:18 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 19:11:18 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 19:11:18 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 19:11:18 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 19:11:18 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 19:11:18 --> PDO driver connection ok
+DEBUG - 2010-11-11 19:11:18 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd48880470822dcb0bb01c094b03d6ca3'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 19:11:18 --> Session routines successfully run
+DEBUG - 2010-11-11 19:11:18 --> Controller Class Initialized
+DEBUG - 2010-11-11 19:11:18 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 19:11:18 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 19:11:18 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 19:11:18 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 19:11:18 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 19:11:18 --> Final output sent to browser
+DEBUG - 2010-11-11 19:11:18 --> Total execution time: 0.0673
+DEBUG - 2010-11-11 19:33:53 --> Config Class Initialized
+DEBUG - 2010-11-11 19:33:53 --> Hooks Class Initialized
+DEBUG - 2010-11-11 19:33:53 --> URI Class Initialized
+DEBUG - 2010-11-11 19:33:53 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 19:33:53 --> Router Class Initialized
+DEBUG - 2010-11-11 19:33:53 --> Output Class Initialized
+DEBUG - 2010-11-11 19:33:53 --> Input Class Initialized
+DEBUG - 2010-11-11 19:33:53 --> XSS Filtering completed
+DEBUG - 2010-11-11 19:33:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 19:33:53 --> Language Class Initialized
+DEBUG - 2010-11-11 19:33:53 --> Loader Class Initialized
+DEBUG - 2010-11-11 19:33:53 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 19:33:53 --> Session Class Initialized
+DEBUG - 2010-11-11 19:33:53 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 19:33:53 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 19:33:53 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 19:33:53 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 19:33:53 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 19:33:53 --> PDO driver connection ok
+DEBUG - 2010-11-11 19:33:53 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'd48880470822dcb0bb01c094b03d6ca3'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 19:33:53 --> SQL : UPDATE ci_sessions SET last_activity = 1289522033, session_id = 'b0f0226c82ab1f9a47f2fb2a0ac2dabc' WHERE session_id = 'd48880470822dcb0bb01c094b03d6ca3'
+DEBUG - 2010-11-11 19:33:53 --> Session routines successfully run
+DEBUG - 2010-11-11 19:33:53 --> Controller Class Initialized
+DEBUG - 2010-11-11 19:33:53 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 19:33:53 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 19:33:53 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 19:33:53 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 19:33:53 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 19:33:53 --> Final output sent to browser
+DEBUG - 2010-11-11 19:33:53 --> Total execution time: 0.1106
+DEBUG - 2010-11-11 21:27:46 --> Config Class Initialized
+DEBUG - 2010-11-11 21:27:46 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:27:46 --> URI Class Initialized
+DEBUG - 2010-11-11 21:27:46 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:27:46 --> Router Class Initialized
+DEBUG - 2010-11-11 21:27:46 --> Output Class Initialized
+DEBUG - 2010-11-11 21:27:46 --> Input Class Initialized
+DEBUG - 2010-11-11 21:27:46 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:27:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:27:46 --> Language Class Initialized
+DEBUG - 2010-11-11 21:27:46 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:27:46 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:27:46 --> Session Class Initialized
+DEBUG - 2010-11-11 21:27:46 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:27:46 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:27:46 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:27:46 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:27:46 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:27:46 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:27:46 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'b0f0226c82ab1f9a47f2fb2a0ac2dabc'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:27:46 --> SQL : UPDATE ci_sessions SET last_activity = 1289528866, session_id = '3f9add446a48159ea8d9f236236987d1' WHERE session_id = 'b0f0226c82ab1f9a47f2fb2a0ac2dabc'
+DEBUG - 2010-11-11 21:27:46 --> Session routines successfully run
+DEBUG - 2010-11-11 21:27:46 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:27:46 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:27:46 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:27:46 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:27:46 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:27:46 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:27:46 --> Final output sent to browser
+DEBUG - 2010-11-11 21:27:46 --> Total execution time: 0.4169
+DEBUG - 2010-11-11 21:30:43 --> Config Class Initialized
+DEBUG - 2010-11-11 21:30:43 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:30:43 --> URI Class Initialized
+DEBUG - 2010-11-11 21:30:43 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:30:43 --> Router Class Initialized
+DEBUG - 2010-11-11 21:30:43 --> Output Class Initialized
+DEBUG - 2010-11-11 21:30:43 --> Input Class Initialized
+DEBUG - 2010-11-11 21:30:43 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:30:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:30:43 --> Language Class Initialized
+DEBUG - 2010-11-11 21:30:43 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:30:43 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:30:43 --> Session Class Initialized
+DEBUG - 2010-11-11 21:30:43 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:30:43 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:30:43 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:30:43 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:30:43 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:30:43 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:30:43 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '3f9add446a48159ea8d9f236236987d1'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:30:43 --> Session routines successfully run
+DEBUG - 2010-11-11 21:30:43 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:30:43 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:30:43 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:30:43 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:30:43 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:30:43 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:30:43 --> Final output sent to browser
+DEBUG - 2010-11-11 21:30:43 --> Total execution time: 0.0943
+DEBUG - 2010-11-11 21:31:11 --> Config Class Initialized
+DEBUG - 2010-11-11 21:31:11 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:31:11 --> URI Class Initialized
+DEBUG - 2010-11-11 21:31:11 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:31:11 --> Router Class Initialized
+DEBUG - 2010-11-11 21:31:11 --> Output Class Initialized
+DEBUG - 2010-11-11 21:31:11 --> Input Class Initialized
+DEBUG - 2010-11-11 21:31:11 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:31:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:31:11 --> Language Class Initialized
+DEBUG - 2010-11-11 21:31:11 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:31:11 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:31:11 --> Session Class Initialized
+DEBUG - 2010-11-11 21:31:11 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:31:11 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:31:11 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:31:11 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:31:11 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:31:11 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:31:11 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '3f9add446a48159ea8d9f236236987d1'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:31:11 --> Session routines successfully run
+DEBUG - 2010-11-11 21:31:11 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:31:11 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:31:11 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:31:11 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:31:11 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:31:11 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:31:11 --> Final output sent to browser
+DEBUG - 2010-11-11 21:31:11 --> Total execution time: 0.0670
+DEBUG - 2010-11-11 21:33:04 --> Config Class Initialized
+DEBUG - 2010-11-11 21:33:04 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:33:04 --> URI Class Initialized
+DEBUG - 2010-11-11 21:33:04 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:33:04 --> Router Class Initialized
+DEBUG - 2010-11-11 21:33:04 --> Output Class Initialized
+DEBUG - 2010-11-11 21:33:04 --> Input Class Initialized
+DEBUG - 2010-11-11 21:33:04 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:33:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:33:04 --> Language Class Initialized
+DEBUG - 2010-11-11 21:33:04 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:33:04 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:33:04 --> Session Class Initialized
+DEBUG - 2010-11-11 21:33:04 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:33:04 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:33:04 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:33:04 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:33:04 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:33:04 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:33:04 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '3f9add446a48159ea8d9f236236987d1'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:33:04 --> SQL : UPDATE ci_sessions SET last_activity = 1289529184, session_id = '9c74e26232fb5cdf223f990251eb9c6f' WHERE session_id = '3f9add446a48159ea8d9f236236987d1'
+DEBUG - 2010-11-11 21:33:04 --> Session routines successfully run
+DEBUG - 2010-11-11 21:33:04 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:33:04 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:33:04 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:33:04 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:33:04 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:33:04 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:33:04 --> Final output sent to browser
+DEBUG - 2010-11-11 21:33:04 --> Total execution time: 0.1032
+DEBUG - 2010-11-11 21:35:05 --> Config Class Initialized
+DEBUG - 2010-11-11 21:35:05 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:35:05 --> URI Class Initialized
+DEBUG - 2010-11-11 21:35:05 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:35:05 --> Router Class Initialized
+DEBUG - 2010-11-11 21:35:05 --> Output Class Initialized
+DEBUG - 2010-11-11 21:35:05 --> Input Class Initialized
+DEBUG - 2010-11-11 21:35:05 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:35:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:35:05 --> Language Class Initialized
+DEBUG - 2010-11-11 21:35:05 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:35:05 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:35:05 --> Session Class Initialized
+DEBUG - 2010-11-11 21:35:05 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:35:05 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:35:05 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:35:05 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:35:05 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:35:05 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:35:05 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9c74e26232fb5cdf223f990251eb9c6f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:35:05 --> Session routines successfully run
+DEBUG - 2010-11-11 21:35:05 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:35:05 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:35:05 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:35:05 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:35:05 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:35:05 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:35:05 --> Final output sent to browser
+DEBUG - 2010-11-11 21:35:05 --> Total execution time: 0.0690
+DEBUG - 2010-11-11 21:35:27 --> Config Class Initialized
+DEBUG - 2010-11-11 21:35:27 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:35:27 --> URI Class Initialized
+DEBUG - 2010-11-11 21:35:27 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:35:27 --> Router Class Initialized
+DEBUG - 2010-11-11 21:35:27 --> Output Class Initialized
+DEBUG - 2010-11-11 21:35:27 --> Input Class Initialized
+DEBUG - 2010-11-11 21:35:27 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:35:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:35:27 --> Language Class Initialized
+DEBUG - 2010-11-11 21:35:27 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:35:27 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:35:27 --> Session Class Initialized
+DEBUG - 2010-11-11 21:35:27 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:35:27 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:35:27 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:35:27 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:35:27 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:35:27 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:35:27 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9c74e26232fb5cdf223f990251eb9c6f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:35:27 --> Session routines successfully run
+DEBUG - 2010-11-11 21:35:27 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:35:27 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:35:27 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:35:27 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:35:27 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:35:27 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:35:27 --> Final output sent to browser
+DEBUG - 2010-11-11 21:35:27 --> Total execution time: 0.0934
+DEBUG - 2010-11-11 21:35:29 --> Config Class Initialized
+DEBUG - 2010-11-11 21:35:29 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:35:29 --> URI Class Initialized
+DEBUG - 2010-11-11 21:35:29 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:35:29 --> Router Class Initialized
+DEBUG - 2010-11-11 21:35:29 --> Output Class Initialized
+DEBUG - 2010-11-11 21:35:29 --> Input Class Initialized
+DEBUG - 2010-11-11 21:35:29 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:35:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:35:29 --> Language Class Initialized
+DEBUG - 2010-11-11 21:35:29 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:35:29 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:35:29 --> Session Class Initialized
+DEBUG - 2010-11-11 21:35:29 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:35:29 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:35:29 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:35:29 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:35:29 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:35:29 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:35:29 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9c74e26232fb5cdf223f990251eb9c6f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:35:29 --> Session routines successfully run
+DEBUG - 2010-11-11 21:35:29 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:35:29 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:35:29 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:35:29 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:35:29 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:35:29 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:35:29 --> Final output sent to browser
+DEBUG - 2010-11-11 21:35:29 --> Total execution time: 0.0754
+DEBUG - 2010-11-11 21:36:27 --> Config Class Initialized
+DEBUG - 2010-11-11 21:36:27 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:36:27 --> URI Class Initialized
+DEBUG - 2010-11-11 21:36:27 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:36:27 --> Router Class Initialized
+DEBUG - 2010-11-11 21:36:27 --> Output Class Initialized
+DEBUG - 2010-11-11 21:36:27 --> Input Class Initialized
+DEBUG - 2010-11-11 21:36:27 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:36:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:36:27 --> Language Class Initialized
+DEBUG - 2010-11-11 21:36:27 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:36:27 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:36:27 --> Session Class Initialized
+DEBUG - 2010-11-11 21:36:27 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:36:27 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:36:27 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:36:27 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:36:27 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:36:27 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:36:27 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9c74e26232fb5cdf223f990251eb9c6f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:36:27 --> Session routines successfully run
+DEBUG - 2010-11-11 21:36:27 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:36:27 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:36:27 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:36:27 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:36:27 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:36:27 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:36:27 --> Final output sent to browser
+DEBUG - 2010-11-11 21:36:27 --> Total execution time: 0.0850
+DEBUG - 2010-11-11 21:36:47 --> Config Class Initialized
+DEBUG - 2010-11-11 21:36:47 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:36:47 --> URI Class Initialized
+DEBUG - 2010-11-11 21:36:47 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:36:47 --> Router Class Initialized
+DEBUG - 2010-11-11 21:36:47 --> Output Class Initialized
+DEBUG - 2010-11-11 21:36:47 --> Input Class Initialized
+DEBUG - 2010-11-11 21:36:47 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:36:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:36:47 --> Language Class Initialized
+DEBUG - 2010-11-11 21:36:47 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:36:47 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:36:47 --> Session Class Initialized
+DEBUG - 2010-11-11 21:36:47 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:36:47 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:36:47 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:36:47 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:36:47 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:36:47 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:36:47 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9c74e26232fb5cdf223f990251eb9c6f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:36:47 --> Session routines successfully run
+DEBUG - 2010-11-11 21:36:47 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:36:47 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:36:47 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:36:47 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:36:47 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:36:47 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:36:47 --> Final output sent to browser
+DEBUG - 2010-11-11 21:36:47 --> Total execution time: 0.0711
+DEBUG - 2010-11-11 21:36:48 --> Config Class Initialized
+DEBUG - 2010-11-11 21:36:48 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:36:48 --> URI Class Initialized
+DEBUG - 2010-11-11 21:36:48 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:36:48 --> Router Class Initialized
+DEBUG - 2010-11-11 21:36:48 --> Output Class Initialized
+DEBUG - 2010-11-11 21:36:48 --> Input Class Initialized
+DEBUG - 2010-11-11 21:36:48 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:36:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:36:48 --> Language Class Initialized
+DEBUG - 2010-11-11 21:36:48 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:36:48 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:36:48 --> Session Class Initialized
+DEBUG - 2010-11-11 21:36:48 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:36:48 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:36:48 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:36:48 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:36:48 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:36:48 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:36:48 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9c74e26232fb5cdf223f990251eb9c6f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:36:48 --> Session routines successfully run
+DEBUG - 2010-11-11 21:36:48 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:36:48 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:36:48 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:36:48 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:36:48 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:36:48 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:36:48 --> Final output sent to browser
+DEBUG - 2010-11-11 21:36:48 --> Total execution time: 0.1076
+DEBUG - 2010-11-11 21:37:02 --> Config Class Initialized
+DEBUG - 2010-11-11 21:37:02 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:37:02 --> URI Class Initialized
+DEBUG - 2010-11-11 21:37:02 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:37:02 --> Router Class Initialized
+DEBUG - 2010-11-11 21:37:02 --> Output Class Initialized
+DEBUG - 2010-11-11 21:37:02 --> Input Class Initialized
+DEBUG - 2010-11-11 21:37:02 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:37:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:37:02 --> Language Class Initialized
+DEBUG - 2010-11-11 21:37:02 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:37:02 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:37:02 --> Session Class Initialized
+DEBUG - 2010-11-11 21:37:02 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:37:02 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:37:02 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:37:02 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:37:02 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:37:02 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:37:02 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9c74e26232fb5cdf223f990251eb9c6f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:37:02 --> Session routines successfully run
+DEBUG - 2010-11-11 21:37:02 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:37:02 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:37:02 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:37:02 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:37:02 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:37:02 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:37:02 --> Final output sent to browser
+DEBUG - 2010-11-11 21:37:02 --> Total execution time: 0.1041
+DEBUG - 2010-11-11 21:37:12 --> Config Class Initialized
+DEBUG - 2010-11-11 21:37:12 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:37:12 --> URI Class Initialized
+DEBUG - 2010-11-11 21:37:12 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:37:12 --> Router Class Initialized
+DEBUG - 2010-11-11 21:37:12 --> Output Class Initialized
+DEBUG - 2010-11-11 21:37:12 --> Input Class Initialized
+DEBUG - 2010-11-11 21:37:12 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:37:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:37:12 --> Language Class Initialized
+DEBUG - 2010-11-11 21:37:12 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:37:12 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:37:12 --> Session Class Initialized
+DEBUG - 2010-11-11 21:37:12 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:37:12 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:37:12 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:37:12 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:37:12 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:37:12 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:37:12 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9c74e26232fb5cdf223f990251eb9c6f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:37:12 --> Session routines successfully run
+DEBUG - 2010-11-11 21:37:12 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:37:12 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:37:12 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:37:12 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:37:12 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:37:12 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:37:12 --> Final output sent to browser
+DEBUG - 2010-11-11 21:37:12 --> Total execution time: 0.0846
+DEBUG - 2010-11-11 21:37:13 --> Config Class Initialized
+DEBUG - 2010-11-11 21:37:13 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:37:13 --> URI Class Initialized
+DEBUG - 2010-11-11 21:37:13 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:37:13 --> Router Class Initialized
+DEBUG - 2010-11-11 21:37:13 --> Output Class Initialized
+DEBUG - 2010-11-11 21:37:13 --> Input Class Initialized
+DEBUG - 2010-11-11 21:37:13 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:37:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:37:13 --> Language Class Initialized
+DEBUG - 2010-11-11 21:37:13 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:37:14 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:37:14 --> Session Class Initialized
+DEBUG - 2010-11-11 21:37:14 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:37:14 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:37:14 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:37:14 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:37:14 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:37:14 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:37:14 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9c74e26232fb5cdf223f990251eb9c6f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:37:14 --> Session routines successfully run
+DEBUG - 2010-11-11 21:37:14 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:37:14 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:37:14 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:37:14 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:37:14 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:37:14 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:37:14 --> Final output sent to browser
+DEBUG - 2010-11-11 21:37:14 --> Total execution time: 0.4281
+DEBUG - 2010-11-11 21:37:21 --> Config Class Initialized
+DEBUG - 2010-11-11 21:37:21 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:37:21 --> URI Class Initialized
+DEBUG - 2010-11-11 21:37:21 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:37:21 --> Router Class Initialized
+DEBUG - 2010-11-11 21:37:21 --> Output Class Initialized
+DEBUG - 2010-11-11 21:37:21 --> Input Class Initialized
+DEBUG - 2010-11-11 21:37:21 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:37:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:37:21 --> Language Class Initialized
+DEBUG - 2010-11-11 21:37:21 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:37:21 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:37:21 --> Session Class Initialized
+DEBUG - 2010-11-11 21:37:21 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:37:21 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:37:21 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:37:21 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:37:21 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:37:21 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:37:21 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9c74e26232fb5cdf223f990251eb9c6f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:37:21 --> Session routines successfully run
+DEBUG - 2010-11-11 21:37:21 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:37:21 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:37:21 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:37:21 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:37:21 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:37:21 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:37:21 --> Final output sent to browser
+DEBUG - 2010-11-11 21:37:21 --> Total execution time: 0.0438
+DEBUG - 2010-11-11 21:37:22 --> Config Class Initialized
+DEBUG - 2010-11-11 21:37:22 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:37:22 --> URI Class Initialized
+DEBUG - 2010-11-11 21:37:22 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:37:22 --> Router Class Initialized
+DEBUG - 2010-11-11 21:37:23 --> Output Class Initialized
+DEBUG - 2010-11-11 21:37:23 --> Input Class Initialized
+DEBUG - 2010-11-11 21:37:23 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:37:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:37:23 --> Language Class Initialized
+DEBUG - 2010-11-11 21:37:23 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:37:23 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:37:23 --> Session Class Initialized
+DEBUG - 2010-11-11 21:37:23 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:37:23 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:37:23 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:37:23 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:37:23 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:37:23 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:37:23 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9c74e26232fb5cdf223f990251eb9c6f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:37:23 --> Session routines successfully run
+DEBUG - 2010-11-11 21:37:23 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:37:23 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:37:23 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:37:23 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:37:23 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:37:23 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:37:23 --> Final output sent to browser
+DEBUG - 2010-11-11 21:37:23 --> Total execution time: 0.1394
+DEBUG - 2010-11-11 21:37:27 --> Config Class Initialized
+DEBUG - 2010-11-11 21:37:27 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:37:27 --> URI Class Initialized
+DEBUG - 2010-11-11 21:37:27 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:37:27 --> Router Class Initialized
+DEBUG - 2010-11-11 21:37:27 --> Output Class Initialized
+DEBUG - 2010-11-11 21:37:27 --> Input Class Initialized
+DEBUG - 2010-11-11 21:37:27 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:37:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:37:27 --> Language Class Initialized
+DEBUG - 2010-11-11 21:37:27 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:37:27 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:37:27 --> Session Class Initialized
+DEBUG - 2010-11-11 21:37:27 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:37:27 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:37:27 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:37:27 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:37:27 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:37:27 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:37:27 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9c74e26232fb5cdf223f990251eb9c6f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:37:27 --> Session routines successfully run
+DEBUG - 2010-11-11 21:37:27 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:37:27 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:37:27 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:37:27 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:37:27 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:37:27 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:37:27 --> Final output sent to browser
+DEBUG - 2010-11-11 21:37:27 --> Total execution time: 0.0315
+DEBUG - 2010-11-11 21:37:44 --> Config Class Initialized
+DEBUG - 2010-11-11 21:37:44 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:37:44 --> URI Class Initialized
+DEBUG - 2010-11-11 21:37:45 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:37:45 --> Router Class Initialized
+DEBUG - 2010-11-11 21:37:45 --> Output Class Initialized
+DEBUG - 2010-11-11 21:37:45 --> Input Class Initialized
+DEBUG - 2010-11-11 21:37:45 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:37:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:37:45 --> Language Class Initialized
+DEBUG - 2010-11-11 21:37:45 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:37:45 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:37:45 --> Session Class Initialized
+DEBUG - 2010-11-11 21:37:45 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:37:45 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:37:45 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:37:45 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:37:45 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:37:45 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:37:45 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9c74e26232fb5cdf223f990251eb9c6f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:37:45 --> Session routines successfully run
+DEBUG - 2010-11-11 21:37:45 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:37:45 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:37:45 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:37:45 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:37:45 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:37:45 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:37:45 --> Final output sent to browser
+DEBUG - 2010-11-11 21:37:45 --> Total execution time: 0.0727
+DEBUG - 2010-11-11 21:38:07 --> Config Class Initialized
+DEBUG - 2010-11-11 21:38:07 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:38:07 --> URI Class Initialized
+DEBUG - 2010-11-11 21:38:07 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:38:07 --> Router Class Initialized
+DEBUG - 2010-11-11 21:38:07 --> Output Class Initialized
+DEBUG - 2010-11-11 21:38:07 --> Input Class Initialized
+DEBUG - 2010-11-11 21:38:07 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:38:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:38:07 --> Language Class Initialized
+DEBUG - 2010-11-11 21:38:07 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:38:07 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:38:07 --> Session Class Initialized
+DEBUG - 2010-11-11 21:38:07 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:38:07 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:38:07 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:38:07 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:38:07 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:38:07 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:38:07 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9c74e26232fb5cdf223f990251eb9c6f'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:38:07 --> SQL : UPDATE ci_sessions SET last_activity = 1289529487, session_id = 'a79db0503bd4b0ee018ca9e5fffc9bac' WHERE session_id = '9c74e26232fb5cdf223f990251eb9c6f'
+DEBUG - 2010-11-11 21:38:07 --> Session routines successfully run
+DEBUG - 2010-11-11 21:38:07 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:38:07 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:38:07 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:38:07 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:38:07 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:38:07 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:38:07 --> Final output sent to browser
+DEBUG - 2010-11-11 21:38:07 --> Total execution time: 0.1478
+DEBUG - 2010-11-11 21:38:14 --> Config Class Initialized
+DEBUG - 2010-11-11 21:38:14 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:38:14 --> URI Class Initialized
+DEBUG - 2010-11-11 21:38:14 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:38:14 --> Router Class Initialized
+DEBUG - 2010-11-11 21:38:14 --> Output Class Initialized
+DEBUG - 2010-11-11 21:38:14 --> Input Class Initialized
+DEBUG - 2010-11-11 21:38:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:38:14 --> Language Class Initialized
+DEBUG - 2010-11-11 21:38:14 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:38:14 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:38:14 --> Session Class Initialized
+DEBUG - 2010-11-11 21:38:14 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:38:14 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:38:14 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:38:14 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:38:14 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:38:14 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:38:14 --> A session cookie was not found.
+DEBUG - 2010-11-11 21:38:14 --> SQL : INSERT INTO ci_sessions (session_id, ip_address, user_agent, last_activity) VALUES ('018842714c5735b2e0a8d1e61a3c7e10', '0.0.0.0', 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en', 1289529494)
+DEBUG - 2010-11-11 21:38:14 --> Session routines successfully run
+DEBUG - 2010-11-11 21:38:14 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:38:14 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:38:14 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:38:14 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:38:14 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:38:14 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:38:14 --> Final output sent to browser
+DEBUG - 2010-11-11 21:38:14 --> Total execution time: 0.0365
+DEBUG - 2010-11-11 21:38:18 --> Config Class Initialized
+DEBUG - 2010-11-11 21:38:19 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:38:19 --> URI Class Initialized
+DEBUG - 2010-11-11 21:38:19 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:38:19 --> Router Class Initialized
+DEBUG - 2010-11-11 21:38:19 --> Output Class Initialized
+DEBUG - 2010-11-11 21:38:19 --> Input Class Initialized
+DEBUG - 2010-11-11 21:38:19 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:38:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:38:19 --> Language Class Initialized
+DEBUG - 2010-11-11 21:38:19 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:38:19 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:38:19 --> Session Class Initialized
+DEBUG - 2010-11-11 21:38:19 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:38:19 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:38:19 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:38:19 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:38:19 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:38:19 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:38:19 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '018842714c5735b2e0a8d1e61a3c7e10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:38:19 --> Session routines successfully run
+DEBUG - 2010-11-11 21:38:19 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:38:19 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:38:19 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:38:19 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:38:19 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:38:19 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:38:19 --> Final output sent to browser
+DEBUG - 2010-11-11 21:38:19 --> Total execution time: 0.4517
+DEBUG - 2010-11-11 21:38:28 --> Config Class Initialized
+DEBUG - 2010-11-11 21:38:28 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:38:28 --> URI Class Initialized
+DEBUG - 2010-11-11 21:38:28 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:38:28 --> Router Class Initialized
+DEBUG - 2010-11-11 21:38:28 --> Output Class Initialized
+DEBUG - 2010-11-11 21:38:28 --> Input Class Initialized
+DEBUG - 2010-11-11 21:38:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:38:28 --> Language Class Initialized
+DEBUG - 2010-11-11 21:38:28 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:38:28 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:38:28 --> Session Class Initialized
+DEBUG - 2010-11-11 21:38:28 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:38:28 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:38:28 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:38:28 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:38:28 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:38:28 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:38:28 --> A session cookie was not found.
+DEBUG - 2010-11-11 21:38:28 --> SQL : INSERT INTO ci_sessions (session_id, ip_address, user_agent, last_activity) VALUES ('53496185e5be2264ab00984ff174c161', '127.0.0.1', 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres', 1289529508)
+DEBUG - 2010-11-11 21:38:28 --> Session routines successfully run
+DEBUG - 2010-11-11 21:38:28 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:38:28 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:38:28 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:38:28 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:38:28 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:38:28 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:38:28 --> Final output sent to browser
+DEBUG - 2010-11-11 21:38:28 --> Total execution time: 0.0542
+DEBUG - 2010-11-11 21:45:20 --> Config Class Initialized
+DEBUG - 2010-11-11 21:45:20 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:45:20 --> URI Class Initialized
+DEBUG - 2010-11-11 21:45:20 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:45:20 --> Router Class Initialized
+DEBUG - 2010-11-11 21:45:20 --> Output Class Initialized
+DEBUG - 2010-11-11 21:45:20 --> Input Class Initialized
+DEBUG - 2010-11-11 21:45:20 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:45:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:45:20 --> Language Class Initialized
+DEBUG - 2010-11-11 21:45:20 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:45:20 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:45:20 --> Session Class Initialized
+DEBUG - 2010-11-11 21:45:20 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:45:20 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:45:20 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:45:20 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:45:20 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:45:20 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:45:20 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '018842714c5735b2e0a8d1e61a3c7e10'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:45:20 --> SQL : UPDATE ci_sessions SET last_activity = 1289529920, session_id = 'c56ccbbbdeab25f12eb10aeb2627c6be' WHERE session_id = '018842714c5735b2e0a8d1e61a3c7e10'
+DEBUG - 2010-11-11 21:45:20 --> Session routines successfully run
+DEBUG - 2010-11-11 21:45:20 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:45:20 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:45:20 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:45:20 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:45:20 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:45:20 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:45:20 --> Final output sent to browser
+DEBUG - 2010-11-11 21:45:20 --> Total execution time: 0.1374
+DEBUG - 2010-11-11 21:45:31 --> Config Class Initialized
+DEBUG - 2010-11-11 21:45:31 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:45:31 --> URI Class Initialized
+DEBUG - 2010-11-11 21:45:31 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:45:31 --> Router Class Initialized
+DEBUG - 2010-11-11 21:45:31 --> Output Class Initialized
+DEBUG - 2010-11-11 21:45:31 --> Input Class Initialized
+DEBUG - 2010-11-11 21:45:31 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:45:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:45:31 --> Language Class Initialized
+DEBUG - 2010-11-11 21:45:31 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:45:31 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:45:31 --> Session Class Initialized
+DEBUG - 2010-11-11 21:45:31 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:45:31 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:45:31 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:45:31 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:45:31 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:45:31 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:45:31 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c56ccbbbdeab25f12eb10aeb2627c6be'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:45:31 --> Session routines successfully run
+DEBUG - 2010-11-11 21:45:31 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:45:31 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:45:31 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:45:31 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:45:31 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:45:31 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:45:31 --> Final output sent to browser
+DEBUG - 2010-11-11 21:45:31 --> Total execution time: 0.0746
+DEBUG - 2010-11-11 21:45:32 --> Config Class Initialized
+DEBUG - 2010-11-11 21:45:32 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:45:32 --> URI Class Initialized
+DEBUG - 2010-11-11 21:45:32 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:45:32 --> Router Class Initialized
+DEBUG - 2010-11-11 21:45:32 --> Output Class Initialized
+DEBUG - 2010-11-11 21:45:32 --> Input Class Initialized
+DEBUG - 2010-11-11 21:45:32 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:45:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:45:32 --> Language Class Initialized
+DEBUG - 2010-11-11 21:45:32 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:45:32 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:45:32 --> Session Class Initialized
+DEBUG - 2010-11-11 21:45:32 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:45:32 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:45:32 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:45:32 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:45:32 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:45:32 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:45:32 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c56ccbbbdeab25f12eb10aeb2627c6be'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:45:32 --> Session routines successfully run
+DEBUG - 2010-11-11 21:45:32 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:45:32 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:45:32 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:45:32 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:45:32 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:45:32 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:45:32 --> Final output sent to browser
+DEBUG - 2010-11-11 21:45:32 --> Total execution time: 0.1232
+DEBUG - 2010-11-11 21:45:38 --> Config Class Initialized
+DEBUG - 2010-11-11 21:45:38 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:45:38 --> URI Class Initialized
+DEBUG - 2010-11-11 21:45:38 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:45:38 --> Router Class Initialized
+DEBUG - 2010-11-11 21:45:38 --> Output Class Initialized
+DEBUG - 2010-11-11 21:45:38 --> Input Class Initialized
+DEBUG - 2010-11-11 21:45:38 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:45:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:45:38 --> Language Class Initialized
+DEBUG - 2010-11-11 21:45:38 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:45:38 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:45:38 --> Session Class Initialized
+DEBUG - 2010-11-11 21:45:38 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:45:38 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:45:38 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:45:38 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:45:38 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:45:38 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:45:38 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c56ccbbbdeab25f12eb10aeb2627c6be'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:45:38 --> Session routines successfully run
+DEBUG - 2010-11-11 21:45:38 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:45:38 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:45:38 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:45:38 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:45:38 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:45:38 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:45:38 --> Final output sent to browser
+DEBUG - 2010-11-11 21:45:38 --> Total execution time: 0.0683
+DEBUG - 2010-11-11 21:45:45 --> Config Class Initialized
+DEBUG - 2010-11-11 21:45:45 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:45:45 --> URI Class Initialized
+DEBUG - 2010-11-11 21:45:45 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:45:45 --> Router Class Initialized
+DEBUG - 2010-11-11 21:45:45 --> Output Class Initialized
+DEBUG - 2010-11-11 21:45:45 --> Input Class Initialized
+DEBUG - 2010-11-11 21:45:45 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:45:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:45:45 --> Language Class Initialized
+DEBUG - 2010-11-11 21:45:45 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:45:45 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:45:45 --> Session Class Initialized
+DEBUG - 2010-11-11 21:45:45 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:45:45 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:45:45 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:45:45 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:45:45 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:45:45 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:45:45 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c56ccbbbdeab25f12eb10aeb2627c6be'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:45:45 --> Session routines successfully run
+DEBUG - 2010-11-11 21:45:45 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:45:45 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:45:45 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:45:45 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:45:45 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:45:45 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:45:45 --> Final output sent to browser
+DEBUG - 2010-11-11 21:45:45 --> Total execution time: 0.0737
+DEBUG - 2010-11-11 21:45:46 --> Config Class Initialized
+DEBUG - 2010-11-11 21:45:46 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:45:46 --> URI Class Initialized
+DEBUG - 2010-11-11 21:45:46 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:45:46 --> Router Class Initialized
+DEBUG - 2010-11-11 21:45:46 --> Output Class Initialized
+DEBUG - 2010-11-11 21:45:46 --> Input Class Initialized
+DEBUG - 2010-11-11 21:45:46 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:45:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:45:46 --> Language Class Initialized
+DEBUG - 2010-11-11 21:45:46 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:45:46 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:45:46 --> Session Class Initialized
+DEBUG - 2010-11-11 21:45:46 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:45:46 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:45:46 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:45:46 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:45:46 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:45:46 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:45:46 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c56ccbbbdeab25f12eb10aeb2627c6be'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:45:46 --> Session routines successfully run
+DEBUG - 2010-11-11 21:45:46 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:45:46 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:45:46 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:45:46 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:45:46 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:45:46 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:45:46 --> Final output sent to browser
+DEBUG - 2010-11-11 21:45:46 --> Total execution time: 0.0857
+DEBUG - 2010-11-11 21:46:15 --> Config Class Initialized
+DEBUG - 2010-11-11 21:46:15 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:46:15 --> URI Class Initialized
+DEBUG - 2010-11-11 21:46:16 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:46:16 --> Router Class Initialized
+DEBUG - 2010-11-11 21:46:16 --> Output Class Initialized
+DEBUG - 2010-11-11 21:46:16 --> Input Class Initialized
+DEBUG - 2010-11-11 21:46:16 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:46:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:46:16 --> Language Class Initialized
+DEBUG - 2010-11-11 21:46:16 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:46:16 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:46:16 --> Session Class Initialized
+DEBUG - 2010-11-11 21:46:16 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:46:16 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:46:16 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:46:16 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:46:16 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:46:16 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:46:16 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c56ccbbbdeab25f12eb10aeb2627c6be'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:46:16 --> Session routines successfully run
+DEBUG - 2010-11-11 21:46:16 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:46:16 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:46:16 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:46:16 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:46:16 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:46:16 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:46:16 --> Final output sent to browser
+DEBUG - 2010-11-11 21:46:16 --> Total execution time: 0.1188
+DEBUG - 2010-11-11 21:46:19 --> Config Class Initialized
+DEBUG - 2010-11-11 21:46:19 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:46:19 --> URI Class Initialized
+DEBUG - 2010-11-11 21:46:19 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:46:19 --> Router Class Initialized
+DEBUG - 2010-11-11 21:46:19 --> Output Class Initialized
+DEBUG - 2010-11-11 21:46:19 --> Input Class Initialized
+DEBUG - 2010-11-11 21:46:19 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:46:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:46:19 --> Language Class Initialized
+DEBUG - 2010-11-11 21:46:19 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:46:19 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:46:19 --> Session Class Initialized
+DEBUG - 2010-11-11 21:46:19 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:46:19 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:46:19 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:46:19 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:46:19 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:46:19 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:46:19 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c56ccbbbdeab25f12eb10aeb2627c6be'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:46:19 --> Session routines successfully run
+DEBUG - 2010-11-11 21:46:19 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:46:19 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:46:19 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:46:19 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:46:19 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:46:19 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:46:19 --> Final output sent to browser
+DEBUG - 2010-11-11 21:46:19 --> Total execution time: 0.0334
+DEBUG - 2010-11-11 21:46:27 --> Config Class Initialized
+DEBUG - 2010-11-11 21:46:27 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:46:27 --> URI Class Initialized
+DEBUG - 2010-11-11 21:46:27 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:46:27 --> Router Class Initialized
+DEBUG - 2010-11-11 21:46:27 --> Output Class Initialized
+DEBUG - 2010-11-11 21:46:27 --> Input Class Initialized
+DEBUG - 2010-11-11 21:46:27 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:46:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:46:27 --> Language Class Initialized
+DEBUG - 2010-11-11 21:46:27 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:46:27 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:46:27 --> Session Class Initialized
+DEBUG - 2010-11-11 21:46:27 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:46:27 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:46:27 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:46:27 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:46:27 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:46:27 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:46:27 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c56ccbbbdeab25f12eb10aeb2627c6be'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:46:27 --> Session routines successfully run
+DEBUG - 2010-11-11 21:46:27 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:46:27 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:46:27 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:46:27 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:46:27 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:46:27 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:46:27 --> Final output sent to browser
+DEBUG - 2010-11-11 21:46:27 --> Total execution time: 0.0626
+DEBUG - 2010-11-11 21:46:59 --> Config Class Initialized
+DEBUG - 2010-11-11 21:46:59 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:46:59 --> URI Class Initialized
+DEBUG - 2010-11-11 21:46:59 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:46:59 --> Router Class Initialized
+DEBUG - 2010-11-11 21:46:59 --> Output Class Initialized
+DEBUG - 2010-11-11 21:46:59 --> Input Class Initialized
+DEBUG - 2010-11-11 21:46:59 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:46:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:46:59 --> Language Class Initialized
+DEBUG - 2010-11-11 21:46:59 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:46:59 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:46:59 --> Session Class Initialized
+DEBUG - 2010-11-11 21:46:59 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:46:59 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:46:59 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:46:59 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:46:59 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:46:59 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:46:59 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c56ccbbbdeab25f12eb10aeb2627c6be'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:46:59 --> Session routines successfully run
+DEBUG - 2010-11-11 21:46:59 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:46:59 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:46:59 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:46:59 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:46:59 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:46:59 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:46:59 --> Final output sent to browser
+DEBUG - 2010-11-11 21:46:59 --> Total execution time: 0.0757
+DEBUG - 2010-11-11 21:47:00 --> Config Class Initialized
+DEBUG - 2010-11-11 21:47:00 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:47:00 --> URI Class Initialized
+DEBUG - 2010-11-11 21:47:00 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:47:00 --> Router Class Initialized
+DEBUG - 2010-11-11 21:47:00 --> Output Class Initialized
+DEBUG - 2010-11-11 21:47:00 --> Input Class Initialized
+DEBUG - 2010-11-11 21:47:00 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:47:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:47:00 --> Language Class Initialized
+DEBUG - 2010-11-11 21:47:00 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:47:00 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:47:00 --> Session Class Initialized
+DEBUG - 2010-11-11 21:47:00 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:47:00 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:47:00 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:47:00 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:47:00 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:47:00 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:47:00 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c56ccbbbdeab25f12eb10aeb2627c6be'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:47:00 --> Session routines successfully run
+DEBUG - 2010-11-11 21:47:00 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:47:00 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:47:00 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:47:00 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:47:00 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:47:00 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:47:00 --> Final output sent to browser
+DEBUG - 2010-11-11 21:47:00 --> Total execution time: 0.0725
+DEBUG - 2010-11-11 21:47:09 --> Config Class Initialized
+DEBUG - 2010-11-11 21:47:09 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:47:09 --> URI Class Initialized
+DEBUG - 2010-11-11 21:47:09 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:47:09 --> Router Class Initialized
+DEBUG - 2010-11-11 21:47:09 --> Output Class Initialized
+DEBUG - 2010-11-11 21:47:09 --> Input Class Initialized
+DEBUG - 2010-11-11 21:47:09 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:47:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:47:09 --> Language Class Initialized
+DEBUG - 2010-11-11 21:47:09 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:47:09 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:47:09 --> Session Class Initialized
+DEBUG - 2010-11-11 21:47:09 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:47:09 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:47:09 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:47:09 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:47:09 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:47:09 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:47:09 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c56ccbbbdeab25f12eb10aeb2627c6be'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:47:09 --> Session routines successfully run
+DEBUG - 2010-11-11 21:47:09 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:47:09 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:47:09 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:47:09 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:47:09 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:47:09 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:47:09 --> Final output sent to browser
+DEBUG - 2010-11-11 21:47:09 --> Total execution time: 0.0966
+DEBUG - 2010-11-11 21:47:13 --> Config Class Initialized
+DEBUG - 2010-11-11 21:47:13 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:47:13 --> URI Class Initialized
+DEBUG - 2010-11-11 21:47:13 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:47:13 --> Router Class Initialized
+DEBUG - 2010-11-11 21:47:13 --> Output Class Initialized
+DEBUG - 2010-11-11 21:47:13 --> Input Class Initialized
+DEBUG - 2010-11-11 21:47:13 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:47:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:47:13 --> Language Class Initialized
+DEBUG - 2010-11-11 21:47:13 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:47:13 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:47:13 --> Session Class Initialized
+DEBUG - 2010-11-11 21:47:13 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:47:13 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:47:13 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:47:13 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:47:13 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:47:13 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:47:13 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c56ccbbbdeab25f12eb10aeb2627c6be'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:47:13 --> Session routines successfully run
+DEBUG - 2010-11-11 21:47:13 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:47:13 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:47:13 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:47:13 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:47:13 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:47:13 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:47:13 --> Final output sent to browser
+DEBUG - 2010-11-11 21:47:13 --> Total execution time: 0.0708
+DEBUG - 2010-11-11 21:47:16 --> Config Class Initialized
+DEBUG - 2010-11-11 21:47:16 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:47:16 --> URI Class Initialized
+DEBUG - 2010-11-11 21:47:16 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:47:16 --> Router Class Initialized
+DEBUG - 2010-11-11 21:47:16 --> Output Class Initialized
+DEBUG - 2010-11-11 21:47:16 --> Input Class Initialized
+DEBUG - 2010-11-11 21:47:16 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:47:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:47:16 --> Language Class Initialized
+DEBUG - 2010-11-11 21:47:16 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:47:16 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:47:16 --> Session Class Initialized
+DEBUG - 2010-11-11 21:47:16 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:47:16 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:47:16 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:47:16 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:47:16 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:47:16 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:47:16 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '53496185e5be2264ab00984ff174c161'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 21:47:16 --> SQL : UPDATE ci_sessions SET last_activity = 1289530036, session_id = '378af01a8dcbbf25d23e22fccfeecc94' WHERE session_id = '53496185e5be2264ab00984ff174c161'
+DEBUG - 2010-11-11 21:47:16 --> Session routines successfully run
+DEBUG - 2010-11-11 21:47:16 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:47:16 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:47:16 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:47:16 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:47:16 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:47:16 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:47:16 --> Final output sent to browser
+DEBUG - 2010-11-11 21:47:16 --> Total execution time: 0.0826
+DEBUG - 2010-11-11 21:47:20 --> Config Class Initialized
+DEBUG - 2010-11-11 21:47:20 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:47:20 --> URI Class Initialized
+DEBUG - 2010-11-11 21:47:20 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:47:20 --> Router Class Initialized
+DEBUG - 2010-11-11 21:47:20 --> Output Class Initialized
+DEBUG - 2010-11-11 21:47:20 --> Input Class Initialized
+DEBUG - 2010-11-11 21:47:20 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:47:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:47:20 --> Language Class Initialized
+DEBUG - 2010-11-11 21:47:20 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:47:20 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:47:20 --> Session Class Initialized
+DEBUG - 2010-11-11 21:47:20 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:47:20 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:47:20 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:47:20 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:47:20 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:47:20 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:47:20 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'a79db0503bd4b0ee018ca9e5fffc9bac'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:47:20 --> SQL : UPDATE ci_sessions SET last_activity = 1289530040, session_id = '705d8e9e91f358bdd002b63df4c59047' WHERE session_id = 'a79db0503bd4b0ee018ca9e5fffc9bac'
+DEBUG - 2010-11-11 21:47:20 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289522840
+DEBUG - 2010-11-11 21:47:20 --> Session garbage collection performed.
+DEBUG - 2010-11-11 21:47:20 --> Session routines successfully run
+DEBUG - 2010-11-11 21:47:20 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:47:20 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:47:20 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:47:20 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:47:20 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:47:20 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:47:20 --> Final output sent to browser
+DEBUG - 2010-11-11 21:47:20 --> Total execution time: 0.1445
+DEBUG - 2010-11-11 21:47:30 --> Config Class Initialized
+DEBUG - 2010-11-11 21:47:30 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:47:30 --> URI Class Initialized
+DEBUG - 2010-11-11 21:47:30 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:47:30 --> Router Class Initialized
+DEBUG - 2010-11-11 21:47:30 --> Output Class Initialized
+DEBUG - 2010-11-11 21:47:30 --> Input Class Initialized
+DEBUG - 2010-11-11 21:47:30 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:47:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:47:30 --> Language Class Initialized
+DEBUG - 2010-11-11 21:47:30 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:47:30 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:47:30 --> Session Class Initialized
+DEBUG - 2010-11-11 21:47:30 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:47:30 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:47:30 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:47:30 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:47:30 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:47:30 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:47:30 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '705d8e9e91f358bdd002b63df4c59047'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:47:30 --> Session routines successfully run
+DEBUG - 2010-11-11 21:47:30 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:47:30 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:47:30 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:47:30 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:47:30 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:47:30 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:47:30 --> Final output sent to browser
+DEBUG - 2010-11-11 21:47:30 --> Total execution time: 0.0732
+DEBUG - 2010-11-11 21:51:31 --> Config Class Initialized
+DEBUG - 2010-11-11 21:51:31 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:51:32 --> URI Class Initialized
+DEBUG - 2010-11-11 21:51:32 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:51:32 --> Router Class Initialized
+DEBUG - 2010-11-11 21:51:32 --> Output Class Initialized
+DEBUG - 2010-11-11 21:51:32 --> Input Class Initialized
+DEBUG - 2010-11-11 21:51:32 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:51:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:51:32 --> Language Class Initialized
+DEBUG - 2010-11-11 21:51:32 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:51:32 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:51:32 --> Session Class Initialized
+DEBUG - 2010-11-11 21:51:32 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:51:32 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:51:32 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:51:32 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:51:32 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:51:32 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:51:32 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c56ccbbbdeab25f12eb10aeb2627c6be'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:51:32 --> SQL : UPDATE ci_sessions SET last_activity = 1289530292, session_id = '7ae690ec8b3c3db0c117e203cbf4328e' WHERE session_id = 'c56ccbbbdeab25f12eb10aeb2627c6be'
+DEBUG - 2010-11-11 21:51:32 --> Session routines successfully run
+DEBUG - 2010-11-11 21:51:32 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:51:32 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:51:32 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:51:32 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:51:32 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:51:32 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:51:32 --> Final output sent to browser
+DEBUG - 2010-11-11 21:51:32 --> Total execution time: 0.0753
+DEBUG - 2010-11-11 21:51:35 --> Config Class Initialized
+DEBUG - 2010-11-11 21:51:35 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:51:35 --> URI Class Initialized
+DEBUG - 2010-11-11 21:51:35 --> Router Class Initialized
+DEBUG - 2010-11-11 21:51:35 --> Output Class Initialized
+DEBUG - 2010-11-11 21:51:35 --> Input Class Initialized
+DEBUG - 2010-11-11 21:51:35 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:51:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:51:35 --> Language Class Initialized
+DEBUG - 2010-11-11 21:51:35 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:51:35 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:51:35 --> Session Class Initialized
+DEBUG - 2010-11-11 21:51:35 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:51:35 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:51:35 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:51:35 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:51:35 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:51:35 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:51:35 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7ae690ec8b3c3db0c117e203cbf4328e'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:51:35 --> Session routines successfully run
+DEBUG - 2010-11-11 21:51:35 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:51:35 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:51:35 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 21:51:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 21:51:35 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 21:51:35 --> Final output sent to browser
+DEBUG - 2010-11-11 21:51:35 --> Total execution time: 0.1372
+DEBUG - 2010-11-11 21:51:45 --> Config Class Initialized
+DEBUG - 2010-11-11 21:51:45 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:51:45 --> URI Class Initialized
+DEBUG - 2010-11-11 21:51:45 --> Router Class Initialized
+DEBUG - 2010-11-11 21:51:45 --> Output Class Initialized
+DEBUG - 2010-11-11 21:51:45 --> Input Class Initialized
+DEBUG - 2010-11-11 21:51:45 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:51:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:51:45 --> Language Class Initialized
+DEBUG - 2010-11-11 21:51:45 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:51:45 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:51:45 --> Session Class Initialized
+DEBUG - 2010-11-11 21:51:45 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:51:45 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:51:45 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:51:45 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:51:45 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:51:45 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:51:45 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7ae690ec8b3c3db0c117e203cbf4328e'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:51:45 --> Session routines successfully run
+DEBUG - 2010-11-11 21:51:45 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:51:45 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:51:45 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 21:51:45 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 21:51:45 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 21:51:45 --> Final output sent to browser
+DEBUG - 2010-11-11 21:51:45 --> Total execution time: 0.1123
+DEBUG - 2010-11-11 21:51:50 --> Config Class Initialized
+DEBUG - 2010-11-11 21:51:50 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:51:50 --> URI Class Initialized
+DEBUG - 2010-11-11 21:51:50 --> Router Class Initialized
+DEBUG - 2010-11-11 21:51:50 --> Output Class Initialized
+DEBUG - 2010-11-11 21:51:50 --> Input Class Initialized
+DEBUG - 2010-11-11 21:51:50 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:51:50 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:51:50 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:51:50 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:51:50 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:51:50 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:51:50 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:51:50 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:51:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:51:50 --> Language Class Initialized
+DEBUG - 2010-11-11 21:51:50 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:51:50 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:51:50 --> Session Class Initialized
+DEBUG - 2010-11-11 21:51:50 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:51:50 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:51:50 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:51:50 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:51:50 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:51:50 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:51:50 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7ae690ec8b3c3db0c117e203cbf4328e'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:51:50 --> Session routines successfully run
+DEBUG - 2010-11-11 21:51:50 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:51:51 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:51:51 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 21:51:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 21:51:51 --> Form Validation Class Initialized
+DEBUG - 2010-11-11 21:51:51 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2010-11-11 21:51:51 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 21:51:51 --> Final output sent to browser
+DEBUG - 2010-11-11 21:51:51 --> Total execution time: 0.1637
+DEBUG - 2010-11-11 21:52:10 --> Config Class Initialized
+DEBUG - 2010-11-11 21:52:10 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:52:10 --> URI Class Initialized
+DEBUG - 2010-11-11 21:52:10 --> Router Class Initialized
+DEBUG - 2010-11-11 21:52:10 --> Output Class Initialized
+DEBUG - 2010-11-11 21:52:10 --> Input Class Initialized
+DEBUG - 2010-11-11 21:52:10 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:52:10 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:52:10 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:52:10 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:52:10 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:52:10 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:52:10 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:52:10 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:52:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:52:10 --> Language Class Initialized
+DEBUG - 2010-11-11 21:52:10 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:52:10 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:52:10 --> Session Class Initialized
+DEBUG - 2010-11-11 21:52:10 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:52:10 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:52:10 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:52:10 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:52:10 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:52:10 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:52:10 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7ae690ec8b3c3db0c117e203cbf4328e'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:52:10 --> Session routines successfully run
+DEBUG - 2010-11-11 21:52:10 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:52:10 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:52:10 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 21:52:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 21:52:10 --> Form Validation Class Initialized
+DEBUG - 2010-11-11 21:52:10 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2010-11-11 21:52:11 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 21:52:11 --> Final output sent to browser
+DEBUG - 2010-11-11 21:52:11 --> Total execution time: 0.0876
+DEBUG - 2010-11-11 21:52:18 --> Config Class Initialized
+DEBUG - 2010-11-11 21:52:18 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:52:18 --> URI Class Initialized
+DEBUG - 2010-11-11 21:52:18 --> Router Class Initialized
+DEBUG - 2010-11-11 21:52:18 --> Output Class Initialized
+DEBUG - 2010-11-11 21:52:18 --> Input Class Initialized
+DEBUG - 2010-11-11 21:52:18 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:52:18 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:52:18 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:52:18 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:52:18 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:52:18 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:52:18 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:52:18 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:52:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:52:18 --> Language Class Initialized
+DEBUG - 2010-11-11 21:52:18 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:52:18 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:52:18 --> Session Class Initialized
+DEBUG - 2010-11-11 21:52:18 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:52:18 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:52:18 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:52:18 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:52:18 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:52:18 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:52:18 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7ae690ec8b3c3db0c117e203cbf4328e'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:52:18 --> Session routines successfully run
+DEBUG - 2010-11-11 21:52:18 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:52:18 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:52:18 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 21:52:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 21:52:18 --> Form Validation Class Initialized
+DEBUG - 2010-11-11 21:52:18 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2010-11-11 21:52:18 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, function '_postsignup' not found or invalid function name /Users/kuitang/Sites/sdi/system/application/libraries/Form.php 1991
+DEBUG - 2010-11-11 21:52:18 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 21:52:18 --> Final output sent to browser
+DEBUG - 2010-11-11 21:52:18 --> Total execution time: 0.0474
+DEBUG - 2010-11-11 21:52:31 --> Config Class Initialized
+DEBUG - 2010-11-11 21:52:31 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:52:31 --> URI Class Initialized
+DEBUG - 2010-11-11 21:52:31 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:52:31 --> Router Class Initialized
+DEBUG - 2010-11-11 21:52:31 --> Output Class Initialized
+DEBUG - 2010-11-11 21:52:31 --> Input Class Initialized
+DEBUG - 2010-11-11 21:52:31 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:52:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:52:31 --> Language Class Initialized
+DEBUG - 2010-11-11 21:52:31 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:52:31 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:52:31 --> Session Class Initialized
+DEBUG - 2010-11-11 21:52:31 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:52:31 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:52:31 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:52:31 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:52:31 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:52:31 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:52:31 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7ae690ec8b3c3db0c117e203cbf4328e'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 21:52:31 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289523151
+DEBUG - 2010-11-11 21:52:31 --> Session garbage collection performed.
+DEBUG - 2010-11-11 21:52:31 --> Session routines successfully run
+DEBUG - 2010-11-11 21:52:31 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:52:31 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:52:31 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:52:31 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:52:31 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:52:31 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:52:31 --> Final output sent to browser
+DEBUG - 2010-11-11 21:52:31 --> Total execution time: 0.0800
+DEBUG - 2010-11-11 21:53:15 --> Config Class Initialized
+DEBUG - 2010-11-11 21:53:15 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:53:15 --> URI Class Initialized
+DEBUG - 2010-11-11 21:53:15 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:53:15 --> Router Class Initialized
+DEBUG - 2010-11-11 21:53:15 --> Output Class Initialized
+DEBUG - 2010-11-11 21:53:15 --> Input Class Initialized
+DEBUG - 2010-11-11 21:53:15 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:53:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:53:15 --> Language Class Initialized
+DEBUG - 2010-11-11 21:53:15 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:53:15 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:53:15 --> Session Class Initialized
+DEBUG - 2010-11-11 21:53:15 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:53:15 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:53:15 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:53:15 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:53:15 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:53:15 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:53:15 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '705d8e9e91f358bdd002b63df4c59047'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:53:15 --> SQL : UPDATE ci_sessions SET last_activity = 1289530395, session_id = 'dcf63849cf851e18297ddfd0a8dd38b4' WHERE session_id = '705d8e9e91f358bdd002b63df4c59047'
+DEBUG - 2010-11-11 21:53:15 --> Session routines successfully run
+DEBUG - 2010-11-11 21:53:15 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:53:15 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:53:15 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:53:15 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:53:15 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:53:15 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:53:15 --> Final output sent to browser
+DEBUG - 2010-11-11 21:53:15 --> Total execution time: 0.1237
+DEBUG - 2010-11-11 21:53:16 --> Config Class Initialized
+DEBUG - 2010-11-11 21:53:16 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:53:16 --> URI Class Initialized
+DEBUG - 2010-11-11 21:53:16 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:53:16 --> Router Class Initialized
+DEBUG - 2010-11-11 21:53:16 --> Output Class Initialized
+DEBUG - 2010-11-11 21:53:16 --> Input Class Initialized
+DEBUG - 2010-11-11 21:53:16 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:53:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:53:16 --> Language Class Initialized
+DEBUG - 2010-11-11 21:53:16 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:53:16 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:53:16 --> Session Class Initialized
+DEBUG - 2010-11-11 21:53:16 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:53:16 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:53:16 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:53:16 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:53:16 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:53:16 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:53:16 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'dcf63849cf851e18297ddfd0a8dd38b4'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:53:16 --> Session routines successfully run
+DEBUG - 2010-11-11 21:53:16 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:53:16 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:53:16 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:53:16 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:53:16 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:53:16 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:53:16 --> Final output sent to browser
+DEBUG - 2010-11-11 21:53:16 --> Total execution time: 0.0368
+DEBUG - 2010-11-11 21:53:18 --> Config Class Initialized
+DEBUG - 2010-11-11 21:53:18 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:53:18 --> URI Class Initialized
+DEBUG - 2010-11-11 21:53:18 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:53:18 --> Router Class Initialized
+DEBUG - 2010-11-11 21:53:18 --> Output Class Initialized
+DEBUG - 2010-11-11 21:53:18 --> Input Class Initialized
+DEBUG - 2010-11-11 21:53:18 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:53:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:53:18 --> Language Class Initialized
+DEBUG - 2010-11-11 21:53:18 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:53:18 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:53:18 --> Session Class Initialized
+DEBUG - 2010-11-11 21:53:18 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:53:18 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:53:18 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:53:18 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:53:18 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:53:18 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:53:18 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'dcf63849cf851e18297ddfd0a8dd38b4'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:53:18 --> Session routines successfully run
+DEBUG - 2010-11-11 21:53:18 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:53:18 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:53:18 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:53:18 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:53:18 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:53:18 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:53:18 --> Final output sent to browser
+DEBUG - 2010-11-11 21:53:18 --> Total execution time: 0.0708
+DEBUG - 2010-11-11 21:57:13 --> Config Class Initialized
+DEBUG - 2010-11-11 21:57:13 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:57:13 --> URI Class Initialized
+DEBUG - 2010-11-11 21:57:13 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:57:13 --> Router Class Initialized
+DEBUG - 2010-11-11 21:57:13 --> Output Class Initialized
+DEBUG - 2010-11-11 21:57:13 --> Input Class Initialized
+DEBUG - 2010-11-11 21:57:13 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:57:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:57:13 --> Language Class Initialized
+DEBUG - 2010-11-11 21:57:13 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:57:13 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:57:13 --> Session Class Initialized
+DEBUG - 2010-11-11 21:57:13 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:57:13 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:57:13 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:57:13 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:57:13 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:57:13 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:57:13 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'dcf63849cf851e18297ddfd0a8dd38b4'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:57:13 --> Session routines successfully run
+DEBUG - 2010-11-11 21:57:13 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:57:13 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:57:13 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:57:13 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:57:13 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:57:13 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:57:13 --> Final output sent to browser
+DEBUG - 2010-11-11 21:57:13 --> Total execution time: 0.1180
+DEBUG - 2010-11-11 21:57:35 --> Config Class Initialized
+DEBUG - 2010-11-11 21:57:35 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:57:35 --> URI Class Initialized
+DEBUG - 2010-11-11 21:57:35 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:57:35 --> Router Class Initialized
+DEBUG - 2010-11-11 21:57:35 --> Output Class Initialized
+DEBUG - 2010-11-11 21:57:35 --> Input Class Initialized
+DEBUG - 2010-11-11 21:57:35 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:57:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:57:35 --> Language Class Initialized
+DEBUG - 2010-11-11 21:57:35 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:57:35 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:57:35 --> Session Class Initialized
+DEBUG - 2010-11-11 21:57:35 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:57:35 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:57:35 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:57:35 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:57:35 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:57:35 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:57:35 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'dcf63849cf851e18297ddfd0a8dd38b4'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:57:35 --> Session routines successfully run
+DEBUG - 2010-11-11 21:57:35 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:57:35 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:57:35 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:57:35 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:57:35 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:57:35 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:57:35 --> Final output sent to browser
+DEBUG - 2010-11-11 21:57:35 --> Total execution time: 0.0719
+DEBUG - 2010-11-11 21:58:03 --> Config Class Initialized
+DEBUG - 2010-11-11 21:58:03 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:58:03 --> URI Class Initialized
+DEBUG - 2010-11-11 21:58:03 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:58:03 --> Router Class Initialized
+DEBUG - 2010-11-11 21:58:03 --> Output Class Initialized
+DEBUG - 2010-11-11 21:58:03 --> Input Class Initialized
+DEBUG - 2010-11-11 21:58:03 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:58:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:58:03 --> Language Class Initialized
+DEBUG - 2010-11-11 21:58:03 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:58:03 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:58:03 --> Session Class Initialized
+DEBUG - 2010-11-11 21:58:03 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:58:03 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:58:03 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:58:03 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:58:03 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:58:03 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:58:03 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'dcf63849cf851e18297ddfd0a8dd38b4'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:58:03 --> Session routines successfully run
+DEBUG - 2010-11-11 21:58:03 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:58:03 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:58:03 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:58:03 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:58:03 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:58:03 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:58:03 --> Final output sent to browser
+DEBUG - 2010-11-11 21:58:03 --> Total execution time: 0.0757
+DEBUG - 2010-11-11 21:59:40 --> Config Class Initialized
+DEBUG - 2010-11-11 21:59:40 --> Hooks Class Initialized
+DEBUG - 2010-11-11 21:59:40 --> URI Class Initialized
+DEBUG - 2010-11-11 21:59:40 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 21:59:40 --> Router Class Initialized
+DEBUG - 2010-11-11 21:59:40 --> Output Class Initialized
+DEBUG - 2010-11-11 21:59:40 --> Input Class Initialized
+DEBUG - 2010-11-11 21:59:40 --> XSS Filtering completed
+DEBUG - 2010-11-11 21:59:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 21:59:40 --> Language Class Initialized
+DEBUG - 2010-11-11 21:59:40 --> Loader Class Initialized
+DEBUG - 2010-11-11 21:59:40 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 21:59:40 --> Session Class Initialized
+DEBUG - 2010-11-11 21:59:40 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 21:59:40 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 21:59:40 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 21:59:40 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 21:59:40 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 21:59:40 --> PDO driver connection ok
+DEBUG - 2010-11-11 21:59:40 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'dcf63849cf851e18297ddfd0a8dd38b4'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 21:59:40 --> SQL : UPDATE ci_sessions SET last_activity = 1289530780, session_id = '7171011ea443b1806be1129bb44360b5' WHERE session_id = 'dcf63849cf851e18297ddfd0a8dd38b4'
+DEBUG - 2010-11-11 21:59:40 --> Session routines successfully run
+DEBUG - 2010-11-11 21:59:40 --> Controller Class Initialized
+DEBUG - 2010-11-11 21:59:40 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 21:59:40 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 21:59:40 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 21:59:40 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 21:59:40 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 21:59:40 --> Final output sent to browser
+DEBUG - 2010-11-11 21:59:40 --> Total execution time: 0.0788
+DEBUG - 2010-11-11 22:01:12 --> Config Class Initialized
+DEBUG - 2010-11-11 22:01:12 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:01:12 --> URI Class Initialized
+DEBUG - 2010-11-11 22:01:12 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:01:12 --> Router Class Initialized
+DEBUG - 2010-11-11 22:01:12 --> Output Class Initialized
+DEBUG - 2010-11-11 22:01:12 --> Input Class Initialized
+DEBUG - 2010-11-11 22:01:12 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:01:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:01:12 --> Language Class Initialized
+DEBUG - 2010-11-11 22:01:12 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:01:12 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:01:12 --> Session Class Initialized
+DEBUG - 2010-11-11 22:01:12 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:01:12 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:01:12 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:01:12 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:01:12 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:01:12 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:01:12 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7171011ea443b1806be1129bb44360b5'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:01:12 --> Session routines successfully run
+DEBUG - 2010-11-11 22:01:12 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:01:12 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:01:12 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:01:12 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:01:12 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:01:12 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:01:12 --> Final output sent to browser
+DEBUG - 2010-11-11 22:01:12 --> Total execution time: 0.0687
+DEBUG - 2010-11-11 22:01:30 --> Config Class Initialized
+DEBUG - 2010-11-11 22:01:30 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:01:30 --> URI Class Initialized
+DEBUG - 2010-11-11 22:01:30 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:01:30 --> Router Class Initialized
+DEBUG - 2010-11-11 22:01:30 --> Output Class Initialized
+DEBUG - 2010-11-11 22:01:30 --> Input Class Initialized
+DEBUG - 2010-11-11 22:01:30 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:01:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:01:30 --> Language Class Initialized
+DEBUG - 2010-11-11 22:01:30 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:01:30 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:01:30 --> Session Class Initialized
+DEBUG - 2010-11-11 22:01:30 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:01:30 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:01:30 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:01:30 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:01:30 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:01:30 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:01:30 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7171011ea443b1806be1129bb44360b5'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:01:30 --> Session routines successfully run
+DEBUG - 2010-11-11 22:01:30 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:01:30 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:01:30 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:01:30 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:01:30 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:01:30 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:01:30 --> Final output sent to browser
+DEBUG - 2010-11-11 22:01:30 --> Total execution time: 0.1042
+DEBUG - 2010-11-11 22:02:16 --> Config Class Initialized
+DEBUG - 2010-11-11 22:02:16 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:02:16 --> URI Class Initialized
+DEBUG - 2010-11-11 22:02:17 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:02:17 --> Router Class Initialized
+DEBUG - 2010-11-11 22:02:17 --> Output Class Initialized
+DEBUG - 2010-11-11 22:02:17 --> Input Class Initialized
+DEBUG - 2010-11-11 22:02:17 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:02:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:02:17 --> Language Class Initialized
+DEBUG - 2010-11-11 22:02:17 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:02:17 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:02:17 --> Session Class Initialized
+DEBUG - 2010-11-11 22:02:17 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:02:17 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:02:17 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:02:17 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:02:17 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:02:17 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:02:17 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7171011ea443b1806be1129bb44360b5'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:02:17 --> Session routines successfully run
+DEBUG - 2010-11-11 22:02:17 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:02:17 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:02:17 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:02:17 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:02:17 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:02:17 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:02:17 --> Final output sent to browser
+DEBUG - 2010-11-11 22:02:17 --> Total execution time: 0.1151
+DEBUG - 2010-11-11 22:02:29 --> Config Class Initialized
+DEBUG - 2010-11-11 22:02:29 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:02:29 --> URI Class Initialized
+DEBUG - 2010-11-11 22:02:29 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:02:29 --> Router Class Initialized
+DEBUG - 2010-11-11 22:02:29 --> Output Class Initialized
+DEBUG - 2010-11-11 22:02:29 --> Input Class Initialized
+DEBUG - 2010-11-11 22:02:29 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:02:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:02:29 --> Language Class Initialized
+DEBUG - 2010-11-11 22:02:29 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:02:29 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:02:29 --> Session Class Initialized
+DEBUG - 2010-11-11 22:02:29 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:02:29 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:02:29 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:02:29 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:02:29 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:02:29 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:02:29 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7171011ea443b1806be1129bb44360b5'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:02:29 --> Session routines successfully run
+DEBUG - 2010-11-11 22:02:29 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:02:29 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:02:29 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:02:29 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:02:29 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:02:29 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:02:29 --> Final output sent to browser
+DEBUG - 2010-11-11 22:02:29 --> Total execution time: 0.0711
+DEBUG - 2010-11-11 22:02:43 --> Config Class Initialized
+DEBUG - 2010-11-11 22:02:43 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:02:43 --> URI Class Initialized
+DEBUG - 2010-11-11 22:02:43 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:02:43 --> Router Class Initialized
+DEBUG - 2010-11-11 22:02:43 --> Output Class Initialized
+DEBUG - 2010-11-11 22:02:43 --> Input Class Initialized
+DEBUG - 2010-11-11 22:02:43 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:02:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:02:43 --> Language Class Initialized
+DEBUG - 2010-11-11 22:02:43 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:02:43 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:02:43 --> Session Class Initialized
+DEBUG - 2010-11-11 22:02:43 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:02:43 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:02:44 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:02:44 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:02:44 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:02:44 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:02:44 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7171011ea443b1806be1129bb44360b5'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:02:44 --> Session routines successfully run
+DEBUG - 2010-11-11 22:02:44 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:02:44 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:02:44 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:02:44 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:02:44 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:02:44 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:02:44 --> Final output sent to browser
+DEBUG - 2010-11-11 22:02:44 --> Total execution time: 0.0710
+DEBUG - 2010-11-11 22:02:45 --> Config Class Initialized
+DEBUG - 2010-11-11 22:02:45 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:02:45 --> URI Class Initialized
+DEBUG - 2010-11-11 22:02:45 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:02:45 --> Router Class Initialized
+DEBUG - 2010-11-11 22:02:45 --> Output Class Initialized
+DEBUG - 2010-11-11 22:02:45 --> Input Class Initialized
+DEBUG - 2010-11-11 22:02:45 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:02:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:02:45 --> Language Class Initialized
+DEBUG - 2010-11-11 22:02:45 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:02:45 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:02:45 --> Session Class Initialized
+DEBUG - 2010-11-11 22:02:45 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:02:45 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:02:45 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:02:45 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:02:45 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:02:45 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:02:45 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7171011ea443b1806be1129bb44360b5'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:02:45 --> Session routines successfully run
+DEBUG - 2010-11-11 22:02:45 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:02:45 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:02:45 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:02:45 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:02:45 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:02:45 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:02:45 --> Final output sent to browser
+DEBUG - 2010-11-11 22:02:45 --> Total execution time: 0.0751
+DEBUG - 2010-11-11 22:03:10 --> Config Class Initialized
+DEBUG - 2010-11-11 22:03:10 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:03:10 --> URI Class Initialized
+DEBUG - 2010-11-11 22:03:10 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:03:10 --> Router Class Initialized
+DEBUG - 2010-11-11 22:03:10 --> Output Class Initialized
+DEBUG - 2010-11-11 22:03:10 --> Input Class Initialized
+DEBUG - 2010-11-11 22:03:10 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:03:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:03:10 --> Language Class Initialized
+DEBUG - 2010-11-11 22:03:10 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:03:10 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:03:10 --> Session Class Initialized
+DEBUG - 2010-11-11 22:03:10 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:03:10 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:03:10 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:03:10 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:03:10 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:03:10 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:03:10 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7171011ea443b1806be1129bb44360b5'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:03:10 --> Session routines successfully run
+DEBUG - 2010-11-11 22:03:10 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:03:10 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:03:10 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:03:10 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:03:10 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:03:10 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:03:10 --> Final output sent to browser
+DEBUG - 2010-11-11 22:03:10 --> Total execution time: 0.1163
+DEBUG - 2010-11-11 22:04:04 --> Config Class Initialized
+DEBUG - 2010-11-11 22:04:04 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:04:04 --> URI Class Initialized
+DEBUG - 2010-11-11 22:04:04 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:04:04 --> Router Class Initialized
+DEBUG - 2010-11-11 22:04:04 --> Output Class Initialized
+DEBUG - 2010-11-11 22:04:04 --> Input Class Initialized
+DEBUG - 2010-11-11 22:04:04 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:04:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:04:04 --> Language Class Initialized
+DEBUG - 2010-11-11 22:04:04 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:04:04 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:04:04 --> Session Class Initialized
+DEBUG - 2010-11-11 22:04:04 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:04:04 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:04:04 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:04:04 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:04:04 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:04:04 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:04:04 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7171011ea443b1806be1129bb44360b5'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:04:04 --> Session routines successfully run
+DEBUG - 2010-11-11 22:04:04 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:04:04 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:04:04 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:04:04 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:04:04 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:04:04 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:04:04 --> Final output sent to browser
+DEBUG - 2010-11-11 22:04:04 --> Total execution time: 0.0758
+DEBUG - 2010-11-11 22:04:21 --> Config Class Initialized
+DEBUG - 2010-11-11 22:04:21 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:04:21 --> URI Class Initialized
+DEBUG - 2010-11-11 22:04:21 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:04:21 --> Router Class Initialized
+DEBUG - 2010-11-11 22:04:21 --> Output Class Initialized
+DEBUG - 2010-11-11 22:04:21 --> Input Class Initialized
+DEBUG - 2010-11-11 22:04:21 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:04:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:04:21 --> Language Class Initialized
+DEBUG - 2010-11-11 22:04:21 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:04:21 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:04:21 --> Session Class Initialized
+DEBUG - 2010-11-11 22:04:21 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:04:21 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:04:21 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:04:21 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:04:21 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:04:21 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:04:21 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7171011ea443b1806be1129bb44360b5'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:04:21 --> Session routines successfully run
+DEBUG - 2010-11-11 22:04:22 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:04:22 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:04:22 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:04:22 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:04:22 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:04:22 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:04:22 --> Final output sent to browser
+DEBUG - 2010-11-11 22:04:22 --> Total execution time: 0.1133
+DEBUG - 2010-11-11 22:04:37 --> Config Class Initialized
+DEBUG - 2010-11-11 22:04:37 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:04:37 --> URI Class Initialized
+DEBUG - 2010-11-11 22:04:37 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:04:37 --> Router Class Initialized
+DEBUG - 2010-11-11 22:04:37 --> Output Class Initialized
+DEBUG - 2010-11-11 22:04:37 --> Input Class Initialized
+DEBUG - 2010-11-11 22:04:37 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:04:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:04:37 --> Language Class Initialized
+DEBUG - 2010-11-11 22:04:37 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:04:37 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:04:37 --> Session Class Initialized
+DEBUG - 2010-11-11 22:04:37 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:04:37 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:04:37 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:04:37 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:04:37 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:04:37 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:04:37 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7171011ea443b1806be1129bb44360b5'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:04:37 --> Session routines successfully run
+DEBUG - 2010-11-11 22:04:37 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:04:37 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:04:37 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:04:37 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:04:37 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:04:37 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:04:37 --> Final output sent to browser
+DEBUG - 2010-11-11 22:04:37 --> Total execution time: 0.0730
+DEBUG - 2010-11-11 22:05:00 --> Config Class Initialized
+DEBUG - 2010-11-11 22:05:00 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:05:00 --> URI Class Initialized
+DEBUG - 2010-11-11 22:05:00 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:05:00 --> Router Class Initialized
+DEBUG - 2010-11-11 22:05:00 --> Output Class Initialized
+DEBUG - 2010-11-11 22:05:00 --> Input Class Initialized
+DEBUG - 2010-11-11 22:05:00 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:05:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:05:00 --> Language Class Initialized
+DEBUG - 2010-11-11 22:05:00 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:05:00 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:05:00 --> Session Class Initialized
+DEBUG - 2010-11-11 22:05:00 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:05:00 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:05:00 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:05:00 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:05:00 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:05:00 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:05:00 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7171011ea443b1806be1129bb44360b5'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:05:00 --> SQL : UPDATE ci_sessions SET last_activity = 1289531100, session_id = 'c372f7f6573b0352aceec4007c0eb73b' WHERE session_id = '7171011ea443b1806be1129bb44360b5'
+DEBUG - 2010-11-11 22:05:00 --> Session routines successfully run
+DEBUG - 2010-11-11 22:05:00 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:05:00 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:05:00 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:05:00 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:05:00 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:05:00 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:05:00 --> Final output sent to browser
+DEBUG - 2010-11-11 22:05:00 --> Total execution time: 0.0823
+DEBUG - 2010-11-11 22:05:01 --> Config Class Initialized
+DEBUG - 2010-11-11 22:05:01 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:05:01 --> URI Class Initialized
+DEBUG - 2010-11-11 22:05:01 --> Router Class Initialized
+DEBUG - 2010-11-11 22:05:01 --> Output Class Initialized
+DEBUG - 2010-11-11 22:05:01 --> Input Class Initialized
+DEBUG - 2010-11-11 22:05:01 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:05:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:05:01 --> Language Class Initialized
+DEBUG - 2010-11-11 22:05:01 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:05:01 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:05:01 --> Session Class Initialized
+DEBUG - 2010-11-11 22:05:01 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:05:01 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:05:01 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:05:01 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:05:01 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:05:01 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:05:01 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c372f7f6573b0352aceec4007c0eb73b'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:05:01 --> Session routines successfully run
+DEBUG - 2010-11-11 22:05:01 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:05:01 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:05:01 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:05:01 --> 404 Page Not Found --> home/submit
+DEBUG - 2010-11-11 22:05:29 --> Config Class Initialized
+DEBUG - 2010-11-11 22:05:29 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:05:29 --> URI Class Initialized
+DEBUG - 2010-11-11 22:05:29 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:05:29 --> Router Class Initialized
+DEBUG - 2010-11-11 22:05:29 --> Output Class Initialized
+DEBUG - 2010-11-11 22:05:29 --> Input Class Initialized
+DEBUG - 2010-11-11 22:05:29 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:05:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:05:29 --> Language Class Initialized
+DEBUG - 2010-11-11 22:05:29 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:05:29 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:05:29 --> Session Class Initialized
+DEBUG - 2010-11-11 22:05:29 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:05:29 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:05:29 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:05:29 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:05:29 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:05:29 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:05:29 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c372f7f6573b0352aceec4007c0eb73b'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:05:29 --> Session routines successfully run
+DEBUG - 2010-11-11 22:05:29 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:05:29 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:05:29 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:05:29 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:05:29 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:05:29 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:05:29 --> Final output sent to browser
+DEBUG - 2010-11-11 22:05:29 --> Total execution time: 0.0694
+DEBUG - 2010-11-11 22:05:49 --> Config Class Initialized
+DEBUG - 2010-11-11 22:05:49 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:05:49 --> URI Class Initialized
+DEBUG - 2010-11-11 22:05:49 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:05:49 --> Router Class Initialized
+DEBUG - 2010-11-11 22:05:49 --> Output Class Initialized
+DEBUG - 2010-11-11 22:05:49 --> Input Class Initialized
+DEBUG - 2010-11-11 22:05:49 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:05:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:05:49 --> Language Class Initialized
+DEBUG - 2010-11-11 22:05:49 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:05:49 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:05:49 --> Session Class Initialized
+DEBUG - 2010-11-11 22:05:49 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:05:49 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:05:49 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:05:49 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:05:49 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:05:49 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:05:49 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c372f7f6573b0352aceec4007c0eb73b'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:05:49 --> Session routines successfully run
+DEBUG - 2010-11-11 22:05:49 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:05:49 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:05:49 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:05:49 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:05:49 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:05:49 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:05:49 --> Final output sent to browser
+DEBUG - 2010-11-11 22:05:49 --> Total execution time: 0.0708
+DEBUG - 2010-11-11 22:06:16 --> Config Class Initialized
+DEBUG - 2010-11-11 22:06:16 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:06:16 --> URI Class Initialized
+DEBUG - 2010-11-11 22:06:16 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:06:16 --> Router Class Initialized
+DEBUG - 2010-11-11 22:06:16 --> Output Class Initialized
+DEBUG - 2010-11-11 22:06:16 --> Input Class Initialized
+DEBUG - 2010-11-11 22:06:16 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:06:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:06:16 --> Language Class Initialized
+DEBUG - 2010-11-11 22:06:16 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:06:16 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:06:16 --> Session Class Initialized
+DEBUG - 2010-11-11 22:06:16 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:06:16 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:06:16 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:06:16 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:06:16 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:06:16 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:06:16 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '7ae690ec8b3c3db0c117e203cbf4328e'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 22:06:16 --> SQL : UPDATE ci_sessions SET last_activity = 1289531176, session_id = '38ff7dc726d447566a42ab26aa3dbfb1' WHERE session_id = '7ae690ec8b3c3db0c117e203cbf4328e'
+DEBUG - 2010-11-11 22:06:16 --> Session routines successfully run
+DEBUG - 2010-11-11 22:06:16 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:06:16 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:06:16 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:06:16 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:06:16 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:06:16 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:06:16 --> Final output sent to browser
+DEBUG - 2010-11-11 22:06:16 --> Total execution time: 0.0815
+DEBUG - 2010-11-11 22:06:27 --> Config Class Initialized
+DEBUG - 2010-11-11 22:06:27 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:06:27 --> URI Class Initialized
+DEBUG - 2010-11-11 22:06:27 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:06:27 --> Router Class Initialized
+DEBUG - 2010-11-11 22:06:27 --> Output Class Initialized
+DEBUG - 2010-11-11 22:06:27 --> Input Class Initialized
+DEBUG - 2010-11-11 22:06:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:06:27 --> Language Class Initialized
+DEBUG - 2010-11-11 22:06:27 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:06:27 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:06:27 --> Session Class Initialized
+DEBUG - 2010-11-11 22:06:27 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:06:27 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:06:28 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:06:28 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:06:28 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:06:28 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:06:28 --> A session cookie was not found.
+DEBUG - 2010-11-11 22:06:28 --> SQL : INSERT INTO ci_sessions (session_id, ip_address, user_agent, last_activity) VALUES ('ee3df18dfbda50d69ff4197aba310114', '0.0.0.0', 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; ', 1289531188)
+DEBUG - 2010-11-11 22:06:28 --> Session routines successfully run
+DEBUG - 2010-11-11 22:06:28 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:06:28 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:06:28 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:06:28 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:06:28 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:06:28 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:06:28 --> Final output sent to browser
+DEBUG - 2010-11-11 22:06:28 --> Total execution time: 0.0362
+DEBUG - 2010-11-11 22:06:29 --> Config Class Initialized
+DEBUG - 2010-11-11 22:06:29 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:06:29 --> URI Class Initialized
+DEBUG - 2010-11-11 22:06:29 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:06:29 --> Router Class Initialized
+DEBUG - 2010-11-11 22:06:29 --> Output Class Initialized
+DEBUG - 2010-11-11 22:06:29 --> Input Class Initialized
+DEBUG - 2010-11-11 22:06:29 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:06:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:06:29 --> Language Class Initialized
+DEBUG - 2010-11-11 22:06:29 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:06:29 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:06:29 --> Session Class Initialized
+DEBUG - 2010-11-11 22:06:29 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:06:29 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:06:29 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:06:29 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:06:29 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:06:29 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:06:29 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'ee3df18dfbda50d69ff4197aba310114'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:06:29 --> Session routines successfully run
+DEBUG - 2010-11-11 22:06:29 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:06:29 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:06:29 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:06:29 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:06:29 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:06:29 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:06:29 --> Final output sent to browser
+DEBUG - 2010-11-11 22:06:29 --> Total execution time: 0.0408
+DEBUG - 2010-11-11 22:06:35 --> Config Class Initialized
+DEBUG - 2010-11-11 22:06:35 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:06:35 --> URI Class Initialized
+DEBUG - 2010-11-11 22:06:35 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:06:35 --> Router Class Initialized
+DEBUG - 2010-11-11 22:06:35 --> Output Class Initialized
+DEBUG - 2010-11-11 22:06:35 --> Input Class Initialized
+DEBUG - 2010-11-11 22:06:35 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:06:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:06:35 --> Language Class Initialized
+DEBUG - 2010-11-11 22:06:35 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:06:35 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:06:35 --> Session Class Initialized
+DEBUG - 2010-11-11 22:06:35 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:06:35 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:06:35 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:06:35 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:06:35 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:06:35 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:06:35 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '378af01a8dcbbf25d23e22fccfeecc94'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 22:06:35 --> SQL : UPDATE ci_sessions SET last_activity = 1289531195, session_id = 'dec23a5072d94248ae05b48127a4871c' WHERE session_id = '378af01a8dcbbf25d23e22fccfeecc94'
+DEBUG - 2010-11-11 22:06:35 --> Session routines successfully run
+DEBUG - 2010-11-11 22:06:35 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:06:35 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:06:35 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:06:35 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:06:35 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:06:35 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:06:35 --> Final output sent to browser
+DEBUG - 2010-11-11 22:06:35 --> Total execution time: 0.0766
+DEBUG - 2010-11-11 22:08:32 --> Config Class Initialized
+DEBUG - 2010-11-11 22:08:32 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:08:32 --> URI Class Initialized
+DEBUG - 2010-11-11 22:08:32 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:08:32 --> Router Class Initialized
+DEBUG - 2010-11-11 22:08:32 --> Output Class Initialized
+DEBUG - 2010-11-11 22:08:32 --> Input Class Initialized
+DEBUG - 2010-11-11 22:08:32 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:08:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:08:32 --> Language Class Initialized
+DEBUG - 2010-11-11 22:08:32 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:08:32 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:08:32 --> Session Class Initialized
+DEBUG - 2010-11-11 22:08:32 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:08:32 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:08:32 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:08:32 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:08:32 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:08:32 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:08:32 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '38ff7dc726d447566a42ab26aa3dbfb1'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 22:08:32 --> Session routines successfully run
+DEBUG - 2010-11-11 22:08:32 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:08:32 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:08:32 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:08:32 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:08:32 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:08:32 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:08:32 --> Final output sent to browser
+DEBUG - 2010-11-11 22:08:32 --> Total execution time: 0.0747
+DEBUG - 2010-11-11 22:08:33 --> Config Class Initialized
+DEBUG - 2010-11-11 22:08:33 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:08:33 --> URI Class Initialized
+DEBUG - 2010-11-11 22:08:33 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:08:33 --> Router Class Initialized
+DEBUG - 2010-11-11 22:08:33 --> Output Class Initialized
+DEBUG - 2010-11-11 22:08:33 --> Input Class Initialized
+DEBUG - 2010-11-11 22:08:33 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:08:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:08:33 --> Language Class Initialized
+DEBUG - 2010-11-11 22:08:33 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:08:33 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:08:33 --> Session Class Initialized
+DEBUG - 2010-11-11 22:08:33 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:08:33 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:08:33 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:08:33 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:08:33 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:08:33 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:08:33 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'ee3df18dfbda50d69ff4197aba310114'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:08:33 --> Session routines successfully run
+DEBUG - 2010-11-11 22:08:33 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:08:33 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:08:33 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:08:33 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:08:33 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:08:33 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:08:33 --> Final output sent to browser
+DEBUG - 2010-11-11 22:08:33 --> Total execution time: 0.0313
+DEBUG - 2010-11-11 22:08:58 --> Config Class Initialized
+DEBUG - 2010-11-11 22:08:58 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:08:58 --> URI Class Initialized
+DEBUG - 2010-11-11 22:08:58 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:08:58 --> Router Class Initialized
+DEBUG - 2010-11-11 22:08:58 --> Output Class Initialized
+DEBUG - 2010-11-11 22:08:58 --> Input Class Initialized
+DEBUG - 2010-11-11 22:08:58 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:08:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:08:58 --> Language Class Initialized
+DEBUG - 2010-11-11 22:08:58 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:08:58 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:08:58 --> Session Class Initialized
+DEBUG - 2010-11-11 22:08:58 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:08:58 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:08:58 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:08:58 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:08:58 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:08:58 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:08:58 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'ee3df18dfbda50d69ff4197aba310114'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:08:58 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289524138
+DEBUG - 2010-11-11 22:08:58 --> Session garbage collection performed.
+DEBUG - 2010-11-11 22:08:58 --> Session routines successfully run
+DEBUG - 2010-11-11 22:08:58 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:08:58 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:08:58 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:08:58 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:08:58 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:08:58 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:08:58 --> Final output sent to browser
+DEBUG - 2010-11-11 22:08:58 --> Total execution time: 0.0784
+DEBUG - 2010-11-11 22:09:00 --> Config Class Initialized
+DEBUG - 2010-11-11 22:09:00 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:09:00 --> URI Class Initialized
+DEBUG - 2010-11-11 22:09:00 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:09:00 --> Router Class Initialized
+DEBUG - 2010-11-11 22:09:00 --> Output Class Initialized
+DEBUG - 2010-11-11 22:09:00 --> Input Class Initialized
+DEBUG - 2010-11-11 22:09:00 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:09:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:09:00 --> Language Class Initialized
+DEBUG - 2010-11-11 22:09:00 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:09:00 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:09:00 --> Session Class Initialized
+DEBUG - 2010-11-11 22:09:00 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:09:00 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:09:00 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:09:00 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:09:00 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:09:00 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:09:00 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'ee3df18dfbda50d69ff4197aba310114'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:09:00 --> Session routines successfully run
+DEBUG - 2010-11-11 22:09:00 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:09:00 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:09:00 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:09:00 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:09:00 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:09:00 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:09:00 --> Final output sent to browser
+DEBUG - 2010-11-11 22:09:00 --> Total execution time: 0.0687
+DEBUG - 2010-11-11 22:09:09 --> Config Class Initialized
+DEBUG - 2010-11-11 22:09:09 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:09:09 --> URI Class Initialized
+DEBUG - 2010-11-11 22:09:09 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:09:09 --> Router Class Initialized
+DEBUG - 2010-11-11 22:09:09 --> Output Class Initialized
+DEBUG - 2010-11-11 22:09:09 --> Input Class Initialized
+DEBUG - 2010-11-11 22:09:09 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:09:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:09:09 --> Language Class Initialized
+DEBUG - 2010-11-11 22:09:09 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:09:09 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:09:09 --> Session Class Initialized
+DEBUG - 2010-11-11 22:09:09 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:09:09 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:09:09 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:09:09 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:09:09 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:09:09 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:09:09 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'ee3df18dfbda50d69ff4197aba310114'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:09:09 --> Session routines successfully run
+DEBUG - 2010-11-11 22:09:09 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:09:09 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:09:09 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:09:09 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:09:09 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:09:09 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:09:09 --> Final output sent to browser
+DEBUG - 2010-11-11 22:09:09 --> Total execution time: 0.0583
+DEBUG - 2010-11-11 22:09:10 --> Config Class Initialized
+DEBUG - 2010-11-11 22:09:10 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:09:10 --> URI Class Initialized
+DEBUG - 2010-11-11 22:09:10 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:09:10 --> Router Class Initialized
+DEBUG - 2010-11-11 22:09:10 --> Output Class Initialized
+DEBUG - 2010-11-11 22:09:10 --> Input Class Initialized
+DEBUG - 2010-11-11 22:09:10 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:09:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:09:10 --> Language Class Initialized
+DEBUG - 2010-11-11 22:09:10 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:09:10 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:09:10 --> Session Class Initialized
+DEBUG - 2010-11-11 22:09:10 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:09:10 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:09:10 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:09:10 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:09:10 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:09:10 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:09:10 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'ee3df18dfbda50d69ff4197aba310114'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:09:10 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289524150
+DEBUG - 2010-11-11 22:09:10 --> Session garbage collection performed.
+DEBUG - 2010-11-11 22:09:10 --> Session routines successfully run
+DEBUG - 2010-11-11 22:09:10 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:09:10 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:09:10 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:09:10 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:09:10 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:09:10 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:09:10 --> Final output sent to browser
+DEBUG - 2010-11-11 22:09:10 --> Total execution time: 0.0698
+DEBUG - 2010-11-11 22:09:19 --> Config Class Initialized
+DEBUG - 2010-11-11 22:09:19 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:09:19 --> URI Class Initialized
+DEBUG - 2010-11-11 22:09:19 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:09:19 --> Router Class Initialized
+DEBUG - 2010-11-11 22:09:19 --> Output Class Initialized
+DEBUG - 2010-11-11 22:09:19 --> Input Class Initialized
+DEBUG - 2010-11-11 22:09:19 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:09:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:09:19 --> Language Class Initialized
+DEBUG - 2010-11-11 22:09:19 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:09:19 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:09:19 --> Session Class Initialized
+DEBUG - 2010-11-11 22:09:19 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:09:19 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:09:19 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:09:19 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:09:19 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:09:19 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:09:19 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'ee3df18dfbda50d69ff4197aba310114'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:09:19 --> Session routines successfully run
+DEBUG - 2010-11-11 22:09:19 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:09:19 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:09:19 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:09:19 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:09:19 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:09:19 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:09:19 --> Final output sent to browser
+DEBUG - 2010-11-11 22:09:19 --> Total execution time: 0.0325
+DEBUG - 2010-11-11 22:09:22 --> Config Class Initialized
+DEBUG - 2010-11-11 22:09:22 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:09:22 --> URI Class Initialized
+DEBUG - 2010-11-11 22:09:22 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:09:22 --> Router Class Initialized
+DEBUG - 2010-11-11 22:09:22 --> Output Class Initialized
+DEBUG - 2010-11-11 22:09:22 --> Input Class Initialized
+DEBUG - 2010-11-11 22:09:22 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:09:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:09:22 --> Language Class Initialized
+DEBUG - 2010-11-11 22:09:22 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:09:22 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:09:22 --> Session Class Initialized
+DEBUG - 2010-11-11 22:09:22 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:09:22 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:09:22 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:09:22 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:09:22 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:09:22 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:09:22 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'ee3df18dfbda50d69ff4197aba310114'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:09:22 --> Session routines successfully run
+DEBUG - 2010-11-11 22:09:22 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:09:22 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:09:22 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:09:22 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:09:22 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:09:22 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:09:22 --> Final output sent to browser
+DEBUG - 2010-11-11 22:09:22 --> Total execution time: 0.0695
+DEBUG - 2010-11-11 22:09:24 --> Config Class Initialized
+DEBUG - 2010-11-11 22:09:24 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:09:24 --> URI Class Initialized
+DEBUG - 2010-11-11 22:09:25 --> Router Class Initialized
+DEBUG - 2010-11-11 22:09:25 --> Output Class Initialized
+DEBUG - 2010-11-11 22:09:25 --> Input Class Initialized
+DEBUG - 2010-11-11 22:09:25 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:09:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:09:25 --> Language Class Initialized
+DEBUG - 2010-11-11 22:09:25 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:09:25 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:09:25 --> Session Class Initialized
+DEBUG - 2010-11-11 22:09:25 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:09:25 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:09:25 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:09:25 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:09:25 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:09:25 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:09:25 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'ee3df18dfbda50d69ff4197aba310114'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:09:25 --> Session routines successfully run
+DEBUG - 2010-11-11 22:09:25 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:09:25 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:09:25 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:09:25 --> 404 Page Not Found --> home/advsearch
+DEBUG - 2010-11-11 22:09:30 --> Config Class Initialized
+DEBUG - 2010-11-11 22:09:30 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:09:30 --> URI Class Initialized
+DEBUG - 2010-11-11 22:09:30 --> Router Class Initialized
+DEBUG - 2010-11-11 22:09:30 --> Output Class Initialized
+DEBUG - 2010-11-11 22:09:30 --> Input Class Initialized
+DEBUG - 2010-11-11 22:09:30 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:09:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:09:30 --> Language Class Initialized
+DEBUG - 2010-11-11 22:09:30 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:09:30 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:09:30 --> Session Class Initialized
+DEBUG - 2010-11-11 22:09:30 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:09:30 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:09:30 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:09:30 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:09:30 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:09:30 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:09:30 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'ee3df18dfbda50d69ff4197aba310114'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:09:30 --> Session routines successfully run
+DEBUG - 2010-11-11 22:09:30 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:09:30 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:09:30 --> Config file loaded: config/form.php
+DEBUG - 2010-11-11 22:09:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-11-11 22:09:30 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/form.php
+DEBUG - 2010-11-11 22:09:30 --> Final output sent to browser
+DEBUG - 2010-11-11 22:09:30 --> Total execution time: 0.0688
+DEBUG - 2010-11-11 22:09:35 --> Config Class Initialized
+DEBUG - 2010-11-11 22:09:35 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:09:35 --> URI Class Initialized
+DEBUG - 2010-11-11 22:09:35 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:09:35 --> Router Class Initialized
+DEBUG - 2010-11-11 22:09:35 --> Output Class Initialized
+DEBUG - 2010-11-11 22:09:35 --> Input Class Initialized
+DEBUG - 2010-11-11 22:09:35 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:09:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:09:35 --> Language Class Initialized
+DEBUG - 2010-11-11 22:09:35 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:09:35 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:09:35 --> Session Class Initialized
+DEBUG - 2010-11-11 22:09:35 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:09:35 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:09:35 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:09:35 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:09:35 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:09:35 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:09:35 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '38ff7dc726d447566a42ab26aa3dbfb1'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 22:09:35 --> Session routines successfully run
+DEBUG - 2010-11-11 22:09:35 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:09:35 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:09:35 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:09:35 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:09:35 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:09:35 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:09:36 --> Final output sent to browser
+DEBUG - 2010-11-11 22:09:36 --> Total execution time: 0.0703
+DEBUG - 2010-11-11 22:09:54 --> Config Class Initialized
+DEBUG - 2010-11-11 22:09:54 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:09:54 --> URI Class Initialized
+DEBUG - 2010-11-11 22:09:54 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:09:54 --> Router Class Initialized
+DEBUG - 2010-11-11 22:09:54 --> Output Class Initialized
+DEBUG - 2010-11-11 22:09:54 --> Input Class Initialized
+DEBUG - 2010-11-11 22:09:54 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:09:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:09:54 --> Language Class Initialized
+DEBUG - 2010-11-11 22:09:54 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:09:54 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:09:54 --> Session Class Initialized
+DEBUG - 2010-11-11 22:09:54 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:09:54 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:09:54 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:09:54 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:09:54 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:09:54 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:09:54 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '38ff7dc726d447566a42ab26aa3dbfb1'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 22:09:54 --> Session routines successfully run
+DEBUG - 2010-11-11 22:09:54 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:09:54 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:09:54 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:09:54 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:09:54 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:09:54 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:09:54 --> Final output sent to browser
+DEBUG - 2010-11-11 22:09:54 --> Total execution time: 0.0696
+DEBUG - 2010-11-11 22:09:59 --> Config Class Initialized
+DEBUG - 2010-11-11 22:09:59 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:09:59 --> URI Class Initialized
+DEBUG - 2010-11-11 22:09:59 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:09:59 --> Router Class Initialized
+DEBUG - 2010-11-11 22:09:59 --> Output Class Initialized
+DEBUG - 2010-11-11 22:09:59 --> Input Class Initialized
+DEBUG - 2010-11-11 22:09:59 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:09:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:09:59 --> Language Class Initialized
+DEBUG - 2010-11-11 22:09:59 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:09:59 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:09:59 --> Session Class Initialized
+DEBUG - 2010-11-11 22:09:59 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:09:59 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:09:59 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:09:59 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:09:59 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:09:59 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:09:59 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'ee3df18dfbda50d69ff4197aba310114'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:09:59 --> Session routines successfully run
+DEBUG - 2010-11-11 22:09:59 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:09:59 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:09:59 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:09:59 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:09:59 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:09:59 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:09:59 --> Final output sent to browser
+DEBUG - 2010-11-11 22:09:59 --> Total execution time: 0.0707
+DEBUG - 2010-11-11 22:10:21 --> Config Class Initialized
+DEBUG - 2010-11-11 22:10:21 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:10:21 --> URI Class Initialized
+DEBUG - 2010-11-11 22:10:21 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:10:21 --> Router Class Initialized
+DEBUG - 2010-11-11 22:10:21 --> Output Class Initialized
+DEBUG - 2010-11-11 22:10:21 --> Input Class Initialized
+DEBUG - 2010-11-11 22:10:21 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:10:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:10:21 --> Language Class Initialized
+DEBUG - 2010-11-11 22:10:21 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:10:21 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:10:21 --> Session Class Initialized
+DEBUG - 2010-11-11 22:10:21 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:10:21 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:10:21 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:10:21 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:10:21 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:10:21 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:10:21 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'ee3df18dfbda50d69ff4197aba310114'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:10:21 --> Session routines successfully run
+DEBUG - 2010-11-11 22:10:21 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:10:21 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:10:21 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:10:21 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:10:21 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:10:21 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:10:21 --> Final output sent to browser
+DEBUG - 2010-11-11 22:10:21 --> Total execution time: 0.0699
+DEBUG - 2010-11-11 22:10:32 --> Config Class Initialized
+DEBUG - 2010-11-11 22:10:32 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:10:32 --> URI Class Initialized
+DEBUG - 2010-11-11 22:10:32 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:10:32 --> Router Class Initialized
+DEBUG - 2010-11-11 22:10:32 --> Output Class Initialized
+DEBUG - 2010-11-11 22:10:32 --> Input Class Initialized
+DEBUG - 2010-11-11 22:10:32 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:10:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:10:32 --> Language Class Initialized
+DEBUG - 2010-11-11 22:10:32 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:10:32 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:10:32 --> Session Class Initialized
+DEBUG - 2010-11-11 22:10:32 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:10:32 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:10:32 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:10:32 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:10:32 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:10:32 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:10:32 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'ee3df18dfbda50d69ff4197aba310114'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:10:32 --> Session routines successfully run
+DEBUG - 2010-11-11 22:10:32 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:10:32 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:10:32 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:10:32 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:10:32 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:10:32 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:10:32 --> Final output sent to browser
+DEBUG - 2010-11-11 22:10:32 --> Total execution time: 0.1013
+DEBUG - 2010-11-11 22:12:02 --> Config Class Initialized
+DEBUG - 2010-11-11 22:12:02 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:12:02 --> URI Class Initialized
+DEBUG - 2010-11-11 22:12:02 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:12:02 --> Router Class Initialized
+DEBUG - 2010-11-11 22:12:02 --> Output Class Initialized
+DEBUG - 2010-11-11 22:12:02 --> Input Class Initialized
+DEBUG - 2010-11-11 22:12:02 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:12:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:12:02 --> Language Class Initialized
+DEBUG - 2010-11-11 22:12:02 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:12:02 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:12:02 --> Session Class Initialized
+DEBUG - 2010-11-11 22:12:02 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:12:02 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:12:03 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:12:03 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:12:03 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:12:03 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:12:03 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'ee3df18dfbda50d69ff4197aba310114'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:12:03 --> SQL : UPDATE ci_sessions SET last_activity = 1289531523, session_id = '870aeb61a91909e1d0b0415652581981' WHERE session_id = 'ee3df18dfbda50d69ff4197aba310114'
+DEBUG - 2010-11-11 22:12:03 --> Session routines successfully run
+DEBUG - 2010-11-11 22:12:03 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:12:03 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:12:03 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:12:03 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:12:03 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:12:03 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:12:03 --> Final output sent to browser
+DEBUG - 2010-11-11 22:12:03 --> Total execution time: 0.0550
+DEBUG - 2010-11-11 22:12:44 --> Config Class Initialized
+DEBUG - 2010-11-11 22:12:44 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:12:44 --> URI Class Initialized
+DEBUG - 2010-11-11 22:12:44 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:12:44 --> Router Class Initialized
+DEBUG - 2010-11-11 22:12:44 --> Output Class Initialized
+DEBUG - 2010-11-11 22:12:44 --> Input Class Initialized
+DEBUG - 2010-11-11 22:12:44 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:12:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:12:44 --> Language Class Initialized
+DEBUG - 2010-11-11 22:12:44 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:12:44 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:12:44 --> Session Class Initialized
+DEBUG - 2010-11-11 22:12:44 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:12:44 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:12:44 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:12:44 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:12:44 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:12:44 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:12:44 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '870aeb61a91909e1d0b0415652581981'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:12:44 --> Session routines successfully run
+DEBUG - 2010-11-11 22:12:44 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:12:44 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:12:44 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:12:44 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:12:44 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:12:44 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:12:44 --> Final output sent to browser
+DEBUG - 2010-11-11 22:12:44 --> Total execution time: 0.0674
+DEBUG - 2010-11-11 22:13:21 --> Config Class Initialized
+DEBUG - 2010-11-11 22:13:21 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:13:21 --> URI Class Initialized
+DEBUG - 2010-11-11 22:13:21 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:13:21 --> Router Class Initialized
+DEBUG - 2010-11-11 22:13:21 --> Output Class Initialized
+DEBUG - 2010-11-11 22:13:21 --> Input Class Initialized
+DEBUG - 2010-11-11 22:13:21 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:13:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:13:21 --> Language Class Initialized
+DEBUG - 2010-11-11 22:13:21 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:13:21 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:13:21 --> Session Class Initialized
+DEBUG - 2010-11-11 22:13:21 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:13:21 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:13:21 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:13:21 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:13:21 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:13:21 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:13:21 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'dec23a5072d94248ae05b48127a4871c'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 22:13:21 --> SQL : UPDATE ci_sessions SET last_activity = 1289531601, session_id = '6df1b711e32e82f1fe0c5a86a30894a9' WHERE session_id = 'dec23a5072d94248ae05b48127a4871c'
+DEBUG - 2010-11-11 22:13:21 --> Session routines successfully run
+DEBUG - 2010-11-11 22:13:21 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:13:21 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:13:21 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:13:21 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:13:21 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:13:21 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:13:21 --> Final output sent to browser
+DEBUG - 2010-11-11 22:13:21 --> Total execution time: 0.0786
+DEBUG - 2010-11-11 22:14:28 --> Config Class Initialized
+DEBUG - 2010-11-11 22:14:28 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:14:28 --> URI Class Initialized
+DEBUG - 2010-11-11 22:14:28 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:14:28 --> Router Class Initialized
+DEBUG - 2010-11-11 22:14:28 --> Output Class Initialized
+DEBUG - 2010-11-11 22:14:28 --> Input Class Initialized
+DEBUG - 2010-11-11 22:14:28 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:14:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:14:28 --> Language Class Initialized
+DEBUG - 2010-11-11 22:14:28 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:14:28 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:14:28 --> Session Class Initialized
+DEBUG - 2010-11-11 22:14:28 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:14:28 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:14:28 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:14:28 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:14:28 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:14:28 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:14:28 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '6df1b711e32e82f1fe0c5a86a30894a9'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 22:14:28 --> Session routines successfully run
+DEBUG - 2010-11-11 22:14:28 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:14:28 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:14:28 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:14:28 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:14:28 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:14:28 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:14:28 --> Final output sent to browser
+DEBUG - 2010-11-11 22:14:28 --> Total execution time: 0.0725
+DEBUG - 2010-11-11 22:14:34 --> Config Class Initialized
+DEBUG - 2010-11-11 22:14:34 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:14:34 --> URI Class Initialized
+DEBUG - 2010-11-11 22:14:34 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:14:34 --> Router Class Initialized
+DEBUG - 2010-11-11 22:14:34 --> Output Class Initialized
+DEBUG - 2010-11-11 22:14:34 --> Input Class Initialized
+DEBUG - 2010-11-11 22:14:34 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:14:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:14:34 --> Language Class Initialized
+DEBUG - 2010-11-11 22:14:34 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:14:34 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:14:34 --> Session Class Initialized
+DEBUG - 2010-11-11 22:14:34 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:14:34 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:14:34 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:14:34 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:14:34 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:14:34 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:14:34 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '6df1b711e32e82f1fe0c5a86a30894a9'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 22:14:34 --> Session routines successfully run
+DEBUG - 2010-11-11 22:14:34 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:14:34 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:14:34 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:14:34 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:14:34 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:14:34 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:14:34 --> Final output sent to browser
+DEBUG - 2010-11-11 22:14:34 --> Total execution time: 0.0698
+DEBUG - 2010-11-11 22:14:59 --> Config Class Initialized
+DEBUG - 2010-11-11 22:14:59 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:14:59 --> URI Class Initialized
+DEBUG - 2010-11-11 22:14:59 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:14:59 --> Router Class Initialized
+DEBUG - 2010-11-11 22:14:59 --> Output Class Initialized
+DEBUG - 2010-11-11 22:14:59 --> Input Class Initialized
+DEBUG - 2010-11-11 22:14:59 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:14:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:14:59 --> Language Class Initialized
+DEBUG - 2010-11-11 22:14:59 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:14:59 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:14:59 --> Session Class Initialized
+DEBUG - 2010-11-11 22:14:59 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:14:59 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:14:59 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:14:59 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:14:59 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:14:59 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:14:59 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '6df1b711e32e82f1fe0c5a86a30894a9'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 22:14:59 --> Session routines successfully run
+DEBUG - 2010-11-11 22:14:59 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:14:59 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:14:59 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:14:59 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:14:59 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:14:59 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:14:59 --> Final output sent to browser
+DEBUG - 2010-11-11 22:14:59 --> Total execution time: 0.0714
+DEBUG - 2010-11-11 22:15:05 --> Config Class Initialized
+DEBUG - 2010-11-11 22:15:05 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:15:05 --> URI Class Initialized
+DEBUG - 2010-11-11 22:15:05 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:15:05 --> Router Class Initialized
+DEBUG - 2010-11-11 22:15:05 --> Output Class Initialized
+DEBUG - 2010-11-11 22:15:05 --> Input Class Initialized
+DEBUG - 2010-11-11 22:15:05 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:15:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:15:05 --> Language Class Initialized
+DEBUG - 2010-11-11 22:15:05 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:15:05 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:15:05 --> Session Class Initialized
+DEBUG - 2010-11-11 22:15:05 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:15:05 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:15:05 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:15:05 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:15:05 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:15:05 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:15:05 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '6df1b711e32e82f1fe0c5a86a30894a9'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 22:15:05 --> Session routines successfully run
+DEBUG - 2010-11-11 22:15:05 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:15:05 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:15:05 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:15:05 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:15:05 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:15:05 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:15:05 --> Final output sent to browser
+DEBUG - 2010-11-11 22:15:05 --> Total execution time: 0.0746
+DEBUG - 2010-11-11 22:15:15 --> Config Class Initialized
+DEBUG - 2010-11-11 22:15:15 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:15:15 --> URI Class Initialized
+DEBUG - 2010-11-11 22:15:15 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:15:15 --> Router Class Initialized
+DEBUG - 2010-11-11 22:15:15 --> Output Class Initialized
+DEBUG - 2010-11-11 22:15:15 --> Input Class Initialized
+DEBUG - 2010-11-11 22:15:15 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:15:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:15:15 --> Language Class Initialized
+DEBUG - 2010-11-11 22:15:15 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:15:15 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:15:15 --> Session Class Initialized
+DEBUG - 2010-11-11 22:15:15 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:15:15 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:15:15 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:15:15 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:15:15 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:15:15 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:15:15 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '6df1b711e32e82f1fe0c5a86a30894a9'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 22:15:15 --> Session routines successfully run
+DEBUG - 2010-11-11 22:15:15 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:15:15 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:15:15 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:15:15 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:15:15 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:15:15 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:15:15 --> Final output sent to browser
+DEBUG - 2010-11-11 22:15:15 --> Total execution time: 0.1018
+DEBUG - 2010-11-11 22:15:16 --> Config Class Initialized
+DEBUG - 2010-11-11 22:15:16 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:15:16 --> URI Class Initialized
+DEBUG - 2010-11-11 22:15:16 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:15:16 --> Router Class Initialized
+DEBUG - 2010-11-11 22:15:16 --> Output Class Initialized
+DEBUG - 2010-11-11 22:15:16 --> Input Class Initialized
+DEBUG - 2010-11-11 22:15:16 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:15:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:15:16 --> Language Class Initialized
+DEBUG - 2010-11-11 22:15:16 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:15:16 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:15:16 --> Session Class Initialized
+DEBUG - 2010-11-11 22:15:16 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:15:16 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:15:16 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:15:16 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:15:16 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:15:16 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:15:16 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '6df1b711e32e82f1fe0c5a86a30894a9'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 22:15:16 --> Session routines successfully run
+DEBUG - 2010-11-11 22:15:16 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:15:16 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:15:16 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:15:16 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:15:16 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:15:16 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:15:16 --> Final output sent to browser
+DEBUG - 2010-11-11 22:15:16 --> Total execution time: 0.0739
+DEBUG - 2010-11-11 22:15:21 --> Config Class Initialized
+DEBUG - 2010-11-11 22:15:21 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:15:21 --> URI Class Initialized
+DEBUG - 2010-11-11 22:15:21 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:15:21 --> Router Class Initialized
+DEBUG - 2010-11-11 22:15:21 --> Output Class Initialized
+DEBUG - 2010-11-11 22:15:21 --> Input Class Initialized
+DEBUG - 2010-11-11 22:15:21 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:15:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:15:21 --> Language Class Initialized
+DEBUG - 2010-11-11 22:15:21 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:15:21 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:15:21 --> Session Class Initialized
+DEBUG - 2010-11-11 22:15:21 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:15:21 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:15:21 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:15:21 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:15:21 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:15:21 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:15:21 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '6df1b711e32e82f1fe0c5a86a30894a9'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 22:15:21 --> Session routines successfully run
+DEBUG - 2010-11-11 22:15:21 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:15:21 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:15:21 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:15:21 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:15:21 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:15:21 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:15:21 --> Final output sent to browser
+DEBUG - 2010-11-11 22:15:21 --> Total execution time: 0.0719
+DEBUG - 2010-11-11 22:17:25 --> Config Class Initialized
+DEBUG - 2010-11-11 22:17:25 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:17:25 --> URI Class Initialized
+DEBUG - 2010-11-11 22:17:25 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:17:25 --> Router Class Initialized
+DEBUG - 2010-11-11 22:17:25 --> Output Class Initialized
+DEBUG - 2010-11-11 22:17:25 --> Input Class Initialized
+DEBUG - 2010-11-11 22:17:25 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:17:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:17:25 --> Language Class Initialized
+DEBUG - 2010-11-11 22:17:25 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:17:25 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:17:25 --> Session Class Initialized
+DEBUG - 2010-11-11 22:17:25 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:17:25 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:17:25 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:17:25 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:17:25 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:17:25 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:17:25 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '6df1b711e32e82f1fe0c5a86a30894a9'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 22:17:25 --> Session routines successfully run
+DEBUG - 2010-11-11 22:17:25 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:17:25 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:17:25 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:17:25 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:17:25 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:17:25 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:17:25 --> Final output sent to browser
+DEBUG - 2010-11-11 22:17:25 --> Total execution time: 0.0711
+DEBUG - 2010-11-11 22:17:44 --> Config Class Initialized
+DEBUG - 2010-11-11 22:17:44 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:17:44 --> URI Class Initialized
+DEBUG - 2010-11-11 22:17:44 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:17:44 --> Router Class Initialized
+DEBUG - 2010-11-11 22:17:44 --> Output Class Initialized
+DEBUG - 2010-11-11 22:17:44 --> Input Class Initialized
+DEBUG - 2010-11-11 22:17:44 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:17:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:17:44 --> Language Class Initialized
+DEBUG - 2010-11-11 22:17:44 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:17:44 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:17:44 --> Session Class Initialized
+DEBUG - 2010-11-11 22:17:44 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:17:44 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:17:44 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:17:44 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:17:44 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:17:44 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:17:44 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '6df1b711e32e82f1fe0c5a86a30894a9'
+AND user_agent = 'Opera/9.80 (Macintosh; Intel Mac OS X; U; fr) Pres'
+DEBUG - 2010-11-11 22:17:44 --> Session routines successfully run
+DEBUG - 2010-11-11 22:17:44 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:17:44 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:17:44 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:17:44 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:17:44 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:17:44 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:17:44 --> Final output sent to browser
+DEBUG - 2010-11-11 22:17:44 --> Total execution time: 0.0718
+DEBUG - 2010-11-11 22:19:15 --> Config Class Initialized
+DEBUG - 2010-11-11 22:19:15 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:19:15 --> URI Class Initialized
+DEBUG - 2010-11-11 22:19:15 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:19:15 --> Router Class Initialized
+DEBUG - 2010-11-11 22:19:15 --> Output Class Initialized
+DEBUG - 2010-11-11 22:19:15 --> Input Class Initialized
+DEBUG - 2010-11-11 22:19:15 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:19:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:19:15 --> Language Class Initialized
+DEBUG - 2010-11-11 22:19:15 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:19:15 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:19:15 --> Session Class Initialized
+DEBUG - 2010-11-11 22:19:15 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:19:15 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:19:15 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:19:15 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:19:15 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:19:15 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:19:15 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '38ff7dc726d447566a42ab26aa3dbfb1'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 22:19:15 --> SQL : UPDATE ci_sessions SET last_activity = 1289531955, session_id = 'be2d623f49d98cb3a9333652a66d814c' WHERE session_id = '38ff7dc726d447566a42ab26aa3dbfb1'
+DEBUG - 2010-11-11 22:19:15 --> Session routines successfully run
+DEBUG - 2010-11-11 22:19:15 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:19:15 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:19:15 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:19:15 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:19:15 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:19:15 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:19:15 --> Final output sent to browser
+DEBUG - 2010-11-11 22:19:15 --> Total execution time: 0.0753
+DEBUG - 2010-11-11 22:19:54 --> Config Class Initialized
+DEBUG - 2010-11-11 22:19:54 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:19:54 --> URI Class Initialized
+DEBUG - 2010-11-11 22:19:54 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:19:54 --> Router Class Initialized
+DEBUG - 2010-11-11 22:19:54 --> Output Class Initialized
+DEBUG - 2010-11-11 22:19:54 --> Input Class Initialized
+DEBUG - 2010-11-11 22:19:54 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:19:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:19:54 --> Language Class Initialized
+DEBUG - 2010-11-11 22:19:54 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:19:54 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:19:54 --> Session Class Initialized
+DEBUG - 2010-11-11 22:19:54 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:19:54 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:19:54 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:19:54 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:19:54 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:19:54 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:19:54 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'be2d623f49d98cb3a9333652a66d814c'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 22:19:54 --> Session routines successfully run
+DEBUG - 2010-11-11 22:19:54 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:19:54 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:19:54 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:19:54 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:19:54 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:19:54 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:19:54 --> Final output sent to browser
+DEBUG - 2010-11-11 22:19:54 --> Total execution time: 0.0408
+DEBUG - 2010-11-11 22:20:08 --> Config Class Initialized
+DEBUG - 2010-11-11 22:20:08 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:20:08 --> URI Class Initialized
+DEBUG - 2010-11-11 22:20:09 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:20:09 --> Router Class Initialized
+DEBUG - 2010-11-11 22:20:09 --> Output Class Initialized
+DEBUG - 2010-11-11 22:20:09 --> Input Class Initialized
+DEBUG - 2010-11-11 22:20:09 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:20:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:20:09 --> Language Class Initialized
+DEBUG - 2010-11-11 22:20:09 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:20:09 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:20:09 --> Session Class Initialized
+DEBUG - 2010-11-11 22:20:09 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:20:09 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:20:09 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:20:09 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:20:09 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:20:09 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:20:09 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'be2d623f49d98cb3a9333652a66d814c'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 22:20:09 --> Session routines successfully run
+DEBUG - 2010-11-11 22:20:09 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:20:09 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:20:09 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:20:09 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:20:09 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:20:09 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:20:09 --> Final output sent to browser
+DEBUG - 2010-11-11 22:20:09 --> Total execution time: 0.0736
+DEBUG - 2010-11-11 22:20:10 --> Config Class Initialized
+DEBUG - 2010-11-11 22:20:10 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:20:10 --> URI Class Initialized
+DEBUG - 2010-11-11 22:20:10 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:20:10 --> Router Class Initialized
+DEBUG - 2010-11-11 22:20:10 --> Output Class Initialized
+DEBUG - 2010-11-11 22:20:10 --> Input Class Initialized
+DEBUG - 2010-11-11 22:20:10 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:20:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:20:10 --> Language Class Initialized
+DEBUG - 2010-11-11 22:20:10 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:20:10 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:20:10 --> Session Class Initialized
+DEBUG - 2010-11-11 22:20:10 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:20:10 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:20:10 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:20:10 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:20:10 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:20:10 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:20:10 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'be2d623f49d98cb3a9333652a66d814c'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 22:20:10 --> Session routines successfully run
+DEBUG - 2010-11-11 22:20:10 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:20:10 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:20:10 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:20:10 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:20:10 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:20:10 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:20:10 --> Final output sent to browser
+DEBUG - 2010-11-11 22:20:10 --> Total execution time: 0.0337
+DEBUG - 2010-11-11 22:22:13 --> Config Class Initialized
+DEBUG - 2010-11-11 22:22:13 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:22:13 --> URI Class Initialized
+DEBUG - 2010-11-11 22:22:13 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:22:13 --> Router Class Initialized
+DEBUG - 2010-11-11 22:22:13 --> Output Class Initialized
+DEBUG - 2010-11-11 22:22:13 --> Input Class Initialized
+DEBUG - 2010-11-11 22:22:13 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:22:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:22:13 --> Language Class Initialized
+DEBUG - 2010-11-11 22:22:13 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:22:13 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:22:13 --> Session Class Initialized
+DEBUG - 2010-11-11 22:22:13 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:22:13 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:22:13 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:22:13 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:22:13 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:22:13 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:22:13 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'be2d623f49d98cb3a9333652a66d814c'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 22:22:13 --> Session routines successfully run
+DEBUG - 2010-11-11 22:22:13 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:22:13 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:22:13 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:22:13 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:22:13 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:22:13 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:22:13 --> Final output sent to browser
+DEBUG - 2010-11-11 22:22:13 --> Total execution time: 0.0706
+DEBUG - 2010-11-11 22:22:26 --> Config Class Initialized
+DEBUG - 2010-11-11 22:22:26 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:22:26 --> URI Class Initialized
+DEBUG - 2010-11-11 22:22:26 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:22:26 --> Router Class Initialized
+DEBUG - 2010-11-11 22:22:26 --> Output Class Initialized
+DEBUG - 2010-11-11 22:22:26 --> Input Class Initialized
+DEBUG - 2010-11-11 22:22:26 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:22:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:22:26 --> Language Class Initialized
+DEBUG - 2010-11-11 22:22:26 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:22:26 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:22:26 --> Session Class Initialized
+DEBUG - 2010-11-11 22:22:26 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:22:26 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:22:26 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:22:26 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:22:26 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:22:26 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:22:26 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'be2d623f49d98cb3a9333652a66d814c'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 22:22:26 --> Session routines successfully run
+DEBUG - 2010-11-11 22:22:26 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:22:26 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:22:26 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:22:26 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:22:26 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:22:26 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:22:26 --> Final output sent to browser
+DEBUG - 2010-11-11 22:22:26 --> Total execution time: 0.0978
+DEBUG - 2010-11-11 22:23:46 --> Config Class Initialized
+DEBUG - 2010-11-11 22:23:46 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:23:46 --> URI Class Initialized
+DEBUG - 2010-11-11 22:23:46 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:23:46 --> Router Class Initialized
+DEBUG - 2010-11-11 22:23:46 --> Output Class Initialized
+DEBUG - 2010-11-11 22:23:46 --> Input Class Initialized
+DEBUG - 2010-11-11 22:23:46 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:23:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:23:46 --> Language Class Initialized
+DEBUG - 2010-11-11 22:23:46 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:23:46 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:23:46 --> Session Class Initialized
+DEBUG - 2010-11-11 22:23:46 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:23:46 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:23:46 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:23:46 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:23:46 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:23:46 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:23:46 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'be2d623f49d98cb3a9333652a66d814c'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 22:23:46 --> Session routines successfully run
+DEBUG - 2010-11-11 22:23:46 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:23:46 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:23:46 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:23:46 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:23:46 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:23:46 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:23:46 --> Final output sent to browser
+DEBUG - 2010-11-11 22:23:46 --> Total execution time: 0.0752
+DEBUG - 2010-11-11 22:23:47 --> Config Class Initialized
+DEBUG - 2010-11-11 22:23:47 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:23:47 --> URI Class Initialized
+DEBUG - 2010-11-11 22:23:47 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:23:47 --> Router Class Initialized
+DEBUG - 2010-11-11 22:23:47 --> Output Class Initialized
+DEBUG - 2010-11-11 22:23:47 --> Input Class Initialized
+DEBUG - 2010-11-11 22:23:47 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:23:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:23:47 --> Language Class Initialized
+DEBUG - 2010-11-11 22:23:47 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:23:47 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:23:47 --> Session Class Initialized
+DEBUG - 2010-11-11 22:23:47 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:23:47 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:23:47 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:23:47 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:23:47 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:23:47 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:23:47 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'be2d623f49d98cb3a9333652a66d814c'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 22:23:47 --> Session routines successfully run
+DEBUG - 2010-11-11 22:23:47 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:23:47 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:23:47 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:23:47 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:23:47 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:23:47 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:23:47 --> Final output sent to browser
+DEBUG - 2010-11-11 22:23:47 --> Total execution time: 0.1524
+DEBUG - 2010-11-11 22:24:19 --> Config Class Initialized
+DEBUG - 2010-11-11 22:24:19 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:24:19 --> URI Class Initialized
+DEBUG - 2010-11-11 22:24:19 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:24:19 --> Router Class Initialized
+DEBUG - 2010-11-11 22:24:19 --> Output Class Initialized
+DEBUG - 2010-11-11 22:24:19 --> Input Class Initialized
+DEBUG - 2010-11-11 22:24:19 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:24:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:24:19 --> Language Class Initialized
+DEBUG - 2010-11-11 22:24:19 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:24:19 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:24:19 --> Session Class Initialized
+DEBUG - 2010-11-11 22:24:19 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:24:19 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:24:19 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:24:19 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:24:19 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:24:19 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:24:19 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'be2d623f49d98cb3a9333652a66d814c'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 22:24:19 --> SQL : UPDATE ci_sessions SET last_activity = 1289532259, session_id = 'f33385027c188512c22385a2dae2eeb0' WHERE session_id = 'be2d623f49d98cb3a9333652a66d814c'
+DEBUG - 2010-11-11 22:24:19 --> Session routines successfully run
+DEBUG - 2010-11-11 22:24:19 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:24:19 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:24:19 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:24:19 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:24:19 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:24:19 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:24:19 --> Final output sent to browser
+DEBUG - 2010-11-11 22:24:19 --> Total execution time: 0.1060
+DEBUG - 2010-11-11 22:25:05 --> Config Class Initialized
+DEBUG - 2010-11-11 22:25:05 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:25:05 --> URI Class Initialized
+DEBUG - 2010-11-11 22:25:05 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:25:05 --> Router Class Initialized
+DEBUG - 2010-11-11 22:25:05 --> Output Class Initialized
+DEBUG - 2010-11-11 22:25:05 --> Input Class Initialized
+DEBUG - 2010-11-11 22:25:05 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:25:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:25:05 --> Language Class Initialized
+DEBUG - 2010-11-11 22:25:05 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:25:05 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:25:05 --> Session Class Initialized
+DEBUG - 2010-11-11 22:25:05 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:25:05 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:25:05 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:25:05 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:25:05 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:25:05 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:25:05 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'f33385027c188512c22385a2dae2eeb0'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 22:25:05 --> Session routines successfully run
+DEBUG - 2010-11-11 22:25:05 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:25:05 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:25:05 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:25:05 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:25:05 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:25:05 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:25:05 --> Final output sent to browser
+DEBUG - 2010-11-11 22:25:05 --> Total execution time: 0.0714
+DEBUG - 2010-11-11 22:25:11 --> Config Class Initialized
+DEBUG - 2010-11-11 22:25:11 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:25:11 --> URI Class Initialized
+DEBUG - 2010-11-11 22:25:11 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:25:11 --> Router Class Initialized
+DEBUG - 2010-11-11 22:25:11 --> Output Class Initialized
+DEBUG - 2010-11-11 22:25:11 --> Input Class Initialized
+DEBUG - 2010-11-11 22:25:11 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:25:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:25:11 --> Language Class Initialized
+DEBUG - 2010-11-11 22:25:11 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:25:11 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:25:11 --> Session Class Initialized
+DEBUG - 2010-11-11 22:25:11 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:25:11 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:25:11 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:25:11 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:25:11 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:25:11 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:25:11 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'f33385027c188512c22385a2dae2eeb0'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 22:25:11 --> Session routines successfully run
+DEBUG - 2010-11-11 22:25:11 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:25:11 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:25:11 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:25:11 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:25:11 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:25:11 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:25:11 --> Final output sent to browser
+DEBUG - 2010-11-11 22:25:11 --> Total execution time: 0.0724
+DEBUG - 2010-11-11 22:25:19 --> Config Class Initialized
+DEBUG - 2010-11-11 22:25:19 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:25:19 --> URI Class Initialized
+DEBUG - 2010-11-11 22:25:19 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:25:19 --> Router Class Initialized
+DEBUG - 2010-11-11 22:25:19 --> Output Class Initialized
+DEBUG - 2010-11-11 22:25:19 --> Input Class Initialized
+DEBUG - 2010-11-11 22:25:19 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:25:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:25:19 --> Language Class Initialized
+DEBUG - 2010-11-11 22:25:19 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:25:19 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:25:19 --> Session Class Initialized
+DEBUG - 2010-11-11 22:25:19 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:25:19 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:25:19 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:25:19 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:25:19 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:25:19 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:25:19 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'f33385027c188512c22385a2dae2eeb0'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 22:25:19 --> Session routines successfully run
+DEBUG - 2010-11-11 22:25:19 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:25:19 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:25:19 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:25:19 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:25:19 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:25:19 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:25:19 --> Final output sent to browser
+DEBUG - 2010-11-11 22:25:19 --> Total execution time: 0.0740
+DEBUG - 2010-11-11 22:25:25 --> Config Class Initialized
+DEBUG - 2010-11-11 22:25:25 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:25:25 --> URI Class Initialized
+DEBUG - 2010-11-11 22:25:25 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:25:25 --> Router Class Initialized
+DEBUG - 2010-11-11 22:25:25 --> Output Class Initialized
+DEBUG - 2010-11-11 22:25:25 --> Input Class Initialized
+DEBUG - 2010-11-11 22:25:25 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:25:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:25:25 --> Language Class Initialized
+DEBUG - 2010-11-11 22:25:25 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:25:25 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:25:25 --> Session Class Initialized
+DEBUG - 2010-11-11 22:25:25 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:25:25 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:25:25 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:25:25 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:25:25 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:25:25 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:25:25 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'f33385027c188512c22385a2dae2eeb0'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en'
+DEBUG - 2010-11-11 22:25:25 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289525125
+DEBUG - 2010-11-11 22:25:25 --> Session garbage collection performed.
+DEBUG - 2010-11-11 22:25:25 --> Session routines successfully run
+DEBUG - 2010-11-11 22:25:25 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:25:25 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:25:25 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:25:25 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:25:25 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:25:25 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:25:25 --> Final output sent to browser
+DEBUG - 2010-11-11 22:25:25 --> Total execution time: 0.0725
+DEBUG - 2010-11-11 22:25:27 --> Config Class Initialized
+DEBUG - 2010-11-11 22:25:27 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:25:27 --> URI Class Initialized
+DEBUG - 2010-11-11 22:25:27 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:25:27 --> Router Class Initialized
+DEBUG - 2010-11-11 22:25:27 --> Output Class Initialized
+DEBUG - 2010-11-11 22:25:27 --> Input Class Initialized
+DEBUG - 2010-11-11 22:25:27 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:25:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:25:27 --> Language Class Initialized
+DEBUG - 2010-11-11 22:25:27 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:25:27 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:25:27 --> Session Class Initialized
+DEBUG - 2010-11-11 22:25:27 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:25:27 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:25:27 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:25:27 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:25:27 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:25:27 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:25:27 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = 'c372f7f6573b0352aceec4007c0eb73b'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:25:27 --> SQL : UPDATE ci_sessions SET last_activity = 1289532327, session_id = '9e7d8ac25fd4890cacab2f58412ac0f0' WHERE session_id = 'c372f7f6573b0352aceec4007c0eb73b'
+DEBUG - 2010-11-11 22:25:27 --> Session routines successfully run
+DEBUG - 2010-11-11 22:25:27 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:25:27 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:25:27 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:25:27 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:25:27 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:25:27 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:25:27 --> Final output sent to browser
+DEBUG - 2010-11-11 22:25:27 --> Total execution time: 0.0803
+DEBUG - 2010-11-11 22:25:55 --> Config Class Initialized
+DEBUG - 2010-11-11 22:25:55 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:25:55 --> URI Class Initialized
+DEBUG - 2010-11-11 22:25:55 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:25:55 --> Router Class Initialized
+DEBUG - 2010-11-11 22:25:55 --> Output Class Initialized
+DEBUG - 2010-11-11 22:25:55 --> Input Class Initialized
+DEBUG - 2010-11-11 22:25:55 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:25:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:25:55 --> Language Class Initialized
+DEBUG - 2010-11-11 22:25:55 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:25:55 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:25:55 --> Session Class Initialized
+DEBUG - 2010-11-11 22:25:55 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:25:55 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:25:55 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:25:55 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:25:55 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:25:55 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:25:55 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9e7d8ac25fd4890cacab2f58412ac0f0'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:25:55 --> Session routines successfully run
+DEBUG - 2010-11-11 22:25:55 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:25:55 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:25:55 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:25:55 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:25:55 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:25:55 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:25:55 --> Final output sent to browser
+DEBUG - 2010-11-11 22:25:55 --> Total execution time: 0.0750
+DEBUG - 2010-11-11 22:26:15 --> Config Class Initialized
+DEBUG - 2010-11-11 22:26:15 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:26:15 --> URI Class Initialized
+DEBUG - 2010-11-11 22:26:15 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:26:15 --> Router Class Initialized
+DEBUG - 2010-11-11 22:26:15 --> Output Class Initialized
+DEBUG - 2010-11-11 22:26:15 --> Input Class Initialized
+DEBUG - 2010-11-11 22:26:15 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:26:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:26:15 --> Language Class Initialized
+DEBUG - 2010-11-11 22:26:15 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:26:15 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:26:15 --> Session Class Initialized
+DEBUG - 2010-11-11 22:26:15 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:26:15 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:26:15 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:26:15 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:26:15 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:26:15 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:26:15 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9e7d8ac25fd4890cacab2f58412ac0f0'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:26:15 --> SQL : DELETE FROM ci_sessions WHERE last_activity < 1289525175
+DEBUG - 2010-11-11 22:26:15 --> Session garbage collection performed.
+DEBUG - 2010-11-11 22:26:15 --> Session routines successfully run
+DEBUG - 2010-11-11 22:26:15 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:26:15 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:26:15 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:26:15 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:26:15 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:26:15 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:26:15 --> Final output sent to browser
+DEBUG - 2010-11-11 22:26:15 --> Total execution time: 0.0768
+DEBUG - 2010-11-11 22:26:31 --> Config Class Initialized
+DEBUG - 2010-11-11 22:26:31 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:26:31 --> URI Class Initialized
+DEBUG - 2010-11-11 22:26:31 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:26:31 --> Router Class Initialized
+DEBUG - 2010-11-11 22:26:31 --> Output Class Initialized
+DEBUG - 2010-11-11 22:26:31 --> Input Class Initialized
+DEBUG - 2010-11-11 22:26:31 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:26:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:26:31 --> Language Class Initialized
+DEBUG - 2010-11-11 22:26:31 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:26:31 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:26:31 --> Session Class Initialized
+DEBUG - 2010-11-11 22:26:31 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:26:31 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:26:31 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:26:31 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:26:31 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:26:31 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:26:31 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9e7d8ac25fd4890cacab2f58412ac0f0'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:26:31 --> Session routines successfully run
+DEBUG - 2010-11-11 22:26:31 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:26:31 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:26:31 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:26:31 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:26:31 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:26:31 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:26:31 --> Final output sent to browser
+DEBUG - 2010-11-11 22:26:31 --> Total execution time: 0.0695
+DEBUG - 2010-11-11 22:26:33 --> Config Class Initialized
+DEBUG - 2010-11-11 22:26:33 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:26:33 --> URI Class Initialized
+DEBUG - 2010-11-11 22:26:33 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:26:33 --> Router Class Initialized
+DEBUG - 2010-11-11 22:26:33 --> Output Class Initialized
+DEBUG - 2010-11-11 22:26:33 --> Input Class Initialized
+DEBUG - 2010-11-11 22:26:33 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:26:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:26:33 --> Language Class Initialized
+DEBUG - 2010-11-11 22:26:33 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:26:33 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:26:33 --> Session Class Initialized
+DEBUG - 2010-11-11 22:26:33 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:26:33 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:26:33 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:26:33 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:26:33 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:26:33 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:26:33 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9e7d8ac25fd4890cacab2f58412ac0f0'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:26:33 --> Session routines successfully run
+DEBUG - 2010-11-11 22:26:33 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:26:33 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:26:33 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:26:33 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:26:33 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:26:33 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:26:33 --> Final output sent to browser
+DEBUG - 2010-11-11 22:26:33 --> Total execution time: 0.0723
+DEBUG - 2010-11-11 22:27:11 --> Config Class Initialized
+DEBUG - 2010-11-11 22:27:11 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:27:11 --> URI Class Initialized
+DEBUG - 2010-11-11 22:27:11 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:27:11 --> Router Class Initialized
+DEBUG - 2010-11-11 22:27:11 --> Output Class Initialized
+DEBUG - 2010-11-11 22:27:11 --> Input Class Initialized
+DEBUG - 2010-11-11 22:27:11 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:27:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:27:11 --> Language Class Initialized
+DEBUG - 2010-11-11 22:27:11 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:27:11 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:27:11 --> Session Class Initialized
+DEBUG - 2010-11-11 22:27:11 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:27:11 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:27:11 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:27:11 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:27:11 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:27:11 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:27:11 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9e7d8ac25fd4890cacab2f58412ac0f0'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:27:11 --> Session routines successfully run
+DEBUG - 2010-11-11 22:27:11 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:27:11 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:27:11 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:27:11 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:27:11 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:27:11 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:27:11 --> Final output sent to browser
+DEBUG - 2010-11-11 22:27:11 --> Total execution time: 0.0440
+DEBUG - 2010-11-11 22:27:14 --> Config Class Initialized
+DEBUG - 2010-11-11 22:27:14 --> Hooks Class Initialized
+DEBUG - 2010-11-11 22:27:14 --> URI Class Initialized
+DEBUG - 2010-11-11 22:27:14 --> No URI present. Default controller set.
+DEBUG - 2010-11-11 22:27:14 --> Router Class Initialized
+DEBUG - 2010-11-11 22:27:14 --> Output Class Initialized
+DEBUG - 2010-11-11 22:27:14 --> Input Class Initialized
+DEBUG - 2010-11-11 22:27:14 --> XSS Filtering completed
+DEBUG - 2010-11-11 22:27:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-11-11 22:27:14 --> Language Class Initialized
+DEBUG - 2010-11-11 22:27:14 --> Loader Class Initialized
+DEBUG - 2010-11-11 22:27:14 --> Helper loaded: url_helper
+DEBUG - 2010-11-11 22:27:14 --> Session Class Initialized
+DEBUG - 2010-11-11 22:27:14 --> Helper loaded: string_helper
+DEBUG - 2010-11-11 22:27:14 --> Encrypt Class Initialized
+DEBUG - 2010-11-11 22:27:14 --> Database Driver Class Initialized
+DEBUG - 2010-11-11 22:27:14 --> PDO driver connecting sqlite:/Users/kuitang/Sites/sdi/system/application/sid.sqlite
+DEBUG - 2010-11-11 22:27:14 --> PDO Object
+(
+)
+
+DEBUG - 2010-11-11 22:27:14 --> PDO driver connection ok
+DEBUG - 2010-11-11 22:27:14 --> SQL : SELECT *
+FROM ci_sessions
+WHERE session_id = '9e7d8ac25fd4890cacab2f58412ac0f0'
+AND user_agent = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; '
+DEBUG - 2010-11-11 22:27:14 --> Session routines successfully run
+DEBUG - 2010-11-11 22:27:14 --> Controller Class Initialized
+DEBUG - 2010-11-11 22:27:14 --> Helper loaded: form_helper
+DEBUG - 2010-11-11 22:27:14 --> Session class already loaded. Second attempt ignored.
+ERROR - 2010-11-11 22:27:14 --> Severity: Notice  --> Undefined variable: posts /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+ERROR - 2010-11-11 22:27:14 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/kuitang/Sites/sdi/system/application/views/home_index.php 10
+DEBUG - 2010-11-11 22:27:14 --> File loaded: /Users/kuitang/Sites/sdi/system/application/views/home_index.php
+DEBUG - 2010-11-11 22:27:14 --> Final output sent to browser
+DEBUG - 2010-11-11 22:27:14 --> Total execution time: 0.0725

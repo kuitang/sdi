@@ -1,6 +1,6 @@
 </div> <!-- closes main column -->
 </div>
-<footer class="div-24 last">
+<footer id="footer" class="div-24 last">
 <div class="col">
 &copy; <?= date("Y") ?> <a href="http://www.studentaffairs.columbia.edu/scholars">Columbia Undergraduate Scholars Program</a> |
 Questions? Feedback? <?= mailto('scholarsprogram@columbia.edu', 'Contact us'); ?>. | Created by <a href="http://kui-tang.com">Kui Tang</a> and Deb Sen</div>
@@ -13,5 +13,8 @@ Questions? Feedback? <?= mailto('scholarsprogram@columbia.edu', 'Contact us'); ?
 </div>
 </footer>
 </div> <!-- closes container -->
+</div> <!-- closes metacontainer -->
+<div id="footer-flexspace">
+</div>
 </body>
 </html>

@@ -1,5 +1,4 @@
-<?php
-$sess = get_instance()->session;
+<?php $sess = get_instance()->session;
 if (isset($sess->flashdata)) {
   $flashmsg = $sess->flashdata('msg');
 }
@@ -19,10 +18,14 @@ $name = $sess->userdata('uni');
   <link rel="stylesheet" href="<?= site_url('css/custom.css') ?>" type="text/css" media="screen, projection" />
 </head>
 <body>
+<div class="metacontainer">
 <div class="container">
 
-<header class="span-24 last">
-<nav>
+<header id="header" class="span-24 last">
+<div id="logo" class="alt">
+<b>S</b>cholars <b>I</b>nformation <b>D</b>atabase
+</div>
+<nav class="navcol">
 <ul id="user" class="col">
   <li class="leftnav">
   <form method="get" action="<?= site_url('/home/search/') ?>" method="GET" autocomplete="on">
@@ -46,7 +49,7 @@ $name = $sess->userdata('uni');
 <?php endif; ?>
 </header>
 <div class="span-5">
-<div class="col">
+<div class="col navcol" id="leftcol">
 <nav id="leftbar">
   <ul>
   <li><?= anchor('/', 'Home') ?></li>
@@ -54,13 +57,29 @@ $name = $sess->userdata('uni');
   <li><?= anchor('/home/submit', 'Submit') ?></li>
   </ul>
 </nav>
+<hr />
 <nav id="taglist">
+<span class="center caps">Browse by tags</span>
 <ul>
-  <li>Tag list forthcoming.</li>
+  <li><span class="caps">Field/Discipline:</span>
+    <ul>
+      <li>Forthcoming</li>
+    </ul>
+  </li>
+  <li><span class="caps">Type of Project:</span>
+    <ul>
+      <li>Forthcoming</li>
+    </ul>
+  </li>
+  <span class="caps">Location:</span>
+    <ul>
+      <li>Forthcoming</li>
+    </ul>
+  </li>
 </ul>
 </nav>
 </div>
 </div>
 
 <div class="span-19 last">
-<div class="col">
+<div class="col" id="maincol">

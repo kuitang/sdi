@@ -66,27 +66,39 @@ class CI_DB_pdo_result extends CI_DB_result {
 	 * Field data
 	 *
 	 * Generates an array of objects containing field meta-data
-	 *
+   *
+   * **kt** Broken -- field_data was commented out in pdo_result.php.
+   * **kt** HACK: Recopied from http://codeigniter.com/forums/viewthread/83000/
+	 * **kt** DB_drive.php already calls _field_data for us, meaning our
+   *        result_id is the result_id of the call to the schema table.
+   *
 	 * @access	public
 	 * @return	array
 	 */
-/*	function field_data()
+	function field_data()
 	{
 		$retval = array();
-		for ($i = 0; $i < $this->num_fields(); $i++)
-		{
-			$F 				= new CI_DB_field();
-			$F->name 		= sqlite_field_name($this->result_id, $i);
-			$F->type 		= 'varchar';
-			$F->max_length	= 0;
-			$F->primary_key = 0;
-			$F->default		= '';
+    /*
+    echo "<pre>";
+    var_dump($this->result_id);
+    var_dump($this->pdo_results);
+    echo "</pre>";
+    */
+    $table_info = $this->pdo_results;
+    assert(is_array($table_info));
+    foreach ($table_info as $row_info) {
+      $F             = new stdClass();
+      $F->name       = $row_info['name'];
+      $F->type       = $row_info['type'];
+      $F->default    = $row_info['dflt_value'];
+      $F->max_length = 0;
+      $F->primary_key = $row_info['pk'];
+      
+      $retval[] = $F;
+    }
 
-			$retval[] = $F;
-		}
-
-		return $retval;
-	}*/
+    return $retval;
+  }
 
 	// --------------------------------------------------------------------
 

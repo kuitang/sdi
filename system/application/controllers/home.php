@@ -37,5 +37,18 @@ class Home extends Controller {
     echo "Can't get here";
   }
 
+  function models() {
+    $t = new Tag();
+    $t->get();
+    foreach ($t->all as $myt) {
+      echo $myt;
+    }
+  }
+
+  function db2() {
+    $q = $this->db->get('tags');
+    var_dump($q);
+  }
+
 }
 ?>

@@ -133,9 +133,9 @@ class CI_DB_pdo_driver extends CI_DB {
 	function _execute($sql)
 	{
 		$sql = $this->_prep_query($sql);
-		log_message('debug','SQL (REAL): '.$sql);
+		log_message('debug',"SQL : <$sql>");
     return $this->conn_id->query($sql);
-	}
+  }
 
 	// --------------------------------------------------------------------
 
@@ -465,12 +465,16 @@ function _escape_identifiers($item)
 	 * @access	public
 	 * @param	string	the table name
 	 * @return	object
+   * **kt** Broken -- field_data was commented out in pdo_result.php.
+   * **kt** HACK: Recopied from http://codeigniter.com/forums/viewthread/83000/
+   * Also return is a string. See DB_driver.php's call of this function and
+   * other files.
 	 */
 	function _field_data($table)
 	{
-		$sql = "SELECT * FROM ".$this->escape_table($table)." LIMIT 1";
-		$query = $this->query($sql);
-		return $query->field_data();
+		return "PRAGMA table_info('" . $this->escape_table($table) . "')";
+		/*$query = $this->query($sql);*/
+		/*return $query->field_data();*/
 	}
 
 	// --------------------------------------------------------------------

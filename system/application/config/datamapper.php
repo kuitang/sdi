@@ -14,7 +14,7 @@ $config['created_field'] = 'created';
 $config['updated_field'] = 'updated';
 $config['local_time'] = TRUE;
 $config['unix_timestamp'] = TRUE;
-$config['auto_transaction'] = TRUE;
+$config['auto_transaction'] = FALSE;
 $config['auto_populate_has_many'] = FALSE;
 $config['auto_populate_has_one'] = FALSE;
 

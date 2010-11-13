@@ -84,7 +84,8 @@ CREATE TABLE "tags" (
   name          VARCHAR NOT NULL,
   category      VARCHAR
 );
-
+INSERT INTO "tags" (name, category) VALUES('kui', 'debug');
+INSERT INTO "tags" (name, category) VALUES('o', 'debug');
 DROP TABLE IF EXISTS "tags_projects";
 CREATE TABLE "tags_projects" (
   id            INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,

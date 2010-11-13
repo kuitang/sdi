@@ -8,7 +8,7 @@ $name = $sess->userdata('uni');
   <script src="<?= site_url('js/custom.js') ?>" type="text/javascript"></script>
   <link rel="stylesheet" href="<?= site_url('css/blueprint/screen.css') ?>" type="text/css" media="screen, projection" />
   <link rel="stylesheet" href="<?= site_url('css/blueprint/print.css') ?>" type="text/css" media="print"/>
-  <link rel="stylesheet" href="<?= site_url('css/form.css') ?>" type="text/css" />
+<!--  <link rel="stylesheet" href="<?= site_url('css/form.css') ?>" type="text/css" /> -->
   <!--[if lt IE 8]><link rel="stylesheet" href="<?= site_url('css/blueprint/print.css') ?>" type="text/css" media="screen, projection"><![endif]-->
   <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
   <link rel="stylesheet" href="<?= site_url('css/blueprint/screen.css') ?>" type="text/css" media="screen, projection" />

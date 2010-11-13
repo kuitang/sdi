@@ -1,4 +1,0 @@
-Currently the DataMapper models seem not to work with the sqlite3 dbo plugin.
-
-Guess we'll just write our own queries for now.
-

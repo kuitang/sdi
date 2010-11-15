@@ -29,10 +29,17 @@ class User extends DataMapper {
       'label' => 'Confirm Password',
       'type'  => 'password',
       'rules' => array('required', 'matches' => 'password')
-    )
+    ), 
+    /* These fields are for Challenge-Response authentication and would not
+       be present for any other model. */
+    'server_salt' => array( 'type'  => 'hidden',),
+    'challenge' => array( 'type'  => 'hidden',),
+    'pwhash'    => array( 'type' => 'hidden',),
   );
-
-
+  
+  public static function hash($pass) {
+    return hash_hmac('sha1', $pass, get_instance()->config->item('server_salt'));
+  }
 
   function __construct() {
     parent::DataMapper();

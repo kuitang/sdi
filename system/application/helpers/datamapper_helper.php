@@ -1,6 +1,6 @@
 <?php
 
-function render_form($p) {
+function render_write_form($p) {
   $data['title'] = $p['title'];
   $model = new $p['model']();
   if ($_SERVER['REQUEST_METHOD'] == 'POST') {
@@ -13,6 +13,6 @@ function render_form($p) {
   }
   // Otherwise just render a form.
   $data['form'] = $model->render_form($p['form_fields']);
-  $p['self']->load->view('form.php', $data);
+  $p['self']->load->view($p['view'], $data);
 }
 ?>

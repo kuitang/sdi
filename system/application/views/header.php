@@ -6,6 +6,7 @@ $name = $sess->userdata('uni');
 <head>
   <title><?php echo $title ?> | Scholars Information Database</title>
   <script src="<?= site_url('js/custom.js') ?>" type="text/javascript"></script>
+  <script src="<?= site_url('js/jquery.js') ?>" type="text/javascript"></script>
   <link rel="stylesheet" href="<?= site_url('css/blueprint/screen.css') ?>" type="text/css" media="screen, projection" />
   <link rel="stylesheet" href="<?= site_url('css/blueprint/print.css') ?>" type="text/css" media="print"/>
 <!--  <link rel="stylesheet" href="<?= site_url('css/form.css') ?>" type="text/css" /> -->
@@ -73,7 +74,6 @@ $name = $sess->userdata('uni');
     <ul>
       <li>Forthcoming</li>
     </ul>
-  </li>
 </ul>
 </nav>
 </div>

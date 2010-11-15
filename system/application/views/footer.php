@@ -14,7 +14,5 @@ Questions? Feedback? <?= mailto('scholarsprogram@columbia.edu', 'Contact us'); ?
 </footer>
 </div> <!-- closes container -->
 </div> <!-- closes metacontainer -->
-<div id="footer-flexspace">
-</div>
 </body>
 </html>

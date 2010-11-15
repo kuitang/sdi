@@ -3,8 +3,10 @@ root. If you are running on a different environment, change those:
   - In .htaccess
   - In  system/application/config/config.php 
 
-Also, make sure you have the system/cache and system/log directories set to be
+Also, make sure you create the system/cache and system/log directories set to be
 writable by the web server. They are not included in the git repository.
+
+The file system/application/sid.sqlite needs to also be writable on by server.
 
 You need PHP5 with sqlite3 support.
 

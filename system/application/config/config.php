@@ -220,8 +220,10 @@ $config['cache_path'] = '';
 | enabled you MUST set an encryption key.  See the user guide for info.
 |
 */
-//TODO: Get an actual random key.
-$config['encryption_key'] = "!Barnard girls are easy.";
+$config['encryption_key'] = "Fn8~NNw%+&&iw#b96=t9uLObO4;lm;@1";
+
+// KUI TANG added
+$config['server_salt'] = 'kOwx+T?c@3k4';
 
 /*
 |--------------------------------------------------------------------------

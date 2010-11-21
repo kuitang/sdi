@@ -93,13 +93,34 @@ class Users extends Controller {
     $data['form'] = $u->render_form($fields_render);
     $this->load->view("form_password.php", $data);
   }
+
+  function approve() {
+    $u = new User();
+    if (!$u->get_where(array('uni' => $this->session->userdata('uni')))->is_admin) {
+      redirect();
+    }
+
+    $a = new Approveduni();
+    $data = array();
+    $data['errors'] = '';
+    if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+      foreach(explode("\n", $this->input->post('unis')) as $uni) {
+        $ap = new Approveduni();
+        $ap->uni = $uni;
+        if (!$ap->save()) {
+          $data['errors'] .= "<p>The uni '$uni' is invalid or already included.</p>";
+        }
+      }
+    } else {
+    }
+    
+    $data['approvedunis'] = $a->get();
+    $this->load->view("user_approve.php", $data);
+  }
   
   function _signup_success() {
     $this->session->set_flashdata("msg", "Your registration is now pending. You will receive an email when approved.");
     redirect();
-  }
-
-  function approve() {
   }
 
   function profile($user_id) {

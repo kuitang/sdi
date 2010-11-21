@@ -35,6 +35,20 @@ CREATE TABLE "users" (
   contact   TEXT
 );
 
+-- The password is the hash of '12345678'.
+INSERT INTO "users" VALUES(1, datetime('now', 'localtime'), datetime('now', 'localtime'), 'kt2384', 'Kui Tang', 'Computer Science', 2014, '0c484a9b6a5a872aa924bf0475749e16aad84253', NULL, 1, 1, 1, NULL, NULL);
+INSERT INTO "users" VALUES(2, datetime('now', 'localtime'), datetime('now', 'localtime'), 'uu1000', 'Unprivileged User', 'Economics', 2012, '0c484a9b6a5a872aa924bf0475749e16aad84253', NULL, 1, 0, 1, NULL, NULL);
+
+DROP TABLE IF EXISTS "approvedunis";
+CREATE TABLE "approvedunis" (
+  id        INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+  uni       CHAR(7) UNIQUE NOT NULL
+);
+INSERT INTO "approvedunis" VALUES(1, 'kt2384');
+INSERT INTO "approvedunis" VALUES(2, 'uu1000');
+INSERT INTO "approvedunis" VALUES(3, 'aa1000');
+INSERT INTO "approvedunis" VALUES(4, 'bb1000');
+
 DROP TABLE IF EXISTS "projects";
 CREATE TABLE "projects" (
   id            INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
@@ -46,7 +60,8 @@ CREATE TABLE "projects" (
   location_lat  REAL NOT NULL,
   location_lon  REAL NOT NULL
 );
-
+INSERT INTO "projects" VALUES(1, datetime('now', 'localtime'), datetime('now', 'localtime'), "Project 1", NULL, NULL, 40.807524, -73.964231);
+INSERT INTO "projects" VALUES(2, datetime('now', 'localtime'), datetime('now', 'localtime'), "Project 2", NULL, NULL, 40.75388918270174, -73.98163318634033);
 -- Very sqlite specific. MySQL handles full text much differently.
 DROP TABLE IF EXISTS "projecttexts";
 
@@ -59,18 +74,22 @@ CREATE VIRTUAL TABLE "projecttexts" USING fts3(
   -- sqlite3 ignores the type for the second column 
   text          TEXT
 );
+INSERT INTO "projecttexts" VALUES(1, "A project about Columbia");
+INSERT INTO "projecttexts" VALUES(2, "A project about NYU");
 
-DROP TABLE IF EXISTS "projecttexts_projects";
-CREATE TABLE "projecttexts_projects" (
+DROP TABLE IF EXISTS "projects_projecttexts";
+CREATE TABLE "projects_projecttexts" (
   id            INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
   project_id    INTEGER,
   projecttext_id INTEGER,
   FOREIGN KEY(project_id) REFERENCES projects(id),
   FOREIGN KEY(projecttext_id) REFERENCES projecttexts(id)
 );
+INSERT INTO "projects_projecttexts" VALUES(1, 1, 1);
+INSERT INTO "projects_projecttexts" VALUES(2, 2, 2);
 
-DROP TABLE IF EXISTS "users_projects";
-CREATE TABLE "users_projects" (
+DROP TABLE IF EXISTS "projects_users";
+CREATE TABLE "projects_users" (
   id            INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
   user_id       INTEGER NOT NULL,
   project_id    INTEGER NOT NULL,
@@ -78,16 +97,21 @@ CREATE TABLE "users_projects" (
   FOREIGN KEY(project_id) REFERENCES projects(id)
 );
 
+INSERT INTO "projects_users" VALUES(1, 1, 1);
+INSERT INTO "projects_users" VALUES(2, 2, 2);
+
 DROP TABLE IF EXISTS "tags";
 CREATE TABLE "tags" (
   id            INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
   name          VARCHAR NOT NULL,
   category      VARCHAR
 );
-INSERT INTO "tags" (name, category) VALUES('kui', 'debug');
-INSERT INTO "tags" (name, category) VALUES('o', 'debug');
-DROP TABLE IF EXISTS "tags_projects";
-CREATE TABLE "tags_projects" (
+INSERT INTO "tags" (id, name, category) VALUES(1, 'test', 'field');
+INSERT INTO "tags" (id, name, category) VALUES(2, 'debug', 'type');
+INSERT INTO "tags" (id, name, category) VALUES(3, 'nyc', 'location');
+
+DROP TABLE IF EXISTS "projects_tags";
+CREATE TABLE "projects_tags" (
   id            INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
   tag_id        INTEGER,
   project_id    INTEGER,
@@ -95,5 +119,10 @@ CREATE TABLE "tags_projects" (
   FOREIGN KEY(project_id) REFERENCES projects(id)
 );
 
-
+INSERT INTO "projects_tags" VALUES(1, 1, 1);
+INSERT INTO "projects_tags" VALUES(2, 1, 2);
+INSERT INTO "projects_tags" VALUES(3, 2, 1);
+INSERT INTO "projects_tags" VALUES(4, 2, 2);
+INSERT INTO "projects_tags" VALUES(5, 3, 1);
+INSERT INTO "projects_tags" VALUES(6, 3, 2);
 

@@ -103,6 +103,15 @@ header #flash {
   color: rgb(68, 68, 68);
 }
 
+ul.horizontal li {
+  list-style-type: none;
+  display: inline-block;
+  float: right;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  margin-top: -1.4em;
+}
+
 nav ul li {
   list-style-type: none;
 }

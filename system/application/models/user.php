@@ -18,7 +18,7 @@ class User extends DataMapper {
     ),
     'uni' => array(
       'label' => 'UNI',
-      'rules' => array('trim', 'required', 'unique', 'alpha_numeric', 'max_length' => 7)
+      'rules' => array('trim', 'required', 'unique', 'alpha_numeric', 'max_length' => 7, 'is_approved')
     ),
     'password' => array(
       'label' => 'Password (NOT Columbia)',
@@ -39,6 +39,15 @@ class User extends DataMapper {
   
   public static function hash($pass) {
     return hash_hmac('sha1', $pass, get_instance()->config->item('server_salt'));
+  }
+
+  function _is_approved($uni) {
+    $approved_unis = new Approveduni();
+    if (empty($approved_unis->where('uni', $uni)->get()->id)) {
+      $this->error_message('uni', "Your UNI was not approved on the Scholars' database.");
+    } else {
+      return TRUE;
+    }
   }
 
   function __construct() {

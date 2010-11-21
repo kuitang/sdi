@@ -8,6 +8,13 @@ class Home extends Controller {
   }
   function index() {
     $data['title'] = 'Home';
+    $p = new Project();
+    $p->order_by('updated', 'desc')->get(10);
+    foreach ($p as $pp) {
+      $pp->user->get();
+      $pp->projecttext->get();
+    }
+    $data['posts'] = $p;
     $this->load->view('home_index', $data);
   }
 

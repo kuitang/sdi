@@ -102,7 +102,8 @@ class Users extends Controller {
 
     $a = new Approveduni();
     $data = array();
-    $data['errors'] = '';
+    $data['title'] = 'Approve Users';
+    $data['errors'] = FALSE;
     if ($_SERVER['REQUEST_METHOD'] == 'POST') {
       foreach(explode("\n", $this->input->post('unis')) as $uni) {
         $ap = new Approveduni();
@@ -116,6 +117,19 @@ class Users extends Controller {
     
     $data['approvedunis'] = $a->get();
     $this->load->view("user_approve.php", $data);
+  }
+
+  function removeapproval($id) {
+    if ($id) {
+      $a = new Approveduni();
+      $a->where('id', $id)->get();
+      if (isset($a->id)) {
+        $a->delete();
+      } else {
+        $this->session->set_flashdata('msg', 'Invalid id to remove.');
+      }
+    }
+    redirect('users/approve');
   }
   
   function _signup_success() {

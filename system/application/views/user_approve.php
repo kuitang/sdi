@@ -1,12 +1,14 @@
 <?php include 'header.php'; ?>
-<h1>Approve Users</h1>
-<?php if(isset($errors)): ?>
+<h1><?= $title ?></h1>
+<?php if($errors): ?>
+<div class="error">
 <?= $errors ?>
+</div>
 <?php endif; ?>
 
 <ul class="nolist">
 <?php foreach($approvedunis as $ap): ?>
-  <li><?= $ap->uni ?> (<?= anchor("user/removeapproval/$ap->id", 'x') ?>)</li>
+  <li><?= $ap->uni ?> (<?= anchor("users/removeapproval/$ap->id", 'x') ?>)</li>
 <?php endforeach; ?>
 </ul>
 

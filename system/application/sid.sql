@@ -72,7 +72,7 @@ CREATE VIRTUAL TABLE "projecttexts" USING fts3(
   tokenize=porter,
   id            INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
   -- sqlite3 ignores the type for the second column 
-  text          TEXT
+  text          TEXT NOT NULL;
 );
 INSERT INTO "projecttexts" VALUES(1, "A project about Columbia");
 INSERT INTO "projecttexts" VALUES(2, "A project about NYU");

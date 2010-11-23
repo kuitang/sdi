@@ -1,6 +1,14 @@
 <?php $sess = get_instance()->session;
 $flashmsg = $sess->flashdata('msg');
-$name = $sess->userdata('uni');
+$uni = $sess->userdata('uni');
+$name = FALSE;
+$admin = FALSE;
+if ($uni) {
+  $u = new User();
+  $u->get_where(array('uni' => $uni));
+  $name = $u->full_name;
+  $admin = $u->is_admin;
+}
 ?><!DOCTYPE html>
 <html>
 <head>
@@ -33,6 +41,7 @@ $name = $sess->userdata('uni');
   </li>
 <?php if ($name): ?>
   <li>Welcome <?= $name ?>.</li>
+  <?php if($admin): ?><li><?= anchor('users/approve', 'Approve Unis') ?></li><?php endif; ?>
   <li><?= anchor('users/editprofile', 'Edit Profile') ?></li>
   <li><?= anchor('users/logout', 'Logout') ?></li>
 <?php else: ?>

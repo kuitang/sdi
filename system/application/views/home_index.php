@@ -13,7 +13,7 @@
   <div class="byline"><?= $post->user->full_name ?> <?php if(isset($post->start_date)): ?> from <?= $post->start_date ?> <?php endif; ?><?php if(isset($post->end_date)): ?> to <?= $post->end_date ?> <?php endif; ?></div>
   <?php $pid = $post->id ?>
   <!--TODO: filter. Either by word/character count or paragraph split. -->
-  <p class="project-text"><?= $post->projecttext->text ?></p>
+  <p class="project-text"><?= $post->text ?></p>
   <ul class="horizontal">
     <li><?= anchor("project/view/$pid", 'View') ?></li>
     <li><?=anchor("project/view/$pid#comment", 'Comment')?></li>

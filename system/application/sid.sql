@@ -50,7 +50,9 @@ INSERT INTO "approvedunis" VALUES(3, 'aa1000');
 INSERT INTO "approvedunis" VALUES(4, 'bb1000');
 
 DROP TABLE IF EXISTS "projects";
-CREATE TABLE "projects" (
+-- Use FTS3 http://www.sqlite.org/fts3.html#tokenizer for full text search.
+-- Very sqlite specific. MySQL handles full text much differently.
+CREATE VIRTUAL TABLE "projects" USING fts3(
   id            INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
   created       INTEGER NOT NULL,
   updated       INTEGER NOT NULL,
@@ -58,47 +60,11 @@ CREATE TABLE "projects" (
   start_date    DATETIME,
   end_date      DATETIME,
   location_lat  REAL NOT NULL,
-  location_lon  REAL NOT NULL
+  location_lon  REAL NOT NULL,
+  text          TEXT NOT NULL
 );
-INSERT INTO "projects" VALUES(1, datetime('now', 'localtime'), datetime('now', 'localtime'), "Project 1", NULL, NULL, 40.807524, -73.964231);
-INSERT INTO "projects" VALUES(2, datetime('now', 'localtime'), datetime('now', 'localtime'), "Project 2", NULL, NULL, 40.75388918270174, -73.98163318634033);
--- Very sqlite specific. MySQL handles full text much differently.
-DROP TABLE IF EXISTS "projecttexts";
-
--- Use FTS3 http://www.sqlite.org/fts3.html#tokenizer for full text search.
-CREATE VIRTUAL TABLE "projecttexts" USING fts3(
--- The Porter stemming algorithm should improve results of inflections. If that
--- doesn't work we could always switch back to simple.
-  tokenize=porter,
-  id            INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-  -- sqlite3 ignores the type for the second column 
-  text          TEXT NOT NULL;
-);
-INSERT INTO "projecttexts" VALUES(1, "A project about Columbia");
-INSERT INTO "projecttexts" VALUES(2, "A project about NYU");
-
-DROP TABLE IF EXISTS "projects_projecttexts";
-CREATE TABLE "projects_projecttexts" (
-  id            INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-  project_id    INTEGER,
-  projecttext_id INTEGER,
-  FOREIGN KEY(project_id) REFERENCES projects(id),
-  FOREIGN KEY(projecttext_id) REFERENCES projecttexts(id)
-);
-INSERT INTO "projects_projecttexts" VALUES(1, 1, 1);
-INSERT INTO "projects_projecttexts" VALUES(2, 2, 2);
-
-DROP TABLE IF EXISTS "projects_users";
-CREATE TABLE "projects_users" (
-  id            INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-  user_id       INTEGER NOT NULL,
-  project_id    INTEGER NOT NULL,
-  FOREIGN KEY(user_id) REFERENCES users(id),
-  FOREIGN KEY(project_id) REFERENCES projects(id)
-);
-
-INSERT INTO "projects_users" VALUES(1, 1, 1);
-INSERT INTO "projects_users" VALUES(2, 2, 2);
+INSERT INTO "projects" VALUES(1, datetime('now', 'localtime'), datetime('now', 'localtime'), "Project 1", NULL, NULL, 40.807524, -73.964231, "A project about Columbia");
+INSERT INTO "projects" VALUES(2, datetime('now', 'localtime'), datetime('now', 'localtime'), "Project 2", NULL, NULL, 40.75388918270174, -73.98163318634033, "A project about NYU");
 
 DROP TABLE IF EXISTS "tags";
 CREATE TABLE "tags" (

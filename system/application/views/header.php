@@ -15,6 +15,7 @@ if ($uni) {
   <title><?php echo $title ?> | Scholars Information Database</title>
   <script src="<?= site_url('js/custom.js') ?>" type="text/javascript"></script>
   <script src="<?= site_url('js/jquery.js') ?>" type="text/javascript"></script>
+  <script src="<?= site_url('js/jquery-ui.js') ?>" type="text/javascript"></script>
   <link rel="stylesheet" href="<?= site_url('css/blueprint/screen.css') ?>" type="text/css" media="screen, projection" />
   <link rel="stylesheet" href="<?= site_url('css/blueprint/print.css') ?>" type="text/css" media="print"/>
 <!--  <link rel="stylesheet" href="<?= site_url('css/form.css') ?>" type="text/css" /> -->
@@ -23,6 +24,7 @@ if ($uni) {
   <link rel="stylesheet" href="<?= site_url('css/blueprint/screen.css') ?>" type="text/css" media="screen, projection" />
   <link rel="stylesheet" href="<?= site_url('css/blueprint/plugins/fancy-type/screen.css') ?>" type="text/css" media="screen, projection" />
   <link rel="stylesheet" href="<?= site_url('css/custom.css') ?>" type="text/css" media="screen, projection" />
+  <link rel="stylesheet" href="<?= site_url('css/cupertino/jquery-ui.css') ?>" type="text/css" />
 </head>
 <body>
 <div class="metacontainer">

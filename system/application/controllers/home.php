@@ -3,7 +3,7 @@
 class Home extends Controller {
   function __construct() {
     parent::Controller();
-    $this->load->helper('form');
+    $this->load->helper('datamapper');
 #    $GLOBALS['login_check'] = TRUE;
   }
   function index() {
@@ -12,10 +12,20 @@ class Home extends Controller {
     $p->order_by('updated', 'desc')->get(10);
     foreach ($p as $pp) {
       $pp->user->get();
-      $pp->projecttext->get();
     }
     $data['posts'] = $p;
     $this->load->view('home_index', $data);
+  }
+
+  function submit() {
+    render_write_form(array('title' => 'Submit a Project',
+                            'model' => 'Project',
+                            'form_fields' => array('title', 'start_date',
+                              'end_date', 'field', 'type', 'location',
+                              'location_lat', 'location_lon',  
+                              'map', 'text'),
+                            'self' => $this,
+                            'view' => 'form'));
   }
 
   function info() {

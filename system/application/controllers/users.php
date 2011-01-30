@@ -4,7 +4,7 @@ class Users extends Controller {
   function __construct() {
     parent::Controller();
     $GLOBALS['login_check'] = 1;
-    $GLOBALS['login_check_exclude'] = array('signup', 'profile', 'login', 'logout');
+    $GLOBALS['login_check_exclude'] = array('signup', 'login', 'profile', 'logout');
     $this->load->helper('datamapper');
   }
 
@@ -23,12 +23,12 @@ class Users extends Controller {
         $this->session->unset_userdata('challenge');
         if ($this->input->post('pwhash') === $expected_response) {
           // success
-          $this->_login_success($u->uni); 
+          $this->_login_success($u); 
         } else if (hash_hmac('sha1', $this->input->post('password'),
                     $this->config->item('server_salt'))  === $u->password) {
           // If the client had no javascript, we hash the cleartext password.
           $this->session->set_flashdata('msg', "Your password was sent in cleartext because you did not enable Javascript. Please enable Javascript for security.");
-          $this->_login_success($u->uni);
+          $this->_login_success($u);
         } else {
           $error = TRUE;
         }
@@ -53,11 +53,13 @@ class Users extends Controller {
     $this->load->view('form_password.php', $data); 
   }
 
-  function _login_success($uni) {
-    $this->session->set_userdata('uni', $uni);
+  function _login_success($u) {
+    $this->session->set_userdata('uni', $u->uni);
+    $this->session->set_userdata('user_id', $u->id);
     $redirect_url = $this->session->userdata('login_redirect');
     $this->session->unset_userdata('login_redirect');
-    redirect($redirect_url);
+    #redirect($redirect_url);
+    redirect();
   }
   
   function logout() {

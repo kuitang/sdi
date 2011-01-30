@@ -14,7 +14,8 @@ class Hooks {
         }
         $m = get_instance()->router->method;
         if (!in_array($m, $GLOBALS['login_check_exclude'])) {
-          $this->_CI->session->set_userdata('login_redirect', current_url());
+          $this->_CI->session->set_userdata('login_redirect', uri_string());
+          $this->_CI->session->set_flashdata('msg', 'Please log in to view this page.');
           redirect('users/login');
       }
     }

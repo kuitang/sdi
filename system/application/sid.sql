@@ -4,8 +4,7 @@
 DROP TABLE IF EXISTS "ci_sessions";
 CREATE TABLE "ci_sessions" (
   session_id VARCHAR PRIMARY KEY DEFAULT "0" NOT NULL, 
-  ip_address VARCHAR NOT NULL DEFAULT "0",
-  user_agent VARCHAR NOT NULL,
+  ip_address VARCHAR NOT NULL DEFAULT "0", user_agent VARCHAR NOT NULL,
   last_activity INTEGER NOT NULL DEFAULT "0",
   user_data text
 );
@@ -28,9 +27,9 @@ CREATE TABLE "users" (
   -- User must click this link in the email.
   verify_token VARCHAR,
   -- Administrator must activate the account.
-  is_active BOOLEAN DEFAULT FALSE NOT NULL,
-  is_admin  BOOLEAN DEFAULT FALSE NOT NULL,
-  is_public BOOLEAN DEFAULT TRUE NOT NULL,
+  is_active BOOLEAN DEFAULT 0 NOT NULL,
+  is_admin  BOOLEAN DEFAULT 0 NOT NULL,
+  is_public BOOLEAN DEFAULT 1 NOT NULL,
   bio       TEXT,
   contact   TEXT
 );
@@ -52,19 +51,19 @@ INSERT INTO "approvedunis" VALUES(4, 'bb1000');
 DROP TABLE IF EXISTS "projects";
 -- Use FTS3 http://www.sqlite.org/fts3.html#tokenizer for full text search.
 -- Very sqlite specific. MySQL handles full text much differently.
-CREATE VIRTUAL TABLE "projects" USING fts3(
+-- projects have a rowid.
+CREATE TABLE "projects" (
   id            INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
   created       INTEGER NOT NULL,
   updated       INTEGER NOT NULL,
   title         VARCHAR NOT NULL,
   start_date    DATETIME,
   end_date      DATETIME,
-  location_lat  REAL NOT NULL,
-  location_lon  REAL NOT NULL,
-  text          TEXT NOT NULL
+  text          TEXT NOT NULL,
+  user_id       INTEGER
 );
-INSERT INTO "projects" VALUES(1, datetime('now', 'localtime'), datetime('now', 'localtime'), "Project 1", NULL, NULL, 40.807524, -73.964231, "A project about Columbia");
-INSERT INTO "projects" VALUES(2, datetime('now', 'localtime'), datetime('now', 'localtime'), "Project 2", NULL, NULL, 40.75388918270174, -73.98163318634033, "A project about NYU");
+INSERT INTO "projects" VALUES(1, datetime('now', 'unixepoch'), datetime('now', 'unixepoch'), "Project 1", NULL, NULL, "A project about Columbia", 1);
+INSERT INTO "projects" VALUES(2, datetime('now', 'unixepoch'), datetime('now', 'unixepoch'), "Project 2", NULL, NULL, "A project about NYU", 2);
 
 DROP TABLE IF EXISTS "tags";
 CREATE TABLE "tags" (
@@ -79,8 +78,8 @@ INSERT INTO "tags" (id, name, category) VALUES(3, 'nyc', 'location');
 DROP TABLE IF EXISTS "projects_tags";
 CREATE TABLE "projects_tags" (
   id            INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-  tag_id        INTEGER,
   project_id    INTEGER,
+  tag_id        INTEGER,
   FOREIGN KEY(tag_id) REFERENCES tags(id),
   FOREIGN KEY(project_id) REFERENCES projects(id)
 );

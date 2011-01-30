@@ -1,0 +1,5 @@
+<h1><?= $title ?></h1>
+<?php if(isset($errors)): ?>
+<?= $errors ?>
+<?php endif;?>
+<?= $form ?>

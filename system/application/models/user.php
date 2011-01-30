@@ -41,10 +41,12 @@ class User extends DataMapper {
     return hash_hmac('sha1', $pass, get_instance()->config->item('server_salt'));
   }
 
-  function _is_approved($uni) {
+  function _is_approved($field) {
     $approved_unis = new Approveduni();
-    if (empty($approved_unis->where('uni', $uni)->get()->id)) {
+    $approved_unis->where('uni', $this->{$field})->get();
+    if (empty($approved_unis->id)) {
       $this->error_message('uni', "Your UNI was not approved on the Scholars' database.");
+      return FALSE;
     } else {
       return TRUE;
     }

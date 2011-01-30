@@ -1,3 +1,12 @@
+# Getting Started
+
+## Install Dependencies
+You need [xdebug](http://xdebug.org/download.php) for development installed.
+All other packages are installed in ./lib
+
+Or if you have PECL,
+  pecl install xdebug
+
 There are various configurations that point to /~kuitang/sdi as the application
 root. If you are running on a different environment, change those:
   - In .htaccess

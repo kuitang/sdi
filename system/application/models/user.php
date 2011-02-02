@@ -2,6 +2,7 @@
 class User extends DataMapper {
   // TODO: add project
   var $has_many = array('project');
+
   var $validation = array(
     /* Validators for forms have a 'type' key. This is implicity just text. */
     'full_name' => array(
@@ -11,6 +12,19 @@ class User extends DataMapper {
     'major' => array(
       'label' => 'Major',
       'rules' => array('trim', 'required')
+    ),
+    'scholar' => array(
+      'label' => 'Scholar Type',
+      'rules' => array('trim', 'required'),
+      'type'  => 'dropdown',
+      'values' => array(
+        'John W. Kluge',
+        'John Jay',
+        'C. Prescott Davis',
+        'Global',
+        'Egleston',
+        'Science Research Fellow'
+      ),
     ),
     'year' => array(
       'label' => 'Graduation Year (20xx)',

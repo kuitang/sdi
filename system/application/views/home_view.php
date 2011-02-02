@@ -2,9 +2,11 @@
 
 <h1><?= $project->title ?></h1>
 
-<p id="byline">By <?= $author->full_name ?></p>
-<p id="start_date"><?= $project->start_date ?></p>
-<p id="end_date"><?= $project->end_date ?></p>
-<p id="text"><?= $project->text ?></p>
+<?php include 'post_core.php' ?>
 
+<div id="comment">
+<h3>Comments</h3>
+Not implemented.
+</div>
+<div id="contact"></div>
 <?php include 'footer.php'; ?>

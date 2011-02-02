@@ -1,35 +1,4 @@
 <?php
-// Example
-//     return "<input type=\"text\" id=\"$field\" name=\"$field\" value=\"$value\" onFocus=\"showCalendar(this);\" onBlur=\"hideCalendar(this);\" />";
-
-function input_datepicker($object, $field, $value, $options) {
-  return "<input type=\"text\" id=\"$field\" name=\"$field\" value=\"$value\" class=\"datepicker\"/>";
-}
-#function input_googlemap($object, $field, $value, $options) {
-#  $text = '<input type="text" id="googlemap-address" name="googlemap-address" />';
-#  $map  = '<div id="map-canvas" style="width:500px; height:300px"></div>';
-#  $js = <<<END
-#<script>
-# $(document).ready(function() {
-#  $(window).keydown(function(event){
-#    if(event.keyCode == 13) {
-#      event.preventDefault();
-#      return false;
-#    }
-#  });
-# $('#googlemap-address').keyup(function(e) {
-#  if(e.keyCode == 13) {
-#    alert('Enter key was pressed.');
-#  }
-#}); 
-#$('#googlemap-address').submit(function() {
-#  return false;
-#});
-# });
-#</script>
-#END;
-#  return "$js $text $map";
-#}
 
 class Project extends DataMapper {
   var $has_one = array('user');
@@ -48,7 +17,7 @@ class Project extends DataMapper {
       'label' => 'End Date (if applicable)',
     ),
     'field' => array(
-      'label' => 'Field/Discipline',
+      'label' => 'Field/Discipline (type for suggestions)',
       #'rules' => array('required')
     ),
     'type' => array(
@@ -63,6 +32,12 @@ class Project extends DataMapper {
 #      'label' => 'Map',
 #      'type' => 'googlemap'
 #    ),
+    'show_contact' => array(
+      'label' => 'Show Scholars Your Contact Info',
+      'rules' => array('required'),
+      'type' => 'radio',
+      'values' => array('yes', 'no'),
+    ),
     'text' => array(
       'label' => 'Description',
       'type' => 'textarea',

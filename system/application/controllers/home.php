@@ -5,7 +5,7 @@ class Home extends Controller {
     parent::Controller();
     $this->load->helper('datamapper');
     $GLOBALS['login_check'] = 1;
-    $GLOBALS['login_check_exclude'] = array('index', 'view');
+    $GLOBALS['login_check_exclude'] = array('index');
   }
 
   function _current_user() {
@@ -53,6 +53,12 @@ class Home extends Controller {
     if ($_SERVER['REQUEST_METHOD'] == 'POST') {
       // Get the scalars.
       $project->from_array($_POST);
+      // Convert properly to boolean
+      if ($project->show_contact == 'yes') {
+        $project->show_contact = TRUE;
+      } else {
+        $project->show_contact = FALSE;
+      }
       // Handle the relations (tags)
       if ($project->save($this->_current_user())) { // validations run
         $this->_save_tags($project);
@@ -74,7 +80,7 @@ class Home extends Controller {
 
     $data['form'] = $project->render_form(
       array('title', 'start_date', 'end_date', 'field', 'type', 'location',
-      'text')
+      'text', 'show_contact')
     );
 
     $this->load->view('form_project', $data);

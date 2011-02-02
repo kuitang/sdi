@@ -9,13 +9,17 @@ if ($uni) {
   $name = $u->full_name;
   $admin = $u->is_admin;
 }
+
 ?><!DOCTYPE html>
 <html>
 <head>
   <title><?php echo $title ?> | Scholars Information Database</title>
+<!-- TODO: Optimize, esp. use Google's versions of some. Compile down rest. -->
   <script src="<?= site_url('js/custom.js') ?>" type="text/javascript"></script>
   <script src="<?= site_url('js/jquery-1.4.4.min.js') ?>" type="text/javascript"></script>
   <script src="<?= site_url('js/jquery-ui-1.8.9.custom.min.js') ?>" type="text/javascript"></script>
+  <script src="<?= site_url('js/TextboxList.js') ?>" type="text/javascript"></script>
+  <script src="<?= site_url('js/TextboxList.Autocomplete.js') ?>" type="text/javascript"></script>
   <link rel="stylesheet" href="<?= site_url('css/blueprint/screen.css') ?>" type="text/css" media="screen, projection" />
   <link rel="stylesheet" href="<?= site_url('css/blueprint/print.css') ?>" type="text/css" media="print"/>
 <!--  <link rel="stylesheet" href="<?= site_url('css/form.css') ?>" type="text/css" /> -->

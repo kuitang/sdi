@@ -8,6 +8,19 @@ class Users extends Controller {
     $this->load->helper('datamapper');
   }
 
+  function profile($id) {
+    $u = new User();
+    $u->where('id', $id)->get();
+    if (!empty($u->id)) {
+      $data = array();
+      $data['user'] = $u;
+      $this->load->view('user_profile.php', $data);
+    } else {
+      redirect();
+      $this->session->set_flashdata('msg', "User not found.");
+    }
+  }
+
   // Implements challenge-response authentication.
   // TODO: Abstract out.
   function login() {
@@ -70,7 +83,7 @@ class Users extends Controller {
   function signup() {
     $u = new User();
     $fields_render = array('full_name', 'uni', 'year', 'major',
-      'password', 'confirm', 'pwhash', 'server_salt' => array(
+      'password', 'confirm', 'pwhash', 'scholar', 'server_salt' => array(
         'value' => $this->config->item('server_salt')));
     $data['title'] = 'Sign up';
     if ($_SERVER['REQUEST_METHOD'] == 'POST') {
@@ -139,9 +152,6 @@ class Users extends Controller {
     redirect();
   }
 
-  function profile($user_id) {
-  }
-  
   function editprofile() {
   }
 }

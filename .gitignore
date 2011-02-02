@@ -1,4 +1,4 @@
 system/cache/*
 system/logs/*
-*.swp
+*.sw*
 Session.vim

@@ -34,7 +34,8 @@ class Project extends DataMapper {
 #    ),
     'show_contact' => array(
       'label' => 'Show Scholars Your Contact Info',
-      'rules' => array('required'),
+      # TODO: Investigate why this fails.
+      #'rules' => array('required'),
       'type' => 'radio',
       'values' => array('yes', 'no'),
     ),

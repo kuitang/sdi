@@ -38,7 +38,8 @@ class Home extends Controller {
         // Make a new tag
         $qq = new Tag();
         $qq->category = $category;
-        $qq->name = $_POST[$category];
+        # We use , to separate tags
+        $qq->name = str_replace(',', '', $_POST[$category]);
         $qq->save($project);
       } else {
         // Use this tag
@@ -98,6 +99,24 @@ class Home extends Controller {
     $data['project'] = $project;
     $data['author'] = $project->user->get();
     $this->load->view('home_view', $data);
+  }
+
+  # Expects tag1,tag2,tag2
+  function browse($tags_str) {
+    $tags = new Tag();
+    $tags_arr = $split(',', $tags_str);
+    $tags = $tags->group_start();
+    foreach ($tags_arr as $t) {
+      $tags = $tags->where('name', $t);
+    }
+    $tags->group_end()->get();
+
+    # TODO: Think about and finish.
+
+    $data = array();
+    $data['title'] = "Browsing $tags_str";
+    #$data['posts'] = $
+    $this->load->view('home_browse', $data);
   }
 
   function info() {

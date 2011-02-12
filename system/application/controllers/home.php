@@ -19,12 +19,9 @@ class Home extends Controller {
   }
 
   function index() {
-    $data['title'] = 'Home';
+    $data['title'] = 'Scholars Information Database Home';
     $p = new Project();
     $p->order_by('updated', 'desc')->get(10);
-    foreach ($p as $pp) {
-      $pp->user->get();
-    }
     $data['posts'] = $p;
     $this->load->view('home_index', $data);
   }
@@ -94,7 +91,7 @@ class Home extends Controller {
 
   function view($id) {
     $project = new Project();
-    $project->where('id', intval($id))->get();
+    $project->get_by_id(intval($id));
     $data['title'] = $project->title;
     $data['project'] = $project;
     $data['author'] = $project->user->get();
@@ -103,18 +100,17 @@ class Home extends Controller {
 
   # Expects tag1,tag2,tag2
   function browse($tags_str) {
-    $tags = new Tag();
+    $projects = new Project();
     $tags_arr = explode(',', $tags_str);
-    $tags = $tags->group_start();
-    foreach ($tags_arr as $t) {
-      $tags = $tags->where('name', $t);
+    $projects = $projects->or_group_start();
+    foreach ($tags_arr as $tag) {
+      $projects = $projects->where_related_tag('name', $tag);
     }
-    $tags->group_end()->get();
-
-    # TODO: Think about and finish.
+    $projects->group_end()->get();
 
     $data = array();
     $data['title'] = "Browsing $tags_str";
+    $data['posts'] = $projects;
     #$data['posts'] = $
     $this->load->view('home_index', $data);
   }

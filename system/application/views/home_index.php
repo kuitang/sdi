@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<h1>Welcome to the Scholars Information Database</h1>
+<h1><?= $title ?></h1>
 
 <p id="purpose">{Purpose of the SID}</p>
 <div id="home-form">
@@ -8,10 +8,12 @@
 
 <section id="post-list">
 <?php foreach($posts as &$project): ?>
+<?php $project->user->get(); ?>
 <div id="project">
   <h3><?= $project->title ?></h3>
-  <?php include 'post_core.php' ?>
-  <?php $pid = $project->id; ?>
+  <?php include 'post_core.php';
+    $pid = $project->id;
+  ?>
   <!--TODO: filter. Either by word/character count or paragraph split. -->
   <ul class="horizontal">
     <li><?= anchor("home/view/$pid", 'View') ?></li>

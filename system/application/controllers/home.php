@@ -104,7 +104,7 @@ class Home extends Controller {
   # Expects tag1,tag2,tag2
   function browse($tags_str) {
     $tags = new Tag();
-    $tags_arr = $split(',', $tags_str);
+    $tags_arr = explode(',', $tags_str);
     $tags = $tags->group_start();
     foreach ($tags_arr as $t) {
       $tags = $tags->where('name', $t);
@@ -116,7 +116,7 @@ class Home extends Controller {
     $data = array();
     $data['title'] = "Browsing $tags_str";
     #$data['posts'] = $
-    $this->load->view('home_browse', $data);
+    $this->load->view('home_index', $data);
   }
 
   function info() {

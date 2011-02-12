@@ -10,6 +10,27 @@ if ($uni) {
   $admin = $u->is_admin;
 }
 
+/* SQL IN THE VIEW?! NOO!!! */
+$tag_list = array( 'field' => '',
+               'type' => '',
+               'location' => ''
+             );
+$tag_names = array ( 'field' => 'Field/Discipline',
+                     'type'  => 'Type of Project',
+                     'location' => 'Location' );
+
+foreach ($tag_list as $k => &$v) {
+  $v = new Tag();
+  $v->get_by_category($k);
+}
+
+$tag_name_base_url = '';
+if ($this->uri->rsegment(1) == 'home' && $this->uri->rsegment(2) == 'browse') {
+  $tag_name_base_url = '/home/browse/' . $this->uri->rsegment(3) . ',';
+} else {
+  $tag_name_base_url = '/home/browse/';
+}
+
 ?><!DOCTYPE html>
 <html>
 <head>
@@ -75,20 +96,15 @@ if ($uni) {
 <nav id="taglist">
 <span class="center caps">Browse by tags</span>
 <ul>
-  <li><span class="caps">Field/Discipline:</span>
+<?php foreach($tag_list as $k => &$v): ?>
+  <li><span class="caps"><?= $tag_names[$k] ?>:</span></li>
     <ul>
-      <li>Forthcoming</li>
+      <?php foreach($v as &$tag): ?>
+      <li><?= anchor($tag_name_base_url . $tag->name, $tag->name); ?></li>
+      <?php endforeach; ?>
     </ul>
   </li>
-  <li><span class="caps">Type of Project:</span>
-    <ul>
-      <li>Forthcoming</li>
-    </ul>
-  </li>
-  <span class="caps">Location:</span>
-    <ul>
-      <li>Forthcoming</li>
-    </ul>
+<?php endforeach; ?>
 </ul>
 </nav>
 </div>

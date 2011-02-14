@@ -24,12 +24,8 @@ foreach ($tag_list as $k => &$v) {
   $v->get_by_category($k);
 }
 
-$tag_name_base_url = '';
-if ($this->uri->rsegment(1) == 'home' && $this->uri->rsegment(2) == 'browse') {
-  $tag_name_base_url = '/home/browse/' . $this->uri->rsegment(3) . ',';
-} else {
-  $tag_name_base_url = '/home/browse/';
-}
+isset($tag_name_base_url) || $tag_name_base_url = '/home/browse/';
+
 
 ?><!DOCTYPE html>
 <html>
@@ -100,7 +96,12 @@ if ($this->uri->rsegment(1) == 'home' && $this->uri->rsegment(2) == 'browse') {
   <li><span class="caps"><?= $tag_names[$k] ?>:</span></li>
     <ul>
       <?php foreach($v as &$tag): ?>
-      <li><?= anchor($tag_name_base_url . $tag->name, $tag->name); ?></li>
+        <?php if(isset($tags_arr) && in_array($tag->name, $tags_arr)): ?>
+          <!-- TODO: eventually permit unselecting a tag -->
+          <li class="selected-tag"><?= $tag->name; ?></li>
+        <?php else: ?>
+          <li class="unselected_tag"><?= anchor($tag_name_base_url . $tag->name, $tag->name); ?></li>
+        <?php endif; ?>
       <?php endforeach; ?>
     </ul>
   </li>

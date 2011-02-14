@@ -102,16 +102,17 @@ class Home extends Controller {
   function browse($tags_str) {
     $projects = new Project();
     $tags_arr = explode(',', $tags_str);
-    $projects = $projects->or_group_start();
-    foreach ($tags_arr as $tag) {
-      $projects = $projects->where_related_tag('name', $tag);
+    foreach ($tags_arr as $tag_str) {
+      //var_dump($tag_str);
+      $projects = $projects->or_where_related_tag('name', $tag_str);
     }
-    $projects->group_end()->get();
+    $projects->get();
 
     $data = array();
     $data['title'] = "Browsing $tags_str";
     $data['posts'] = $projects;
-    #$data['posts'] = $
+    $data['tag_name_base_url'] = '/home/browse/' . $this->uri->rsegment(3) . ',';
+    $data['tags_arr'] = $tags_arr;
     $this->load->view('home_index', $data);
   }
 

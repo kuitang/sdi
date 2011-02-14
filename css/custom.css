@@ -58,6 +58,11 @@ nav ul {
   color: rgb(230, 230, 230);
 }
 
+#leftcol #taglist .selected-tag {
+  color: #6699CC;
+  font-weight: bold;
+}
+
 /* #maincol {
   background: rgb(212, 233, 243);
 } */

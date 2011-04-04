@@ -13,7 +13,7 @@
 */
 
 // CHANGE THIS PART IF YOU'RE RUNNING ON A DIFFERENT MACHINE!
-$config['base_url']	= "/~kuitang/sdi";
+$config['base_url']	= "/~debattama/sdi/";
 
 /*
 |--------------------------------------------------------------------------
@@ -270,7 +270,7 @@ $config['cookie_path']		= "/";
 | COOKIE data is encountered
 |
 */
-$config['global_xss_filtering'] = TRUE;
+$config['global_xss_filtering'] = FALSE;
 
 /*
 |--------------------------------------------------------------------------

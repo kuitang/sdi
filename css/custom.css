@@ -1,12 +1,13 @@
 body {
   font-size: 10pt;
   /* Columbia blue */
-/*  background: #75B2DD; */
+/* */
+ background: #75B2DD; /* */
   /* Twitter blue */
   /*
   background: rgb(212, 233, 243);
   */
-  background-image: url('/~kuitang/sdi/images/background.png');
+  /*background-image: url('/~kuitang/sdi/images/background.png');*/
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: right top;
@@ -33,18 +34,17 @@ nav ul {
 
 
 #leftcol, #leftcol * {
-/*  background: rgb(212, 233, 243); */
-  background: black;
-  color: white;
+  background: #001A57;
 }
 #leftbar {
   text-align: center;
   text-transform: uppercase;
 }
 #leftbar a {
+  font-weight: bold;
   display: block;
   border-bottom-style: dotted;
-
+  color: white;
   border-color: rgb(120, 120, 120);
   border-width: 1px;
   margin-bottom: 2px;
@@ -54,19 +54,28 @@ nav ul {
   height: 40px;
 }
 
-#leftcol #taglist * {
-  color: rgb(230, 230, 230);
+#taglist {
+  /*color: rgb(230, 230, 230);*/
+  color: white;
 }
 
-#leftcol #taglist .selected-tag {
-  color: #6699CC;
+#taglist a {
+   color: #75B2DD;
+}
+
+#leftcol #taglist .selected_tag {
+  color: #75B2DD;
   font-weight: bold;
 }
 
-/* #maincol {
-  background: rgb(212, 233, 243);
-} */
+#leftcol #taglist .unselected_tag {
+  color: #75B2DD;
+}
 
+#maincol {
+  /*background: rgb(212, 233, 243);*/
+  text-align: left;
+} 
 
 /* Reset some blueprint typography for our own use */
 
@@ -75,10 +84,20 @@ header {
 }
 
 header #logo {
-  font-size: 22pt;
+  font-family: "Garamond","Times New Roman", Times, serif;
+  font-size: 44pt;
   text-shadow: 3px 3px 2px LightSlateGray;
-/*  color: #75B2DD; */
-  float: left;
+  color: #001A57;
+  float: center;
+  background: transparent;
+}
+
+header #subtitle {
+  font-family: "Garamond","Times New Roman", Times, serif;
+  font-size: 18pt;
+  text-shadow: 3px 3px 2px LightSlateGray;
+  color: rgb(120, 120, 120);
+  float: center;
   background: transparent;
 }
 
@@ -125,7 +144,7 @@ nav ul#user {
   color: white;
   float: right;
   padding: 5px 5px 5px 5px;
-  background: black;
+  background: #001A57;
 }
 
 nav ul#user li {
@@ -140,7 +159,6 @@ input#search-query {
 }
 
 nav ul li a {
-  font-weight: bold;
   text-decoration: none;
 }
 

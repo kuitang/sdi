@@ -1,7 +1,7 @@
 php_value short_open_tag 1
-php_value zend_extensions /Users/kuitang/sdi/xdebug.so
+php_value zend_extensions /Users/debattama/Sites/sdi/xdebug.so
 Options FollowSymLinks
 
 RewriteEngine on
 RewriteCond $1 !^(index\.php|images|user_guide|css|js|static|robots\.txt)
-RewriteRule ^(.*)$ /~kuitang/sdi/index.php/$1 [L]
+RewriteRule ^(.*)$ /~debattama/sdi/index.php/$1 [L]

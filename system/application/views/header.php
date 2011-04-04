@@ -52,9 +52,6 @@ isset($tag_name_base_url) || $tag_name_base_url = '/home/browse/';
 <div class="container">
 
 <header id="header" class="span-24 last">
-<div id="logo" class="alt">
-<b>S</b>cholars <b>I</b>nformation <b>D</b>atabase
-</div>
 <nav class="navcol">
 <ul id="user" class="col">
   <li class="leftnav">
@@ -78,6 +75,17 @@ isset($tag_name_base_url) || $tag_name_base_url = '/home/browse/';
   <?= $flashmsg ?>
 </div>
 <?php endif; ?>
+
+<br /><br /> <!-- QUICK FIX: this just lines up the boxes correctly vertically -->
+
+<div class="col">
+<table style="background-color: #ffffff;"><tr>
+<td style="text-align: right;"><img src="images/cusp.png"></td>
+<td style="text-align: center;"><div id="logo"><b>S</b>cholars <b>I</b>nformation <b>D</b>atabase</div><br />
+<div id="subtitle">C. Prescott Davis | Egleston | John Jay | Kluge | Science Research Fellows</div></td>
+</tr></table>
+</div>
+
 </header>
 <div class="span-5">
 <div class="col navcol" id="leftcol">
@@ -90,15 +98,15 @@ isset($tag_name_base_url) || $tag_name_base_url = '/home/browse/';
 </nav>
 <hr />
 <nav id="taglist">
-<span class="center caps">Browse by tags</span>
+<span class="center caps">Browse by tags</span><br /><br />
 <ul>
 <?php foreach($tag_list as $k => &$v): ?>
-  <li><span class="caps"><?= $tag_names[$k] ?>:</span></li>
+  <li><b><?= $tag_names[$k] ?>:</b></li>
     <ul>
       <?php foreach($v as &$tag): ?>
         <?php if(isset($tags_arr) && in_array($tag->name, $tags_arr)): ?>
           <!-- TODO: eventually permit unselecting a tag -->
-          <li class="selected-tag"><?= $tag->name; ?></li>
+          <li class="selected_tag"><b><?= $tag->name; ?></b></li>
         <?php else: ?>
           <li class="unselected_tag"><?= anchor($tag_name_base_url . $tag->name, $tag->name); ?></li>
         <?php endif; ?>

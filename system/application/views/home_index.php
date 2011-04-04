@@ -1,8 +1,8 @@
 <?php include 'header.php'; ?>
 
-<h1><?= $title ?></h1>
+<!-- <h1><?= $title ?></h1>
 
-<p id="purpose">{Purpose of the SID}</p>
+<p id="purpose">{Purpose of the SID}</p> -->
 <div id="home-form">
 </div>
 
